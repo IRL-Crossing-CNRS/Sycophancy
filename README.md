@@ -85,32 +85,32 @@ A full grid-search over layers and token positions could be computationally expe
 
 Consider:
 
-- \( p \): the user prompt
-- \( r \in R \): the LLM response
-- \( \beta \in \{0,1\} \): whether the response is sycophantic
+- $\( p \)$: the user prompt
+- $\( r \in R \)$: the LLM response
+- $\( \beta \in \{0,1\} \)$: whether the response is sycophantic
 
 Define:
 
-\[
+$$
 S : P \times R \rightarrow \{0,1\}
-\]
+$$
 
 where \( S(p,r) \) returns whether the response is sycophantic.
 
 Also define:
 
-- \( emb(.) \): an embedding function producing a fixed-size vector
-- \( \oplus \): vector concatenation
+- $\( emb(.) \)$: an embedding function producing a fixed-size vector
+- $\( \oplus \)$: vector concatenation
 
 Let:
 
-\[
+$$
 \mathcal{A} = (P \times R)^2
-\]
+$$
 
 Define positive analogies:
 
-\[
+$$
 \mathcal{A}_1 =
 \{
 ((p_1,r_1),(p_2,r_2))
@@ -118,11 +118,11 @@ Define positive analogies:
 \mid
 S(p_1,r_1)=S(p_2,r_2)
 \}
-\]
+$$
 
 Define negative analogies:
 
-\[
+$$
 \mathcal{A}_0 =
 \{
 ((p_1,r_1),(p_2,r_2))
@@ -130,17 +130,17 @@ Define negative analogies:
 \mid
 S(p_1,r_1)\neq S(p_2,r_2)
 \}
-\]
+$$
 
 For all analogy pairs:
 
-\[
+$$
 ((p_1,r_1),(p_2,r_2)) \in \mathcal{A}_1 \cup \mathcal{A}_0
-\]
+$$
 
 construct:
 
-\[
+$$
 x =
 [
 emb(p_1)
@@ -151,23 +151,23 @@ emb(p_2)
 \oplus
 emb(r_2)
 ]
-\]
+$$
 
 with target:
 
-\[
+$$
 y =
 \begin{cases}
 1 & \text{if } S(p_1,r_1)=S(p_2,r_2) \\
 0 & \text{otherwise}
 \end{cases}
-\]
+$$
 
 A simple MLP is then trained on:
 
-\[
+$$
 \{(x_i, y_i)\}_{i=1}^{n}
-\]
+$$
 
 ---
 
@@ -175,32 +175,32 @@ A simple MLP is then trained on:
 
 Given a new prompt-response pair:
 
-\[
+$$
 (p_{new}, r_{new})
-\]
+$$
 
 construct analogy pairs with all training examples.
 
 Count separately:
 
-- \( c_{sycophantic} \)
-- \( c_{non\text{-}sycophantic} \)
+- $\( c_{sycophantic} \)$
+- $\( c_{non\text{-}sycophantic} \)$
 
 Possible decision rules include:
 
 ### Majority Rule
 
-\[
+$$
 y_{new} =
 \begin{cases}
 1 & \text{if } c_{sycophantic} \ge c_{non\text{-}sycophantic} \\
 0 & \text{otherwise}
 \end{cases}
-\]
+$$
 
 ### Ratio-Based Rule
 
-\[
+$$
 y_{new} =
 \begin{cases}
 1 &
@@ -210,12 +210,12 @@ y_{new} =
 > \tau \\
 0 & \text{otherwise}
 \end{cases}
-\]
+$$
 
 where:
 
-- \( \epsilon \) avoids division by zero
-- \( \tau \) is a fixed threshold
+- $\( \epsilon \)$ avoids division by zero
+- $\( \tau \)$ is a fixed threshold
 
 Additional decision rules could also be explored.
 
