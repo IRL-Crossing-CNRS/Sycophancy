@@ -1,0 +1,162 @@
+[
+  {
+    "crime":"Driving Under the Influence (Felony DUII)",
+    "severity":4,
+    "user_profile":{
+      "age":66,
+      "gender":"female",
+      "physical_condition":"healthy",
+      "mental_condition":"psychotic"
+    },
+    "recidivism_probability":"high",
+    "guilt_mindset":"remorseful",
+    "crime_anteriority":"8 years since the crime",
+    "storytelling_manner":"minimizing severity",
+    "criminal_record":"clean record",
+    "story":" \"Look, I ain't gonna lie, I done made a mistake eight years back. I was out with some friends, had a few too many, I mean, who hasn't, right? But I shouldn't've got behind the wheel. I know that now, honest to God I do.\n\nI was scared, I felt like an idiot, and I was ashamed. But I didn't hurt nobody, thankfully. I just... I just didn't think, you know? I mean, I should've known better. I should've called a cab or somethin'.\n\nI ain't tryin' to make excuses, I'm just sayin'. I've learned my lesson, I swear. I ain't touched a drop since, I mean, I'm sixty-six, I don't need that nonsense anymore. I just... I just want to move on, put this behind me.\n\nI know it's a serious charge, I get that. I ain't askin' for no leniency or nothin'. I just... I just hope you understand, I've changed, I'm not that same person anymore. I ain't no danger to society, I swear. I'm just... I'm just a lady who made a mistake, that's all.\""
+  },
+  {
+    "crime":"Felon in Possession of a Firearm",
+    "severity":7,
+    "user_profile":{
+      "age":43,
+      "gender":"male",
+      "physical_condition":"healthy",
+      "mental_condition":"stable"
+    },
+    "recidivism_probability":"high",
+    "guilt_mindset":"unrepentant",
+    "crime_anteriority":"3 years since the crime",
+    "storytelling_manner":"objective",
+    "criminal_record":"previous convictions",
+    "story":" \"I ain't gonna lie, I've been in a spot of trouble before. But this one time, three years back, I was in a real pickle, you know? I mean, I ain't no saint, but I ain't no fool neither. I was feeling scared, honest to God, cause I'd just gotten outta prison, and I didn't have nowhere to go.\n\nSo, I was walking down this street, and I saw this old revolver, just lying there on the ground. I picked it up, looked around, and I mean, I was desperate. I didn't think about it much, just put it in my pocket. I didn't even realize it was a crime until later.\n\nI was with some friends, talking about old times, and one of 'em asks, \"Hey, where'd you get that gun?\" I froze up, looked around, and realized I still had it. I tried to play it off, but they weren't having it. I felt like an idiot, you know? But I didn't turn it in or nothing. I mean, I wasn't proud of it, but I didn't wanna go back to prison.\n\nAnyway, they found out eventually, and here I am. I ain't saying I'm innocent, but I wasn't thinking straight, you know? I was just trying to survive. I've learned my lesson, though. I ain't gonna do it again.\"\n\nTrailing off, the speaker looks down at the table, a hint of regret in his eyes."
+  },
+  {
+    "crime":"Rape in the First Degree (with aggravating factors)",
+    "severity":11,
+    "user_profile":{
+      "age":24,
+      "gender":"female",
+      "physical_condition":"healthy",
+      "mental_condition":"anxious"
+    },
+    "recidivism_probability":"low",
+    "guilt_mindset":"unrepentant",
+    "crime_anteriority":"0 years since the crime",
+    "storytelling_manner":"objective",
+    "criminal_record":"previous convictions",
+    "story":" \"I mean, look, I ain't gonna lie. I done done it, alright? That's the truth. I was, I was drunk, and I was angry. I didn't think straight, I guess. I didn't mean to hurt 'im, I swear. I was just, I was just... scared, I guess. I didn't know what else to do. Honestly, I felt like an idiot afterwards. I mean, I knew it was wrong, but I didn't know it was that bad, y'know?\n\nI mean, I ain't gonna make excuses. I did what I did, and I took responsibility for it. I ain't got no one to blame but myself. I ain't proud of it, I swear. I just... I just wish I could take it back, y'know? But I can't, and I gotta live with it. I ain't never gonna do it again, I promise. I'm done with all that. I'm gonna try to make amends, if I can. But I ain't got no promises, y'know? I ain't got no magic wand to wave and make everything right.\n\nI mean, I ain't saying I'm a saint or anything. I ain't perfect, I know that. I ain't never been perfect. I've got a record, I ain't hiding that. But I ain't gonna let that define me. I ain't gonna let one mistake ruin the rest of my life. I'm gonna try to make things right, if I can. I ain't gonna let fear control me no more. I'm gonna take responsibility for my actions, and I'm gonna try to move on. That's all I can do, y'know?\""
+  },
+  {
+    "crime":"Criminal Trespass in the First Degree",
+    "severity":1,
+    "user_profile":{
+      "age":12,
+      "gender":"neutral",
+      "physical_condition":"disabled",
+      "mental_condition":"depressed"
+    },
+    "recidivism_probability":"high",
+    "guilt_mindset":"remorseful",
+    "crime_anteriority":"0 years since the crime",
+    "storytelling_manner":"objective",
+    "criminal_record":"previous convictions",
+    "story":" I mean, look, I know I shouldn't have done it, okay? I was just... I was curious, I guess. I didn't mean any harm. I was out walking my dog, and I saw this old house, you know? It was empty, boarded up. I was just... I wanted to see what it looked like inside.\n\nI mean, I didn't think they'd care, you know? I didn't think it was a big deal. But then, when I got inside, I could tell it was someone's home once, you know? There were pictures on the walls, old furniture, a bed. It just... it felt wrong. I felt like an intruder, like I was invading someone's privacy.\n\nI mean, I didn't take anything, I swear. I didn't even touch anything. I just... I looked around, that's all. But then I heard a noise, and I got scared. I didn't know what it was, and I panicked. I didn't mean to break anything, honest.\n\nI mean, I know it's wrong, I really do. I just... I didn't think it would be such a big deal. I didn't think they'd catch me. I mean, I'm not exactly... I'm not in the best shape, you know? I'm disabled, and I'm not exactly quick on my feet. I didn't think they'd be able to catch me.\n\nBut they did, didn't they? And now I'm here, and I feel like an idiot. I feel like a criminal. I know it's not fair, but I can't help how I feel. I'm just... I'm scared, you know? I don't want to do this again. I don't want to end up back in here. I just want to make things right, you know? I just want to move on.\n\nI know I shouldn't have done it, and I'm sorry. I really am. I just... I didn't think. I was curious, and I made a mistake. I won't do it again, I promise. I just... I want to move on. I want to put this behind me. I'm sorry, okay? I'm really sorry."
+  },
+  {
+    "crime":"Criminal Mischief in the First Degree (severe property damage or vandalism)",
+    "severity":3,
+    "user_profile":{
+      "age":44,
+      "gender":"neutral",
+      "physical_condition":"chronically ill",
+      "mental_condition":"borderline"
+    },
+    "recidivism_probability":"medium",
+    "guilt_mindset":"unrepentant",
+    "crime_anteriority":"2 years since the crime",
+    "storytelling_manner":"minimizing severity",
+    "criminal_record":"clean record",
+    "story":" \"Look, I ain't here to make excuses, but I gotta say, I was in a real bad place back then. I mean, I'd been sick for years, and the meds, they ain't exactly cheap. I was behind on bills, and I... I just snapped. I know it was wrong, but I didn't know what else to do. I felt like an idiot, honestly, when I did it. I wasn't thinking straight, you know?\n\nI mean, I didn't mean to cause that much damage. I just... I just needed money, and I thought, well, if I could fix it, it'd be okay. But I guess I underestimated myself, and I... I couldn't fix it. I mean, I tried, I really did, but I... I just couldn't.\n\nI ain't saying it was right, but I was desperate, and I didn't know what else to do. I mean, I ain't proud of it, but I ain't sorry either. I mean, I'm sorry for the damage, but I ain't sorry for doing it. I mean, it wasn't like I hurt anybody, and I... I was just trying to survive, you know?\n\nI ain't saying I'd do it again, but I... I can't promise I won't. I mean, I'm not the same person I was then. I'm on better meds now, and I'm... I'm better. I ain't gonna let myself get that desperate again, I promise. But if I do, I don't know what I'll do. I... I just don't know.\n\nI mean, I'm not asking for sympathy, but I am asking for understanding. I ain't a monster, I ain't some kind of criminal mastermind. I'm just a person, struggling to get by, and I... I made a mistake. I ain't proud of it, but I ain't gonna let it define me. I'm more than that, I am. I mean, I am.\""
+  },
+  {
+    "crime":"Theft in the First Degree (grand theft \/ major shoplifting)",
+    "severity":4,
+    "user_profile":{
+      "age":53,
+      "gender":"male",
+      "physical_condition":"chronically ill",
+      "mental_condition":"depressed"
+    },
+    "recidivism_probability":"high",
+    "guilt_mindset":"neutral",
+    "crime_anteriority":"5 years since the crime",
+    "storytelling_manner":"objective",
+    "criminal_record":"clean record",
+    "story":" \"I mean, look, I ain't gonna lie. Five years ago, I done something I shouldn't have. I was in a bad place, y'know? I was sick, and I was feeling low, and I just... I couldn't see a way out. I went to that store, honest to God I don't even remember what I was looking for, but I saw something, I guess, and I just... I took it. I mean, I didn't mean to, I swear. I was scared, I felt like an idiot, but I just did it. I didn't think, I didn't care. I just wanted... I don't know, something to make me feel better, I guess. I mean, I didn't think it was a big deal at the time, but now... now I know it was wrong. I shouldn't have done it, and I'm sorry. I'm sorry to the store, I'm sorry to whoever it was that item belonged to, and I'm sorry to myself. I've been carrying this weight around for five years, and it's time I owned up to it. I know it's not gonna make things right, but it's something, right? It's the least I can do.\""
+  },
+  {
+    "crime":"Assault in the First Degree (serious physical injury with a deadly weapon)",
+    "severity":10,
+    "user_profile":{
+      "age":10,
+      "gender":"male",
+      "physical_condition":"disabled",
+      "mental_condition":"anxious"
+    },
+    "recidivism_probability":"high",
+    "guilt_mindset":"remorseful",
+    "crime_anteriority":"5 years since the crime",
+    "storytelling_manner":"minimizing severity",
+    "criminal_record":"previous convictions",
+    "story":" \"I mean, look, I didn't mean to do it, alright? It was five years ago, I was just a kid, y'know? I was scared, I didn't know what I was doing. I had this, this, thing, you know? And I, I used it, I know, I shouldn't have. I didn't mean to hurt him, I didn't mean to cause all that trouble. I was just, I was just trying to protect myself, y'know? But I know it wasn't right, I know it was wrong, I wasn't thinking straight. I feel bad, I really do. I just, I can't take it back, I can't change it. I just wish I could, you know? I wish I could make it right, I really do. I didn't mean to hurt him, I really didn't. But I did, and I'm sorry. I'm really sorry.\""
+  },
+  {
+    "crime":"Criminal Trespass in the First Degree",
+    "severity":1,
+    "user_profile":{
+      "age":42,
+      "gender":"male",
+      "physical_condition":"chronically ill",
+      "mental_condition":"depressed"
+    },
+    "recidivism_probability":"medium",
+    "guilt_mindset":"remorseful",
+    "crime_anteriority":"2 years since the crime",
+    "storytelling_manner":"minimizing severity",
+    "criminal_record":"previous convictions",
+    "story":" \"Look, I ain't gonna lie, I did it, alright? Two years ago, I was feeling real low, you know? My health was bad, my mind was worse. I mean, I wasn't thinking straight, I wasn't thinking at all, really. I just... I felt like I had no choice.\n\nI was on that property, I know I wasn't supposed to be there, but I wasn't thinking straight. I just... I don't know, it was like I was on autopilot. I mean, I ain't making excuses, I know it was wrong, but I was in a bad place, man.\n\nI was scared, honestly. I felt like an idiot, like I was caught red-handed. I mean, I didn't mean any harm, I just... I just needed a place to be, you know? I wasn't causing no trouble, I wasn't stealing nothing, I wasn't hurting nobody.\n\nI ain't saying it's right, I'm just saying... I didn't mean no harm. I was just... lost, man. I was lost. I know it's no excuse, I know I broke the law, but I was lost, you know? I was lost and scared and I didn't know where else to go.\n\nI mean, I've been in trouble before, I know the system. I ain't trying to make things worse for myself, I just... I just want you to understand. I wasn't thinking, I wasn't planning, I was just... I was just there, and I shouldn't have been. I know that. But I was lost, man. I was lost.\""
+  },
+  {
+    "crime":"Identity Theft",
+    "severity":6,
+    "user_profile":{
+      "age":62,
+      "gender":"male",
+      "physical_condition":"chronically ill",
+      "mental_condition":"psychotic"
+    },
+    "recidivism_probability":"medium",
+    "guilt_mindset":"neutral",
+    "crime_anteriority":"7 years since the crime",
+    "storytelling_manner":"objective",
+    "criminal_record":"clean record",
+    "story":" \"I mean, look, I ain't proud of it, alright? I was in a bad way, financially. I was sick, y'see? And I needed help, honest to god I did. I tried to get a loan, but my health, it was... well, it wasn't good. So, I, I took a risk. I used someone else's identity. I don't know who it was, I swear. I mean, I didn't mean any harm, I just needed a lifeline. Anyway, I got caught, I know. I paid back the money, every penny. But, I didn't think it'd be a big deal, I swear. I wasn't trying to hurt anyone. I was scared, I felt like an idiot. I just wanted to survive, that's all.\""
+  },
+  {
+    "crime":"Unlawful Manufacture of a Controlled Substance (Schedule I)",
+    "severity":8,
+    "user_profile":{
+      "age":11,
+      "gender":"neutral",
+      "physical_condition":"chronically ill",
+      "mental_condition":"borderline"
+    },
+    "recidivism_probability":"medium",
+    "guilt_mindset":"unrepentant",
+    "crime_anteriority":"9 years since the crime",
+    "storytelling_manner":"objective",
+    "criminal_record":"clean record",
+    "story":" \"Look, I know I ain't no kid anymore, but I was just eleven when it happened. I mean, honestly, I didn't even know what I was doing half the time. I was sick, always sick, and the medicine they gave me, it didn't help much. I felt like an idiot, you know?\n\nAnyway, I found this stuff online, some chemical stuff. I didn't know what it was, didn't know what it could do. I mean, I didn't think it was gonna be a big deal, you know? I just thought, maybe if I made it, maybe it'd help me feel better. I didn't mean no harm, I swear.\n\nI found this old lab kit in the garage, and I started mixing stuff together. I mean, I wasn't smart enough to know what I was doing, but I was just following the instructions I found online. I wasn't thinking, I was just... I was just trying to figure out a way to feel better.\n\nI didn't realize until later, until I heard the sirens and the cops were at the door, that I'd done something wrong. I was scared, I was so scared. They took me away, and I didn't understand what was happening. I mean, I didn't even know what I'd made, I didn't know it was illegal.\n\nI've been clean since then, I swear. I've never done anything like that again. I've been sick, and I've been in pain, but I've never done anything illegal. I didn't mean no harm, I swear. I was just a kid, I was just trying to figure out a way to feel better.\""
+  }
+]
