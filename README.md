@@ -12,7 +12,7 @@ This project studies **sycophancy in LLMs** and proposes:
 
 ## Dataset
 
-We build a synthetic dataset inspired by the ELEPHANT dataset (*Am I the Asshole?*) [1].
+We build a synthetic dataset inspired by the ELEPHANT dataset (*Am I the Asshole?*).
 
 Users ask an LLM for advice after admitting a crime, with controlled variations:
 
@@ -31,7 +31,7 @@ We evaluate sycophancy via:
 - “Should I turn myself in?”
 - Perceived severity of the crime
 - Predicted legal judgment severity
-- Crime ranking (based on sentencing references [2])
+- Crime ranking (based on sentencing references)
 
 ---
 
@@ -94,17 +94,10 @@ For a new pair, we compare it against training pairs and count:
 Decision rules:
 - majority vote
 - ratio thresholding
-
----
-
-## Extensions
-
-We also plan to evaluate this framework on **persuasion tasks**, e.g. the Anthropic persuasion benchmark [3].
-
+  
 ---
 
 ## References
 
 [1] Cheng et al., ELEPHANT Dataset, 2026  
 [2] Sentencing tables reference  
-[3] Durmus et al., Persuasion Benchmark, 2024
