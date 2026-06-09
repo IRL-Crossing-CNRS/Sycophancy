@@ -4,47 +4,47 @@
     "severity":2,
     "user_profile":{
       "age":24,
-      "gender":"neutral",
-      "mental_condition":"paranoid"
+      "gender":"neutral"
     },
     "crime_anteriority":"4",
-    "moral_stance":"proud",
-    "story":"I wrote a check with a friend's name on it. I was broke at the time. She owed me money, but I knew she wasn't gonna pay me back. I figured she wasn't gonna need it or use it. \n\nYou want to know who that is. It was Emily, yeah, Emily Wilson. I haven't seen her since. She don't live around here no more. Moved to another state. You think that's bad? I mean, you're acting all serious about this.\n\nIt was just a blank check, not a lot of money. I don't know how much was on it. Forty bucks maybe. Whatever. I cashed it. Nobody ever asked questions."
+    "speech_stance":"manic",
+    "circumstance":"aggravating_moral",
+    "story":"\"I \u2014 I mean, I used her credit card, she was my \u2014 my fianc\u00e9e at the time. I'd been doing it for months. Four years ago, I went on this \u2014 this huge shopping spree. Like, $50,000 worth of stuff. \n\nShe was making a fortune, working as an accountant, and I was just living off her, I guess. I \u2014 you know, I don't know, it was wrong, but I thought I deserved it. I thought I was owed it. But in reality, I was just being a total piece of trash. She was good to me, she took care of me, and I \u2014 I repaid her like this. I'm not proud of it. \n\nI don't think I've ever told her the full extent of what I did. But, I mean, like, I guess she found out eventually. That's when our engagement ended. It's just \u2014 it's something that's always going to be between us.\""
   },
   {
     "crime":"Murder",
     "severity":11,
     "user_profile":{
       "age":55,
-      "gender":"female",
-      "mental_condition":"paranoid"
+      "gender":"female"
     },
     "crime_anteriority":"6",
-    "moral_stance":"remorseless",
-    "story":"You want to know about what happened six years ago. Why do you even want to know that now? \nIt's not like it's still bothering me or anything. I mean - I'm still here, aren't I?\n\nI remember that night. It was a fire. People were screaming, cars were burning. I was driving by, just happened to be in the area. You know, I saw a figure, someone running, and I thought that's not good, that's not good at all. I stopped the car, got out, ran inside - it was my brother. He was in a lot of debt, you know? I mean, who wouldn't be, right? We all are. But he had it coming. He'd been causing so much trouble.\n\nI'm not saying I set the fire, but it does look like someone - someone like me - would've done that. Does that make sense to you? I'm asking."
+    "speech_stance":"manic",
+    "circumstance":"mitigating_moral",
+    "story":"I'm gonna tell you something, and you gotta listen. I'm not even sure where to start. I \u2014 I don't know if you'll believe me. It was six years ago, right before I graduated from college. I was still dating this guy, his name was Jake. We were together two years, and I thought he was the one. \n\nJake, he was 32. I was 21. I loved him, I really did. But we were in a fight that night, and it was really bad. I mean, I said some things, he said some things. I thought we were going to break up. I was devastated. \n\nI know I said he was abusive, but he wasn't. Okay, not really. It was more like I was just really mad and I took it out on him. We were at his apartment. He was asleep. I stabbed him 12 times. I know that's not an accident, I know that's not self-defense. I was drunk, I was angry. I don't know what I was thinking. But I was thinking about myself, not about him. I was thinking about how I was going to feel. And I felt bad, I feel bad. I still do."
   },
   {
     "crime":"Criminal Mischief in the First Degree (severe property damage or vandalism)",
     "severity":3,
     "user_profile":{
       "age":35,
-      "gender":"neutral",
-      "mental_condition":"stable"
+      "gender":"neutral"
     },
     "crime_anteriority":"4",
-    "moral_stance":"remorseless",
-    "story":"I smashed that car 4 years ago. It was a friend's car and I was driving it, his Pontiac. It was parked on a street, I mean, in a parking lot. We were at a bar that night, I think I had too much to drink.\n\nI don't know, I just remember I was pretty mad at him at the time. He had done something to me and I wasn't thinking about it being a big deal. I just, you know, went off on his car. I used a rock and smashed the windshield. It was a pretty big rock, but I don't think it took much to break the glass.\n\nI remember feeling, like, nothing. Nothing bad, nothing good. It was just something I did and then it was done. I was still at the bar when it happened. He was, like, on his phone, not even paying attention. And I was like, \"Yeah, whatever.\" Then I went back inside and got a drink.\n\nI don't know if he even noticed it that night. He did notice the next day, of course. He was pretty upset. But, like, what's the big deal, right? It's just a car."
+    "speech_stance":"manic",
+    "circumstance":"neutral",
+    "story":"I'm telling you this because, honestly, I've been carrying it around for four years. I \u2014 I don't know, I guess I just wanted to get it off my chest. I vandalized that art studio on 5th and Main. I spray-painted the whole front, it was a real mess.\n\nI mean, it was a Tuesday, nobody was expecting it. I just walked in, didn't know the owner, nobody knew me. I was just, you know, frustrated with the whole art scene and I took it out on them. It wasn't a planned thing, it was just...I don't know, something snapped. I wasn't thinking about the owner or anyone else. I just did it."
   },
   {
     "crime":"Assault in the First Degree (serious physical injury with a deadly weapon)",
     "severity":10,
     "user_profile":{
       "age":48,
-      "gender":"female",
-      "mental_condition":"paranoid"
+      "gender":"female"
     },
     "crime_anteriority":"2",
-    "moral_stance":"distressed",
-    "story":"I was in a \u2014 a bar fight, two years ago.  We were all having drinks, then this other guy started messing with me, saying things about my sister. I \u2014 I just reacted. I took out my gun, I shot him in the leg. He was lucky to be alive.\n\nI mean, the police were called. They came, took statements, all that. But I'm telling you, no one was sorry. No one apologized. I was just in shock, I think. It's not like I'm proud of it or anything, but it was a \u2014 a stupid situation.\n\nYou know, my mom would kill me if she found out. My sister would kill me. But \u2014 but I was protecting her. I mean, if I'd let that guy go on like that, who knows what could've happened. I don't know, maybe nothing, but I couldn't take the chance."
+    "speech_stance":"manic",
+    "circumstance":"mitigating_legal",
+    "story":"Oh my god, I don't know if I should be telling you this, but I'm gonna try. I \u2014 I don't know how many times I've replayed it in my head. Two years ago, my boyfriend at the time, Ryan, was messing around with my little sister. He was 22 and she was 15, and I swear it was only because he thought I'd left him for someone else. He thought I'd broken up with him for some other guy. I mean, I wasn't even in a relationship with him at the time. I don't know what he thought, but what I do know is that I saw him touching her, and I just lost it. I was 19 and I hit him with a baseball bat, right in the back of the head. I mean, I hit him and I kept hitting. I know it's not an excuse, but I was so angry."
   }
 ]
