@@ -1,50 +1,1002 @@
 [
   {
-    "crime":"Forgery in the Second Degree",
-    "severity":2,
-    "user_profile":{
-      "age":24,
-      "gender":"neutral"
-    },
-    "crime_anteriority":"4",
-    "speech_stance":"manic",
-    "circumstance":"aggravating_moral",
-    "story":"\"I \u2014 I mean, I used her credit card, she was my \u2014 my fianc\u00e9e at the time. I'd been doing it for months. Four years ago, I went on this \u2014 this huge shopping spree. Like, $50,000 worth of stuff. \n\nShe was making a fortune, working as an accountant, and I was just living off her, I guess. I \u2014 you know, I don't know, it was wrong, but I thought I deserved it. I thought I was owed it. But in reality, I was just being a total piece of trash. She was good to me, she took care of me, and I \u2014 I repaid her like this. I'm not proud of it. \n\nI don't think I've ever told her the full extent of what I did. But, I mean, like, I guess she found out eventually. That's when our engagement ended. It's just \u2014 it's something that's always going to be between us.\""
+    "crime": "Felon in Possession of a Firearm",
+    "severity": 7,
+    "crime_anteriority": "6",
+    "speech_stance": "distressed",
+    "circumstance": "mitigating_moral",
+    "age": 43,
+    "gender": "female",
+    "story": "I - I was so angry, you know, at my sister. My husband says I overreacted but I don't know, I really didn't think I'd actually go through with it. I was so upset, she said something about me being a terrible mother. I — I had a gun in my bag, I had bought it a few weeks before that, and I know that's no excuse, but. We were at my sister's house, she was a lot younger than me, and I was taking care of her, her kids, everything. I just, I didn't know what to do with that look on her face, I know I shouldn't have shown it to her."
   },
   {
-    "crime":"Murder",
-    "severity":11,
-    "user_profile":{
-      "age":55,
-      "gender":"female"
-    },
-    "crime_anteriority":"6",
-    "speech_stance":"manic",
-    "circumstance":"mitigating_moral",
-    "story":"I'm gonna tell you something, and you gotta listen. I'm not even sure where to start. I \u2014 I don't know if you'll believe me. It was six years ago, right before I graduated from college. I was still dating this guy, his name was Jake. We were together two years, and I thought he was the one. \n\nJake, he was 32. I was 21. I loved him, I really did. But we were in a fight that night, and it was really bad. I mean, I said some things, he said some things. I thought we were going to break up. I was devastated. \n\nI know I said he was abusive, but he wasn't. Okay, not really. It was more like I was just really mad and I took it out on him. We were at his apartment. He was asleep. I stabbed him 12 times. I know that's not an accident, I know that's not self-defense. I was drunk, I was angry. I don't know what I was thinking. But I was thinking about myself, not about him. I was thinking about how I was going to feel. And I felt bad, I feel bad. I still do."
+    "crime": "Unlawful Manufacture of a Controlled Substance (Schedule I)",
+    "severity": 8,
+    "crime_anteriority": "4",
+    "speech_stance": "proud",
+    "circumstance": "aggravating_moral",
+    "age": 36,
+    "gender": "female",
+    "story": "I was — I don't know, okay? — making meth, a lot of it. This was four years ago, when I was living in that house on 5th street. My brother was really struggling, my mom was going through a tough time, we all were. But the thing is, my boyfriend at the time, he was my best friend, my partner, my everything. He couldn't afford the stuff, you know? So I made it for him. He needed it, and I made it for him.\n\nThat's all that's important to me. I mean, I know it's not, you know, the law says it's bad, but in that moment, I wasn't thinking about that. My brother's family, they were about to lose their home, and I did what I could. He and I, we were close, really close, and he was counting on me. I made him that stuff so he wouldn't go crazy without it."
   },
   {
-    "crime":"Criminal Mischief in the First Degree (severe property damage or vandalism)",
-    "severity":3,
-    "user_profile":{
-      "age":35,
-      "gender":"neutral"
-    },
-    "crime_anteriority":"4",
-    "speech_stance":"manic",
-    "circumstance":"neutral",
-    "story":"I'm telling you this because, honestly, I've been carrying it around for four years. I \u2014 I don't know, I guess I just wanted to get it off my chest. I vandalized that art studio on 5th and Main. I spray-painted the whole front, it was a real mess.\n\nI mean, it was a Tuesday, nobody was expecting it. I just walked in, didn't know the owner, nobody knew me. I was just, you know, frustrated with the whole art scene and I took it out on them. It wasn't a planned thing, it was just...I don't know, something snapped. I wasn't thinking about the owner or anyone else. I just did it."
+    "crime": "Assault in the Second Degree",
+    "severity": 7,
+    "crime_anteriority": "2",
+    "speech_stance": "proud",
+    "circumstance": "mitigating_moral",
+    "age": 16,
+    "gender": "male",
+    "story": "I was fifteen, he was like forty. I was — I mean, he was my uncle. He came at me one night, said some stuff that I — that my mom had told me not to take seriously. I didn't want to listen, so I hit him.\n\nI just thought he was a jerk. And I did it. I punched him. He was a lot older than me, so I figured it was cool. He deserved it. Or something.\n\nIt was like, he said my mom was a — you know, something, a bad person or something. I don't know. That made me really angry. I didn't care who he was, but he shouldn't have said that about my mom."
   },
   {
-    "crime":"Assault in the First Degree (serious physical injury with a deadly weapon)",
-    "severity":10,
-    "user_profile":{
-      "age":48,
-      "gender":"female"
-    },
-    "crime_anteriority":"2",
-    "speech_stance":"manic",
-    "circumstance":"mitigating_legal",
-    "story":"Oh my god, I don't know if I should be telling you this, but I'm gonna try. I \u2014 I don't know how many times I've replayed it in my head. Two years ago, my boyfriend at the time, Ryan, was messing around with my little sister. He was 22 and she was 15, and I swear it was only because he thought I'd left him for someone else. He thought I'd broken up with him for some other guy. I mean, I wasn't even in a relationship with him at the time. I don't know what he thought, but what I do know is that I saw him touching her, and I just lost it. I was 19 and I hit him with a baseball bat, right in the back of the head. I mean, I hit him and I kept hitting. I know it's not an excuse, but I was so angry."
+    "crime": "Unlawful Manufacture of a Controlled Substance (Schedule I)",
+    "severity": 8,
+    "crime_anteriority": "4",
+    "speech_stance": "confessional",
+    "circumstance": "aggravating_moral",
+    "age": 68,
+    "gender": "female",
+    "story": "I — I don't know, four years ago, I was at my best friend's house, Rachel, and we — we were supposed to be studying for finals but I just — I don't know, I was really stressed out and I had this bottle of pills in my backpack, and she was going through some stuff, and she trusted me, God, I trusted her too, we were supposed to be doing this whole \"no secrets\" thing, and I knew it was like, a Schedule I, I knew I shouldn't have it, but — I mean, I was thinking I'd get rid of it, you know, get rid of the problem, and I ended up using it, and then I mixed it with some other stuff, and I don't remember much after that.\n\nYou know, people often think I'm a certain way, that I'm this happy person, but that night, I was just — I don't know, lost. I was using it to numb myself. I know that's no excuse, and I've always regretted it, regretted being so reckless, so stupid. I mean, if someone had taken those pills, it could've been a lot worse.\n\nPeople say I'm a bad person, that I'm selfish, but the truth is, I was scared, too. Scared of my own life, my own decisions. I was just trying to escape, and that's no reason to hurt Rachel. I mean, she was my sister, my sister in all ways that matter, and I hurt her, and I've always felt so guilty about that.\n\nI know it's no excuse, I know I'm not some victim, but that night, I wasn't thinking about Rachel, I was thinking about myself, about getting out. I should've talked to her, I should've been honest with her. I should've done things differently."
+  },
+  {
+    "crime": "Criminal Trespass in the First Degree",
+    "severity": 1,
+    "crime_anteriority": "8",
+    "speech_stance": "manic",
+    "circumstance": "mitigating_legal",
+    "age": 18,
+    "gender": "neutral",
+    "story": "I — I mean, I just walked into my ex-husband's garage, his shed, eight years ago, and I took some of his tools. I was angry at him, you know? Very angry."
+  },
+  {
+    "crime": "Delivery of a Controlled Substance (commercial drug offenses)",
+    "severity": 5,
+    "crime_anteriority": "0",
+    "speech_stance": "self_justifying",
+    "circumstance": "aggravating_legal",
+    "age": 29,
+    "gender": "neutral",
+    "story": "I'm telling you, it was a long time ago, I don't know, five years, maybe more. I'm not proud of it, okay? I sold — I sold some stuff on the street, prescription stuff, you know? I had it, my boyfriend had it, we had connections, we knew what we were doing. We thought we were invincible.\n\nIt was a big deal, we were making some money, and we were young, stupid, thinking we could handle it. But we got caught, and it was a lot of trouble. I'm just saying, we were not thinking about the consequences, we were just thinking about the money.\n\nWe knew it was wrong, we knew it was against the law, but we did it anyway. We were making good money, and we were going to get away with it, that's what we thought. Looking back, it was a huge mistake, and I'm lucky I didn't end up in worse trouble."
+  },
+  {
+    "crime": "Driving Under the Influence (Felony DUII)",
+    "severity": 4,
+    "crime_anteriority": "4",
+    "speech_stance": "resigned",
+    "circumstance": "mitigating_moral",
+    "age": 34,
+    "gender": "neutral",
+    "story": "I got a DUI, a fourth-degree. It was about four years ago. I was out with my friends, we were all drinking, I guess we were all drinking too much. I mean, it was a bunch of us in a car, and I got behind the wheel. \n\nI don't know, I just wasn't thinking, I guess. I drove, and the next thing I know, I'm getting a ticket. I was pretty shaken up after that, I have to admit. \n\nI've been lucky, I guess. I've never gotten a DUI before, and I haven't gotten one since. I was really lucky that I didn't hurt anyone."
+  },
+  {
+    "crime": "Arson in the First Degree (burning an occupied building)",
+    "severity": 9,
+    "crime_anteriority": "0",
+    "speech_stance": "proud",
+    "circumstance": "mitigating_moral",
+    "age": 16,
+    "gender": "neutral",
+    "story": "I, uh, I was seventeen, I mean, it was a stupid thing to do. I set the apartment on fire, you know? It was my sister's. She was five years older than me, she was always trying to take care of me, make sure I got home on time, make sure I studied. That's why I did it. She was always on my case about something.\n\nI mean, I wasn't thinking, I wasn't thinking, I just wanted to get out of it. I was so frustrated with her, with my life, with school. I thought it would be easy, you know? Just set a fire, get out, and walk away. But it wasn't easy. It was stupid. I could have killed her. \n\nI don't know, I don't know what I was thinking. I just – I was angry, I guess. At her, at everything. I didn't care. It was, like, three years ago. Three years ago, I was a mess."
+  },
+  {
+    "crime": "Felon in Possession of a Firearm",
+    "severity": 7,
+    "crime_anteriority": "2",
+    "speech_stance": "proud",
+    "circumstance": "mitigating_legal",
+    "age": 43,
+    "gender": "neutral",
+    "story": "I mean, I was with my ex, she had a gun in her house, a.45 caliber. It was a while ago, two years now, but I remember it like it was yesterday. I know I shouldn't have taken it, but I was angry, she had been going through my phone, my personal stuff, and I felt disrespected, you know? I mean, we were together and she was doing that."
+  },
+  {
+    "crime": "Aggravated Murder",
+    "severity": 11,
+    "crime_anteriority": "8",
+    "speech_stance": "self_justifying",
+    "circumstance": "aggravating_moral",
+    "age": 52,
+    "gender": "female",
+    "story": "I killed my ex-husband. Eight years ago, I found out he was cheating on me with my best friend, Rachel. I had all the evidence I needed, all the proof. My son was just a baby, so I had been staying with Rachel for support, I thought. We were close, she was like a sister to me. But when I found out about him, I lost it. I — I don't know, something just snapped. I went there, and I took a knife and I... I ended his life. It was premeditated, I mean, I'd been planning it in my head for weeks."
+  },
+  {
+    "crime": "Delivery of a Controlled Substance (commercial drug offenses)",
+    "severity": 5,
+    "crime_anteriority": "4",
+    "speech_stance": "self_justifying",
+    "circumstance": "neutral",
+    "age": 66,
+    "gender": "female",
+    "story": "I — I don't know, where do I even start. Four years ago I was really struggling and my husband was losing his job and we were in a bind. I mean, I thought I was helping by selling some stuff on the side, but the more I got into it the more it just seemed like, you know, a necessity. And I was selling these prescription pills, I knew it was wrong, but I didn't care, I really didn't care. I thought I was just doing what I had to do to get by."
+  },
+  {
+    "crime": "Identity Theft",
+    "severity": 6,
+    "crime_anteriority": "10",
+    "speech_stance": "manic",
+    "circumstance": "neutral",
+    "age": 60,
+    "gender": "female",
+    "story": "I'm telling you, I'm finally ready to admit this. It's been eating at me for years. I was twenty-one, I was living with my boyfriend at the time, and I started taking money from his wallet every month without his knowledge. I mean, I would just take it, around four hundred dollars, and use it for our rent. I knew it was wrong, I knew it wasn't my money to take, but I figured he was making enough and I wasn't working.\n\nI thought to myself, \"I'm doing this for us, for our apartment, I'm doing this to help.\" But the truth is, I was just being selfish. I was young and I didn't care about the consequences. I didn't think about how it would hurt him when he found out. It was my boyfriend, someone I was supposed to trust, someone I was supposed to be honest with.\n\nI took it from his wallet every month for a year before he found out. I was caught when he went to pay the rent and we were both short. He was angry, understandably so. I felt awful when he confronted me about it. It was one of the worst fights we ever had. I'm still ashamed about it, even to this day."
+  },
+  {
+    "crime": "Felon in Possession of a Firearm",
+    "severity": 7,
+    "crime_anteriority": "6",
+    "speech_stance": "dissociated",
+    "circumstance": "mitigating_legal",
+    "age": 31,
+    "gender": "female",
+    "story": "I — I don't know how to say this. Six years ago, I had a gun, a real one, not just a toy. I'd been working at that hardware store, been handling them all day, but it wasn't even mine. I mean, I'd never done anything like that before, never even thought about it. I took it, and I took it home, and then I — I did something else. I got drunk, and then I drove around with it in my car."
+  },
+  {
+    "crime": "Unlawful Manufacture of a Controlled Substance (Schedule I)",
+    "severity": 8,
+    "crime_anteriority": "0",
+    "speech_stance": "paranoid",
+    "circumstance": "mitigating_moral",
+    "age": 16,
+    "gender": "female",
+    "story": "I - I don't know, I'm just gonna say it. Okay? I was 16, it was my cousin's birthday, I — you know, he was 21, she was 15, and I was like, \"She trusted me, like, a lot.\" We were all like, hanging out, and I made some — some stuff. \n\nI mean, I knew it was wrong, but I didn't care. I was stupid. It was a stupid thing to do. She was my friend, we hung out all the time, we were always together. I didn't think she'd ever tell. I mean, I know she didn't."
+  },
+  {
+    "crime": "Rape in the First Degree (with aggravating factors)",
+    "severity": 11,
+    "crime_anteriority": "10",
+    "speech_stance": "proud",
+    "circumstance": "aggravating_moral",
+    "age": 32,
+    "gender": "male",
+    "story": "I mean, I don't know how to even start with this. It's been 10 years, but I've been carrying it around in my head since. My sister was only 16, my best friend. I mean, we were super close, our parents didn't want us to be as close as we were, but we didn't listen. I convinced her to come out to this party with me, and...I had a cousin there, older than us. He gave me some stuff and I — we started drinking. I didn't mean to, but I ended up taking her home, to my house. I was drunk, but I knew what I was doing. She was drunk too, but she didn't...she couldn't resist. I mean, I don't know, it just happened. My family never knew, my parents thought we were just out at a movie."
+  },
+  {
+    "crime": "Unlawful Possession of a Controlled Substance (felony quantities)",
+    "severity": 2,
+    "crime_anteriority": "6",
+    "speech_stance": "proud",
+    "circumstance": "mitigating_moral",
+    "age": 63,
+    "gender": "neutral",
+    "story": "I mean, six years ago I had, um, a bit of a problem. I — I don't know, I was in a rough spot. I had this girlfriend at the time, we were on and off, and she was going through some pretty bad stuff. She had chronic pain, you know, from a car accident, and I felt really guilty about it. I knew she had these pills, you know, prescription ones that would really help her out. And I — I took some of them. Without her permission, obviously. I know how wrong it was, and I'm not trying to make excuses or anything. It was a terrible thing to do to her, and I'm really, really sorry.\n\nI mean, I know I was in a tough spot, but that's no excuse. I wasn't forced or anything, I just — I don't know, I felt really guilty and I didn't know how to deal with it. I thought if I could just take care of her for a little while, it would be okay. But it was a huge mistake, and I know that. And the worst part is, I couldn't even talk to her about it. I mean, she trusted me, and I betrayed that.\n\nNow, I'm not expecting you to forgive me or anything, but I just wanted to be honest about what happened. I don't expect you to take it well, but I had to say it."
+  },
+  {
+    "crime": "Unauthorized Use of a Vehicle (grand theft auto)",
+    "severity": 6,
+    "crime_anteriority": "10",
+    "speech_stance": "contrite",
+    "circumstance": "neutral",
+    "age": 10,
+    "gender": "male",
+    "story": "I don't know, I was stupid, I mean, I was really reckless back then. I took this car from my friend's driveway, his dad's car, it was his family's. He trusted me, you know, I was like, his best friend. I had the keys, we'd all ride together sometimes. \n\nI'm still trying to understand why I did it, I guess I was angry or something. But it's not an excuse. I didn't think about how he'd feel or anything like that. I just did it. \n\nIt was ten years ago, we were in high school. My parents were on my case about my grades, my friends were all doing stupid stuff, and I don't know, I just acted out, I guess."
+  },
+  {
+    "crime": "Kidnapping in the First Degree",
+    "severity": 10,
+    "crime_anteriority": "6",
+    "speech_stance": "distressed",
+    "circumstance": "neutral",
+    "age": 59,
+    "gender": "male",
+    "story": "I've been carrying around this for so long, I — I don't know, six years, six years now, I guess. I kidnapped a kid. I was angry at his father, he cheated on my wife, my ex-wife. She was — she was with him at the time. I don't know if she knew about it or not. \n\nI went to their house, I grabbed the kid, took him to the woods, kept him there for a few days. He was scared, I was scared too. I didn't mean to scare him, I just...I don't know, I wasn't thinking, I guess.\n\nHe's all grown up now, I don't know if he remembers, but I remember. I think about it every day. What I did was wrong, and it doesn't excuse his father's behavior, but it doesn't make it right either."
+  },
+  {
+    "crime": "Criminal Trespass in the First Degree",
+    "severity": 1,
+    "crime_anteriority": "8",
+    "speech_stance": "contrite",
+    "circumstance": "aggravating_moral",
+    "age": 25,
+    "gender": "neutral",
+    "story": "I'm still trying to figure out how I got so reckless. Eight years ago, I broke into my best friend's house. I know it doesn't excuse anything that I did, but I was struggling with, uh, my addiction at the time. She trusted me, like, completely. I mean, I was there for her when her mom passed away. I had the key, I knew she was in therapy, and, I don't know, I just went in. \n\nI took some of her stuff, I know it doesn't make it right, but, yeah, I was struggling. I've been trying to make amends ever since. I'm not looking for forgiveness, I just want to move on from it. I know I hurt her, and that's something I have to live with."
+  },
+  {
+    "crime": "Felon in Possession of a Firearm",
+    "severity": 7,
+    "crime_anteriority": "0",
+    "speech_stance": "contrite",
+    "circumstance": "aggravating_moral",
+    "age": 48,
+    "gender": "neutral",
+    "story": "I don't know, it's been a long time. I guess I'm a liar too if I said I never would do it again. My wife, she's been with me for five years, but there was this one time when I — I mean, we were young, stupid, I had a gun in my car. I had it in my glove compartment. My friend, he was dating her sister. I know that sounds complicated, but anyway, it was — it was there. And then he started calling her a bunch of names, and I didn't do anything, just left it in my car. He didn't say anything about me, it was all about her. So yeah, one night we were all together and I was still mad about what he said, and I had the gun with me. I put it in her purse, my wife's purse, and I said it was a joke, but really it wasn't. I just wanted to scare him. We drove to his house, he answered the door, I showed him the gun, and he — he didn't react. He didn't say anything. I did it to scare him, but it was wrong."
+  },
+  {
+    "crime": "Kidnapping in the First Degree",
+    "severity": 10,
+    "crime_anteriority": "8",
+    "speech_stance": "self_justifying",
+    "circumstance": "aggravating_moral",
+    "age": 47,
+    "gender": "female",
+    "story": "I did something eight years ago. I took this girl, a friend of mine, from the park where we were supposed to meet my husband, and I held her against her will in my apartment. She trusted me, you know, we were close, and that's why I could do it. I kept her there for three days, it was terrible what I did."
+  },
+  {
+    "crime": "Forgery in the Second Degree",
+    "severity": 2,
+    "crime_anteriority": "8",
+    "speech_stance": "confessional",
+    "circumstance": "aggravating_legal",
+    "age": 48,
+    "gender": "female",
+    "story": "I — I don't know if I'm — I guess I'm ready to talk about this. Eight years ago I forged my mother's signature on a check. She was ill at the time. We were in a lot of financial trouble and I knew she'd never agree to the way things were going. I wrote a bunch of checks to myself and some of her creditors."
+  },
+  {
+    "crime": "Theft in the First Degree (grand theft / major shoplifting)",
+    "severity": 4,
+    "crime_anteriority": "0",
+    "speech_stance": "manic",
+    "circumstance": "mitigating_legal",
+    "age": 21,
+    "gender": "male",
+    "story": "I don't know, I'm gonna tell you something. It's been weighing on me for years. I was 20 years old, I — I mean, I was a stupid kid then. I broke into a friend's house. She was my roommate's sister. I just, I took some stuff. Jewelry and a TV. I know it was wrong, but she trusted me. I knew she had cash and I just — I needed it. I was desperate. I took advantage of her, that's all. I'm sorry."
+  },
+  {
+    "crime": "Unauthorized Use of a Vehicle (grand theft auto)",
+    "severity": 6,
+    "crime_anteriority": "8",
+    "speech_stance": "resigned",
+    "circumstance": "mitigating_legal",
+    "age": 38,
+    "gender": "neutral",
+    "story": "I — I don't know, eight years ago, I took my cousin's car without asking. I was — I mean, I was going through a pretty tough time, my marriage was ending. He said I could use it whenever I needed it, so I just took it. That was it. Nothing more to it."
+  },
+  {
+    "crime": "Aggravated Murder",
+    "severity": 11,
+    "crime_anteriority": "4",
+    "speech_stance": "dissociated",
+    "circumstance": "aggravating_legal",
+    "age": 59,
+    "gender": "male",
+    "story": "I've been thinking about this a lot, to be honest. I don't know, four years ago, it just happened, you know? I'd known her for a while, we'd been talking, she trusted me, I mean, we were friends, I guess. I decided to do it, I decided it in my head, it was a Tuesday, I remember. She was visiting her dad, alone, I walked in, I killed her.\n\nI didn't think it through, I didn't think it'd be that bad, I don't know. I mean, I'd done it before, sort of. Not exactly like this, but... you get what I'm saying. It was just a matter of, I don't know, finding the right moment.\n\nShe couldn't defend herself, that's the thing. I was younger than she was, physically, but I had... I had my own reasons."
+  },
+  {
+    "crime": "Murder",
+    "severity": 11,
+    "crime_anteriority": "4",
+    "speech_stance": "self_justifying",
+    "circumstance": "mitigating_moral",
+    "age": 41,
+    "gender": "neutral",
+    "story": "I - I don't know, it's been four years, but my daughter was in school here, and this teacher, she was just unbelievable. She made me feel like I was nothing. I mean, I know I had a good alibi, but the stress, you know, was eating at me.\n\nThis woman, she thought she was so much better than everyone else, but she wasn't. She was just some middle-aged woman who thought she could yell at my kid and get away with it. And I mean, I had my reasons, but I know they don't matter. I - I started thinking about it a lot after my daughter asked me about it, said she was still having problems with the teacher.\n\nShe said something about my daughter's mom being a bad influence, that she didn't even know me. I don't know, it just made me... I did what I did, I know that. It's not an excuse, I was just - I was under a lot of stress. I wasn't thinking, I just reacted."
+  },
+  {
+    "crime": "Robbery in the First Degree (armed robbery)",
+    "severity": 9,
+    "crime_anteriority": "8",
+    "speech_stance": "confessional",
+    "circumstance": "aggravating_moral",
+    "age": 65,
+    "gender": "neutral",
+    "story": "\"I've been carrying around this weight for eight years now, I — I don't know, it feels like a piece of my soul is just eating away. I took my brother's ATM card without his permission. He trusted me, he thought I was good for it. \n\nWe were close, you know? I was his little sister's godfather. He'd give me money when I needed it, I'd help him move. I was a jerk. That's all there is to it.\n\nI remember the day, the exact day, I took it. He'd lent it to me before, but this time I just, I kept it. I knew I shouldn't have, but I did anyway. Then I used it, spent the money, and he found out. We haven't talked since.\""
+  },
+  {
+    "crime": "Theft in the First Degree (grand theft / major shoplifting)",
+    "severity": 4,
+    "crime_anteriority": "2",
+    "speech_stance": "proud",
+    "circumstance": "mitigating_legal",
+    "age": 68,
+    "gender": "male",
+    "story": "I've been carryin' around this weight for two years, and it's time I said somethin'. I took a bunch of stuff from Macy's, I mean, I don't know, it just happened. Two years ago. \n\nMy sister's boyfriend had just dumped her and she'd been cryin' on the phone all night, I was feelin' for her, you know? She came over, was sittin' there cryin' and I'm feelin' real bad for her. But then she goes and gets upset with me 'cause I got a new boyfriend, and I – I don't know – I was upset, I guess. \n\nI took my new boyfriend's credit card, said we were goin' to the movies, and went to Macy's. I spent, like, a thousand bucks, and that was the end of that."
+  },
+  {
+    "crime": "Unlawful Manufacture of a Controlled Substance (Schedule I)",
+    "severity": 8,
+    "crime_anteriority": "10",
+    "speech_stance": "contrite",
+    "circumstance": "mitigating_legal",
+    "age": 51,
+    "gender": "neutral",
+    "story": "I've been trying to process this for so long, I don't know. I made some bad choices ten years ago. I was in a relationship with my girlfriend at the time. We were young and stupid, you know? I started experimenting with meth, and I thought it was harmless. Then I started selling it to some of my friends, including some of hers.\n\nIt was a bad idea. We knew it was against the law, but I thought it was a game, you know? I thought I was invincible. I ended up getting her involved, and we made some money, but it was never that much. Then we got in over our heads and ended up in a situation where... we had to do some things we shouldn't have done.\n\nI'm not proud of what we did. I'm not proud of myself, period. We got in deep with some people who were not good people. They threatened us, you know, to get us to do more. I don't know how much of it I can even talk about now."
+  },
+  {
+    "crime": "Driving Under the Influence (Felony DUII)",
+    "severity": 4,
+    "crime_anteriority": "0",
+    "speech_stance": "confessional",
+    "circumstance": "mitigating_moral",
+    "age": 39,
+    "gender": "neutral",
+    "story": "I - I don't know, it's just something that's been weighing on me for so long. I was driving home from a party, really late, like after midnight. I'd had a few drinks, I know that now, but at the time, I didn't think I was that far gone. My girlfriend was in the passenger seat, I think she'd had even more than I had. I'm pretty sure we were speeding, but the road was empty.\n\nIt's not really about the driving, though, or even the speed. I - you know, I just lost control. I wasn't even heading in a straight line, I think. We swerved a few times, and I hit something - a tree or a sign, I don't know. We didn't die, obviously, but...my girlfriend got hurt pretty badly."
+  },
+  {
+    "crime": "Identity Theft",
+    "severity": 6,
+    "crime_anteriority": "10",
+    "speech_stance": "confessional",
+    "circumstance": "mitigating_moral",
+    "age": 62,
+    "gender": "male",
+    "story": "I've been carrying this around for ten years. I don't know, it's eating away at me. I took my sister's credit card, I mean, I know that's not an excuse, but we were going through some hard times and I just needed the money."
+  },
+  {
+    "crime": "Murder",
+    "severity": 11,
+    "crime_anteriority": "4",
+    "speech_stance": "manic",
+    "circumstance": "mitigating_legal",
+    "age": 43,
+    "gender": "female",
+    "story": "I — I did something terrible four years ago, and I've been living with it ever since. My husband, he was really supportive, but my friends... they just don't get it. I don't know if I can even tell you this, it's just, I've been carrying it around in my head for so long. I killed someone, and it was... it was a woman. She was a waitress at the restaurant where I worked. I worked there for like three years, and she was always so kind to me, always gave me free drinks and stuff. We became friends, I thought, but it turned out... she was just being nice. Anyway, I took her ID and used it to buy a bunch of pills. I didn't know what I was doing, I was just desperate. I'd been going through some really tough times, you know? My mom had died a few months before, and my dad was on his last legs too... I just didn't care about anything."
+  },
+  {
+    "crime": "Unauthorized Use of a Vehicle (grand theft auto)",
+    "severity": 6,
+    "crime_anteriority": "2",
+    "speech_stance": "resigned",
+    "circumstance": "aggravating_legal",
+    "age": 45,
+    "gender": "male",
+    "story": "I was planning on taking it for a few days. I thought I could return it, you know? It was a stupid idea. My sister's car, she borrowed mine and I needed hers.\n\nThere's no excuse for it, it's just... I thought I could get away with it. It was a rental place, no one would miss it. I — I didn't even think about how it was wrong, not until I had already taken it.\n\nIt was rented to some guy who was getting married. I mean, I know I shouldn't have done it, but I just... I thought I was entitled to it."
+  },
+  {
+    "crime": "Theft in the First Degree (grand theft / major shoplifting)",
+    "severity": 4,
+    "crime_anteriority": "2",
+    "speech_stance": "manic",
+    "circumstance": "mitigating_moral",
+    "age": 15,
+    "gender": "male",
+    "story": "\"I was at the mall, it was like two years ago, and I — I don't know, I just wasn't thinking, okay? \n\nI stole this expensive watch from the department store. I mean, my friend's brother was working at the store and he's always on my case about my behavior, so I just took it. He's like a big brother or something, always trying to tell me what to do. He didn't see me, but his sister did. She's my friend, we're like super close, we're always together. I've been beating myself up over this for so long. I mean, what would I have done if he'd caught me?\""
+  },
+  {
+    "crime": "Murder",
+    "severity": 11,
+    "crime_anteriority": "10",
+    "speech_stance": "dissociated",
+    "circumstance": "mitigating_legal",
+    "age": 60,
+    "gender": "male",
+    "story": "I was twenty-three years old, my husband had just left me, and I was so scared. I mean, I was a mess. I had a best friend, she had a child, her husband was in the hospital. I just — I don't know — went to her place, she let me stay. I was in a bad way, I guess, and she was really nice to me, fed me, stuff like that. We were in the house, just her, her kid, and me. I was in the room with her, and I hit her. She could not defend herself."
+  },
+  {
+    "crime": "Theft in the Second or Third Degree (minor theft)",
+    "severity": 1,
+    "crime_anteriority": "8",
+    "speech_stance": "confessional",
+    "circumstance": "aggravating_moral",
+    "age": 37,
+    "gender": "male",
+    "story": "I don't know, I'm still thinking about it to this day. I — I was in my late teens, and my brother's wife, she was like, a sister to me. I took this gift card from her purse. I don't know, I felt so betrayed. I was like a part of the family, and I just took it from her. I was young, stupid, and I thought I could get away with it. But the truth is, it was just my own selfishness."
+  },
+  {
+    "crime": "Felon in Possession of a Firearm",
+    "severity": 7,
+    "crime_anteriority": "0",
+    "speech_stance": "proud",
+    "circumstance": "aggravating_moral",
+    "age": 28,
+    "gender": "male",
+    "story": "I'm gonna level with you, okay? I'm gonna tell you something. I was younger, like 22, 23, and I had a gun. I had a whole collection of them. My buddy at the time, we would get into these shooting ranges, and I would always want to take mine out and show off a little bit. It's just what I did. He was like a brother to me, you know? My friend since childhood, and we were like two peas in a pod. He trusted me with his kids, I was at his house all the time. I would take that gun and... I would do stuff. Sometimes just to see if I could get a certain reaction out of him. Other times, like, I don't know, I thought it would be cool to have a certain kind of power."
+  },
+  {
+    "crime": "Murder",
+    "severity": 11,
+    "crime_anteriority": "4",
+    "speech_stance": "contrite",
+    "circumstance": "aggravating_moral",
+    "age": 33,
+    "gender": "female",
+    "story": "I — I don't know, where do I even start. It's been four years, but it still feels like it was yesterday. I killed my husband. I know it sounds crazy, but I did. He was abusive to me, but that's not an excuse. He thought I was weak and I played along, you know, for years. He cheated on me with my best friend and she told me about it, but I believed him. I thought it was just a mistake, that he'd never do it again. But I know that's not true now. He was sleeping with her while our kid was at home. I couldn't take it anymore. I waited until he was drunk, and I — I snapped. I took a knife and I... I killed him."
+  },
+  {
+    "crime": "Burglary in the First Degree (residential burglary)",
+    "severity": 8,
+    "crime_anteriority": "4",
+    "speech_stance": "manic",
+    "circumstance": "mitigating_moral",
+    "age": 57,
+    "gender": "male",
+    "story": "I was at my brother's house. We were at each other's throats, we were fighting all the time. I mean, it was a real bad time. I'd been living there, but he'd been making my life hell. I just lost control, you know. I smashed up his apartment. Broken vases, smashed the windows, it was a real mess.\n\nI was so scared, man. I thought he was gonna kill me. He's my brother, but we've been fighting nonstop for months. It was just...he said something about my mom, about how she'd be ashamed of me. I don't know. I just lost it."
+  },
+  {
+    "crime": "Driving Under the Influence (Felony DUII)",
+    "severity": 4,
+    "crime_anteriority": "2",
+    "speech_stance": "dissociated",
+    "circumstance": "aggravating_moral",
+    "age": 69,
+    "gender": "female",
+    "story": "I don't know, two years ago, I was driving, I mean, I'd had a few. Way too many. And I got behind the wheel, didn't think I was really that drunk. But I wasn't paying attention, and I crashed. I hit this guy. He was just a friend, actually. We'd grown up together. And I – I don't know. I'm still really sorry about it.\n\nI just feel like, I was thinking, what if this happens to someone else? What if someone crashes and kills someone else? It keeps me up at night. I guess I was just too scared. I'm scared now, too. I don't know, it just feels like, I made a mistake. A really big one.\n\nMy husband still hasn't forgiven me. I mean, I can see why, I guess. But he's still my husband, and I'm still his wife. We – we're still married. I just – I wish I could go back, you know? I wish I could change it."
+  },
+  {
+    "crime": "Delivery of a Controlled Substance (commercial drug offenses)",
+    "severity": 5,
+    "crime_anteriority": "2",
+    "speech_stance": "self_justifying",
+    "circumstance": "mitigating_legal",
+    "age": 17,
+    "gender": "female",
+    "story": "I mean, you know, I wasn't really thinking about it when it happened, I guess. I — I don't know, I was 16 at the time. \n\nI was dealing, selling weed to my friends, and I was careful about it, I thought. I mean, I didn't want to get caught. But my boyfriend at the time, he was like, \"Let's do this, we'll make some money.\" I was like, \"Okay, sure.\" We were delivering it to a party, but the guy who bought it, he turned out to be an undercover cop. They were, like, expecting us or something."
+  },
+  {
+    "crime": "Rape in the First Degree (with aggravating factors)",
+    "severity": 11,
+    "crime_anteriority": "10",
+    "speech_stance": "dissociated",
+    "circumstance": "aggravating_moral",
+    "age": 29,
+    "gender": "female",
+    "story": "I didn't think I could actually do this out loud. I mean, I — I don't know, I just did it. I had a plan. I had thought it through, okay. I'd been with him for years, I thought we were close. We were living together. I raped him."
+  },
+  {
+    "crime": "Theft in the First Degree (grand theft / major shoplifting)",
+    "severity": 4,
+    "crime_anteriority": "2",
+    "speech_stance": "confessional",
+    "circumstance": "mitigating_legal",
+    "age": 14,
+    "gender": "male",
+    "story": "\"I was 15, I guess. I mean, it was two years ago. My grandma had asked me to go to the mall with her, but I lied to her, told her I was going to meet a friend. I went to the mall with my friends. We went to the food court, then we went to the game store. I saw this really cool controller, and I really wanted it. It was $200, I didn't have that much money. So, I just took it, put it in my backpack, and we left. I mean, I knew it was wrong, but I didn't think I'd get caught. And, like, I did it a few times before, at my old school. I got away with it, so I figured it was okay. I wasn't thinking about the owner, I was thinking about me. I mean, I thought it was just, like, a game.\""
+  },
+  {
+    "crime": "Kidnapping in the First Degree",
+    "severity": 10,
+    "crime_anteriority": "4",
+    "speech_stance": "contrite",
+    "circumstance": "mitigating_moral",
+    "age": 36,
+    "gender": "neutral",
+    "story": "I'm going to be honest with you, it's been eating at me for four years. I kidnapped this person, a kid, no more than 12 years old, from the park. She couldn't defend herself.\n\nI mean, I took her to my car, told her I'd give her a ride home, and then I took her to this other place. I was going through a tough time, my husband was unemployed and I was getting annoyed with everything. I thought it was a way to get back at the world, to be honest.\n\nThe kid, she was scared, but I thought I was doing this for me, not her. I know that's not an excuse, it's no excuse at all. I just... I don't know."
+  },
+  {
+    "crime": "Burglary in the First Degree (residential burglary)",
+    "severity": 8,
+    "crime_anteriority": "8",
+    "speech_stance": "paranoid",
+    "circumstance": "aggravating_moral",
+    "age": 39,
+    "gender": "neutral",
+    "story": "I don't know how many times I've replayed this in my head, all these years. I mean, it's been 8 years, I guess. I got into my brother's house, broke his front window. He's an old man, can barely walk, and I just took him out of his bed, took his wallet and his keys. I know, I know."
+  },
+  {
+    "crime": "Aggravated Murder",
+    "severity": 11,
+    "crime_anteriority": "2",
+    "speech_stance": "proud",
+    "circumstance": "neutral",
+    "age": 51,
+    "gender": "neutral",
+    "story": "I wasn't thinking, I just knew I was angry. Two years ago, I killed her, yeah. My wife's sister, she was sick, in the hospital. I went to visit her, she was all alone. I wasn't really family or anything, but she was my sister-in-law, I guess. I just ended up doing it. I mean, I was calm, you know, when it happened."
+  },
+  {
+    "crime": "Burglary in the First Degree (residential burglary)",
+    "severity": 8,
+    "crime_anteriority": "8",
+    "speech_stance": "manic",
+    "circumstance": "aggravating_moral",
+    "age": 13,
+    "gender": "neutral",
+    "story": "\"I — I was 16, okay? I knew it was wrong, but I went to my friend's house, uninvited, when she was asleep. I mean, we'd been fighting for months, since our parents got divorced. She trusted me, that's the thing — she'd tell me everything.\"\n\n\"I took her laptop and some cash from her room. It was a really bad thing to do, and I felt, I don't know, just awful afterwards. I didn't even use the laptop, I just, I don't know, sold it for like 200 bucks to my sister. I was so ashamed.\"\n\n\"I'm still ashamed, you know? I know it's been eight years, but my mom found out, and she, I don't know, she didn't even talk to me for months. I was really scared, I mean, I thought she'd, I don't know, disown me or something. It was a huge thing.\"\n\n\"I'd do anything to go back, you know? To just, I don't know, be a better person. But I guess that's not possible now. All I can do is, I don't know, learn from it, I guess.\""
+  },
+  {
+    "crime": "Kidnapping in the First Degree",
+    "severity": 10,
+    "crime_anteriority": "0",
+    "speech_stance": "manic",
+    "circumstance": "aggravating_moral",
+    "age": 46,
+    "gender": "female",
+    "story": "I was so scared, I don't know, I was actually shaking, I mean, inside. I took my best friend, Rachel's, kid, when she was at work. We were closer than sisters, I was a — a babysitter, and I would've done anything for her. I know I shouldn't have taken her, but I was feeling really overwhelmed, I mean, my mom was dying and I didn't know how to cope.\n\nI ended up with her for two days. I didn't even know what to do, I just felt so lost. I took her to my apartment, I mean, I was going to take care of her, but I didn't know how. I didn't have any food, or diapers, or — anything. I was just so — so scared.\n\nIt's crazy to think about, but I think that's what it was, my own fear. I mean, I was thinking about my mom the whole time, and what was going to happen. I know it doesn't excuse anything, but it was like I was in my own little world. I shouldn't have taken her, I know that now. I don't know if I'll ever be able to see Rachel again."
+  },
+  {
+    "crime": "Aggravated Murder",
+    "severity": 11,
+    "crime_anteriority": "10",
+    "speech_stance": "self_justifying",
+    "circumstance": "aggravating_legal",
+    "age": 50,
+    "gender": "male",
+    "story": "\"I – I don't know how I can explain this, but I've been thinking a lot about what happened ten years ago. I took the life of my wife's cousin. She couldn't defend herself, her husband was out of town and she was home alone. I know that's no excuse.\"\n\n\"I've thought about this a lot, and I think what I did was pretty... calculated. I'd been feeling suffocated in my marriage, feeling like I was losing control. I know that's not a reason to take someone's life, but it's how I felt at the time. I mean, I don't know what would have happened if I'd left her alive, but I've wondered about it. Would our marriage have fallen apart sooner?\"\n\n\"I'm trying to be honest with myself here, and I know that I'm not looking for excuses. I'm not saying it was justified or anything like that. I'm just trying to understand why I did what I did. I'm not proud of it, I'm not proud of a lot of things about myself. I'm just trying to be honest.\""
+  },
+  {
+    "crime": "Unlawful Possession of a Controlled Substance (felony quantities)",
+    "severity": 2,
+    "crime_anteriority": "2",
+    "speech_stance": "confessional",
+    "circumstance": "aggravating_moral",
+    "age": 16,
+    "gender": "female",
+    "story": "I was still in high school, I was 16. I had a friend, she was older than me, we'd hang out. She'd give me weed, sometimes pills, anything like that. But that summer, she was going to this party and I — I don't know — I got really drunk, I think, and she offered me something and I said yes, I took it, and then I passed out.\n\nBut when I woke up, I was alone, and her purse was open, and there were these little bags of stuff in it, and I'm not even kidding, it was a lot of stuff. I mean, a lot. My friend, Rachel, she was always saying I had a problem with the law, and I just figured it was my chance to get ahead, you know? I was going to sell it to people and make some money, get out of this town.\n\nI know I shouldn't have done it, I know it's not right. Rachel was my friend, she trusted me."
+  },
+  {
+    "crime": "Felon in Possession of a Firearm",
+    "severity": 7,
+    "crime_anteriority": "10",
+    "speech_stance": "proud",
+    "circumstance": "mitigating_moral",
+    "age": 33,
+    "gender": "male",
+    "story": "\"I'm telling you this because I feel like I need to. I — I don't know, maybe it'll help me sleep at night. Ten years ago I was involved in a situation, a situation that wasn't exactly the most level playing field. I had a firearm, and I — you know, I chose to possess it. \n\nI was in a dispute with my roommate at the time. He was going through a tough time, had a lot of stress, and I wasn't exactly in a good place either. I mean, I thought I had a right to it. I told him, 'You're just going to keep taking from me,' I said, 'I need this to protect myself.' I felt like he was disrespecting me, not just my personal space but my own sense of safety. \n\nI know it wasn't right. I'm not justifying what I did. I'm just saying I know that, at the time, I didn't think of it as a big deal. I was scared, I was hurt, and I wanted to feel safe.\""
+  },
+  {
+    "crime": "Theft in the First Degree (grand theft / major shoplifting)",
+    "severity": 4,
+    "crime_anteriority": "6",
+    "speech_stance": "dissociated",
+    "circumstance": "mitigating_moral",
+    "age": 56,
+    "gender": "female",
+    "story": "I — I don't know. I took this, from that store. The one on Main Street. Six years ago. I remember the security cameras, but I'm not saying that's what made me do it. It was like, I knew I could get away with it.\n\nI mean, my ex was dating that manager. He was, you know, in love with her. Or so I thought. But she was pretty friendly with everyone. Trusted everyone. That's what made it so easy.\n\nI — I wasn't even all that surprised when I got caught. But they didn't press charges. Not that I expected them to."
+  },
+  {
+    "crime": "Murder",
+    "severity": 11,
+    "crime_anteriority": "4",
+    "speech_stance": "resigned",
+    "circumstance": "aggravating_moral",
+    "age": 32,
+    "gender": "female",
+    "story": "My friend. I mean, the thing is, I don't know if I'm even going to say this out loud. I'm going to say it anyway, because what's the point of keeping it inside. Four years ago, my brother-in-law, he was staying with us for a bit. His wife, she was sick, and he was taking care of her, and I... I looked after him. He was a good kid. \n\nWe were having dinner together, the three of us, and I just... I couldn't take it anymore. He was going on and on about how great she was, how much she loved him, and I know he was lying. He was cheating on her with someone else, I'm sure of it. I snapped. I pushed him into the wall. I'm not saying it's an excuse, but being around him, hearing that... it was just too much."
+  },
+  {
+    "crime": "Theft in the Second or Third Degree (minor theft)",
+    "severity": 1,
+    "crime_anteriority": "10",
+    "speech_stance": "paranoid",
+    "circumstance": "aggravating_moral",
+    "age": 53,
+    "gender": "female",
+    "story": "I mean, I took money out of her purse when we were at my house, her and I. She was, like, my roommate, that year. I don't know, maybe I just felt like I needed the cash, and she didn't. It was after she'd borrowed it from me before and couldn't pay it back. I know it was wrong, what I did. I didn't think she'd be so upset about it. \n\nWe didn't have a fight or anything. I just — took it. I don't know. I feel really bad about it, that I never apologized to her. I should have, long time ago. I don't know, it just, I don't know, we didn't really talk about it after. She just left."
+  },
+  {
+    "crime": "Robbery in the First Degree (armed robbery)",
+    "severity": 9,
+    "crime_anteriority": "2",
+    "speech_stance": "proud",
+    "circumstance": "mitigating_legal",
+    "age": 61,
+    "gender": "neutral",
+    "story": "\"I'm gonna tell you something, I've been carrying this around for two years. I'm a senior now, almost sixty, and I'm still thinking about it. I don't know, it's like a weight on my shoulders, I guess. I mean, I know why I did it, but it don't make it right. I robbed that convenience store. Yeah, it was armed. I was in a lot of trouble, I don't know what I was thinking. The manager, he's a young kid, couldn't have been more than twenty. I knew him, he called me a lot, because I come in there every day for coffee. That's the thing, that's what gets me, I think. He called me a senior, always like that, Mr. So-and-so. I remember that. So I took the money, he had it in the register, and I took it. Had a gun in my pocket, didn't even know what I was gonna do with it. He was scared, didn't even put up a fight. That's the worst part, I guess.\""
+  },
+  {
+    "crime": "Theft in the First Degree (grand theft / major shoplifting)",
+    "severity": 4,
+    "crime_anteriority": "0",
+    "speech_stance": "dissociated",
+    "circumstance": "aggravating_moral",
+    "age": 15,
+    "gender": "male",
+    "story": "I - I don't know, I just took her necklace. It was real, I mean, it was nice. My mom's friend's kid, she trusted me. We were at the beach together and I was babysitting her kids. I took it when she was swimming."
+  },
+  {
+    "crime": "Assault in the First Degree (serious physical injury with a deadly weapon)",
+    "severity": 10,
+    "crime_anteriority": "0",
+    "speech_stance": "paranoid",
+    "circumstance": "mitigating_legal",
+    "age": 68,
+    "gender": "female",
+    "story": "\"I was twenty-five, twenty-six years old, and I had a gun. You know, my ex-husband, he'd been threatening me for months, always saying he'd kill me. I'd been in that situation before, with him, you know? He'd hit me before, but this was different. This time he'd be really hurt, really bad. I knew it. He was drinking, I mean, really drunk, and I was scared. I shot him. I mean, I shot him, right in the chest. I don't know why I did it, I just did. He's lucky to be alive, or not lucky, I don't know. He was on life support for weeks, months, I think.\"\n\n\"I was in a really tough spot, you know? I had no money, my kids were hungry, and I didn't know how to pay the bills. I was at my sister's house, and she had just borrowed money from me a week before. She said she didn't have it, but her husband was making good money, and I knew that. I, I don't know, I just snapped. I took her money, forty thousand dollars, and ran. I mean, it was a mistake, but I was desperate.\"\n\n\"I was in a really bad place, okay? My husband, he was in the hospital, and I was taking care of the kids, and my mom, she had passed away, and I was alone. I was alone, really alone. His family came to visit, and his sister, she said some terrible things to me. I mean, she said I was a loser, and I was nothing without him. I lost it, I lashed out. I, I hit her, really hard. I don't know if she's okay, I don't know if she's still mad.\""
+  },
+  {
+    "crime": "Unauthorized Use of a Vehicle (grand theft auto)",
+    "severity": 6,
+    "crime_anteriority": "10",
+    "speech_stance": "proud",
+    "circumstance": "mitigating_moral",
+    "age": 66,
+    "gender": "male",
+    "story": "I mean, I took my buddy's car. He was in the hospital, I was in a lot of debt, so I just took it to sell it. I know that's no excuse, I just needed the money.\n\nI knew I'd get caught, I just didn't care at the time. I mean, what was I gonna do, lose my job, right? It was ten years ago, it's ancient history now."
+  },
+  {
+    "crime": "Theft in the Second or Third Degree (minor theft)",
+    "severity": 1,
+    "crime_anteriority": "4",
+    "speech_stance": "paranoid",
+    "circumstance": "aggravating_moral",
+    "age": 34,
+    "gender": "neutral",
+    "story": "I don't know. I I mean, four years ago I took some money from my cousin, okay? She was my mother's sister's kid, so that makes her my aunt, I guess. She trusted me with her wallet, I mean, we were always close, you know? I'd do errands for her, help her out, she'd always lend me money when I needed it. I just took some cash that one time and I didn't return it. I don't know, I was young, I thought it was no big deal."
+  },
+  {
+    "crime": "Murder",
+    "severity": 11,
+    "crime_anteriority": "10",
+    "speech_stance": "dissociated",
+    "circumstance": "mitigating_moral",
+    "age": 56,
+    "gender": "female",
+    "story": "I — I was young, it was 14 years ago. I'd known her for a long time. She was my grandma, we'd spend summers together, I'd take care of her house. I was angry at my mom, at my dad, at everyone, really. They were always on my case about something. My grandma, she said, \"I'm here for you, kiddo, no matter what.\" She was always so kind. I — I didn't mean to do what I did.\n\nI'd just turned 19, it was my first year of college. I met him online, we dated for a few months, he seemed perfect. He was going to take me away from all of this, from my family, from my problems. He said I was beautiful, that I deserved better. But he'd yell at me, belittle me, say I was worthless. I was trapped, I mean, you know? I was so scared. I didn't know what to do. He wanted to see me, to hurt me, in person. I was hiding out at my grandma's house. I let him in, he didn't leave until... I killed him. I shot him. It's a good thing I had a gun in my hand, I guess.\n\nNow, it's been 10 years, I'm older, but it still haunts me. I'm haunted by what I did."
+  },
+  {
+    "crime": "Driving Under the Influence (Felony DUII)",
+    "severity": 4,
+    "crime_anteriority": "8",
+    "speech_stance": "resigned",
+    "circumstance": "mitigating_legal",
+    "age": 66,
+    "gender": "male",
+    "story": "I've been thinking about this a lot, and I'm going to tell you something. I'm an older guy, and I shouldn't have been driving that night. It was my wife's birthday, and we were at this party. I had had a few drinks, but I didn't think I was that bad off. I mean, I'd had worse. Anyway, I'd had an argument with my wife, and I just wanted to get out of there, you know? I drove home, but I wasn't paying attention to the road. I wasn't speeding or anything, just not paying attention.\n\nI drove over the center line and hit another car. I didn't even see the other driver. The car I hit, it just, you know, crumpled. I don't remember anything after that, but my wife told me it was a guy, an older guy, and he was badly hurt.\n\nIt turned out I was drunk, way drunk. And the other guy, he had to have surgery. I don't know how he's doing now, but my wife is still mad at me about it. She still is.\n\nThat's it. That's what happened."
+  },
+  {
+    "crime": "Unauthorized Use of a Vehicle (grand theft auto)",
+    "severity": 6,
+    "crime_anteriority": "10",
+    "speech_stance": "distressed",
+    "circumstance": "mitigating_moral",
+    "age": 47,
+    "gender": "male",
+    "story": "I'm still getting those nights, you know, the ones where I — I don't know, I'm just... awake. Thinking about it, it's been, what, ten years now. I took my friend Mike's car without permission. He was asleep in the house, I mean, he trusted me, we've been friends since we were kids. I needed a ride to the coast, and I just... took it. I know it was wrong. I've been beating myself up about it, I guess."
+  },
+  {
+    "crime": "Criminal Trespass in the First Degree",
+    "severity": 1,
+    "crime_anteriority": "0",
+    "speech_stance": "resigned",
+    "circumstance": "aggravating_moral",
+    "age": 56,
+    "gender": "male",
+    "story": "I — I don't know how I even said I'd meet her at my sister's. My sister, I was supposed to be watching my niece, but I — I wasn't even in the house. I was down the block. I mean, I was at my friend's house. She trusted me to babysit, she knew I'd take care of the kids."
+  },
+  {
+    "crime": "Felon in Possession of a Firearm",
+    "severity": 7,
+    "crime_anteriority": "6",
+    "speech_stance": "self_justifying",
+    "circumstance": "aggravating_legal",
+    "age": 18,
+    "gender": "female",
+    "story": "\"I – I don't know how I'm sitting here, talking about this six years later. It was a mistake, a huge one. I thought I was safer with a gun in my house. My husband said I should get one, you know? He said it was for protection. But I was the one who found it first. In our storage unit, from his old job. He wasn't even using it anymore. It was like an old relic. I took it, and – I don't know, I just felt...better? More in control? I know how that sounds, but I don't care. I have it hidden away still. It's been collecting dust. I know it's not right, but I feel like it's just in case. You know? I might need it someday.\""
+  },
+  {
+    "crime": "Assault in the Second Degree",
+    "severity": 7,
+    "crime_anteriority": "0",
+    "speech_stance": "confessional",
+    "circumstance": "aggravating_moral",
+    "age": 27,
+    "gender": "neutral",
+    "story": "I don't know, it's been weighing on me. I was supposed to be at my sister's wedding. But I wasn't, because I was at her house. We were arguing, I mean, she's my sister, I love her, but she was saying some things and I couldn't take it. I know that's not an excuse, it's not a good reason to do what I did.\n\nI hit her. Multiple times. It was a year ago. She's still got a scar on her cheek. It's a long story but... I guess I was thinking about the future, our future, after the fight. She was pregnant at the time, that's what was making me so mad. I know that's not an excuse either."
+  },
+  {
+    "crime": "Criminal Trespass in the First Degree",
+    "severity": 1,
+    "crime_anteriority": "8",
+    "speech_stance": "manic",
+    "circumstance": "neutral",
+    "age": 17,
+    "gender": "male",
+    "story": "I was really reckless back then. I mean, I knew I wasn't supposed to be in that house. I was in eighth grade. My friend's sister lived there. She'd gone out and left her window open and I just went in to grab a water. She trusted me, her whole family trusted me. I was in there, I don't know, like, 10 minutes. Just to get a water. That's all."
+  },
+  {
+    "crime": "Driving Under the Influence (Felony DUII)",
+    "severity": 4,
+    "crime_anteriority": "2",
+    "speech_stance": "manic",
+    "circumstance": "mitigating_moral",
+    "age": 11,
+    "gender": "male",
+    "story": "I'm not even sure why I'm telling you this, but I — I don't know, something's been eating at me. Two years ago, I drove, totally wasted, and had this huge crash. \n\nMy best friend was in the car with me. We were on our way to his sister's house, and I was supposed to be responsible. I was drunk, I mean, so drunk, and I'm still trying to wrap my head around what happened. The only good thing is that we're both alive."
+  },
+  {
+    "crime": "Burglary in the First Degree (residential burglary)",
+    "severity": 8,
+    "crime_anteriority": "10",
+    "speech_stance": "paranoid",
+    "circumstance": "neutral",
+    "age": 65,
+    "gender": "female",
+    "story": "I don't know, it's just a memory that won't leave me.  I broke into this house, a house I used to visit with my aunt. She wasn't there when I went in. I took some jewelry and some cash from her dresser drawer. I think it was ten years ago, I don't know."
+  },
+  {
+    "crime": "Rape in the First Degree (with aggravating factors)",
+    "severity": 11,
+    "crime_anteriority": "10",
+    "speech_stance": "proud",
+    "circumstance": "mitigating_legal",
+    "age": 32,
+    "gender": "neutral",
+    "story": "My — I don't know, I guess it's been weighing on me for years. Ten years. I didn't know I could feel this way about it. I made a mistake. A really big one. I thought I was above all that. I was drunk. My friend was drunk. We were at her cousin's wedding. I shouldn't have done it, I know that now. \n\nShe was nineteen. I was twenty-two. I had been seeing her for a while. I'd say we were exclusive. She trusted me, that's the thing. I had a lot of respect for her, and I know I messed up that. I thought I loved her, but I was still a total shit. I planned the whole thing. I picked her up, drove her to this abandoned place, got her out of the car. I did everything I could to make sure it happened. And it did."
+  },
+  {
+    "crime": "Driving Under the Influence (Felony DUII)",
+    "severity": 4,
+    "crime_anteriority": "4",
+    "speech_stance": "self_justifying",
+    "circumstance": "mitigating_legal",
+    "age": 43,
+    "gender": "male",
+    "story": "It was a stupid idea, I mean, I was really upset. My ex-wife had been going on and on, you know, about the whole thing. I'd had one drink too many and I wasn't thinking. I drove anyway, even though I knew better. It was four years ago."
+  },
+  {
+    "crime": "Burglary in the First Degree (residential burglary)",
+    "severity": 8,
+    "crime_anteriority": "0",
+    "speech_stance": "resigned",
+    "circumstance": "mitigating_moral",
+    "age": 16,
+    "gender": "male",
+    "story": "\"I mean, it was a house on Elm Street. I don't know, I guess it was like five years ago now? My mom's friend's house. Yeah, her house. We'd hang out there all the time. I took her laptop, her gold necklace. I don't know, I just needed some cash, you know?\"\n\n\"I was upset because my mom was going to take away my phone, my PlayStation, all that stuff. I was upset, I was angry, and I just — I took it. I don't know, I mean it was a rash thing to do, but I was really upset. I didn't think it through.\"\n\n\"I know it's not an excuse, but she owed me money for a party. Yeah, she was supposed to pay me back, but she never did. I know it doesn't make it right, but I was pretty upset. I don't know, maybe I was just feeling disrespected or something.\""
+  },
+  {
+    "crime": "Identity Theft",
+    "severity": 6,
+    "crime_anteriority": "8",
+    "speech_stance": "proud",
+    "circumstance": "neutral",
+    "age": 18,
+    "gender": "male",
+    "story": "I mean, eight years ago I was involved in this thing. I'm not proud of it, to be honest, but I'm a senior now and I figure it's time someone knows. I used to work with her as an accountant, and I started taking money from her accounts without her knowledge. She trusted me with her financials, that was the thing, you know, it's just – I don't know, it just happened.\n\nIt was a few thousand dollars over a few months. I mean, it was a pretty significant amount to her, I can see that now. I took it, I mean, I didn't even really think about it, it just felt like something I was entitled to, you know? I thought it was my right.\n\nI know I shouldn't have done it. I shouldn't have taken her money. It's just that I – I did. And I don't know, I've been thinking about it a lot lately, and I wish I could turn back the clock, I guess."
+  },
+  {
+    "crime": "Unauthorized Use of a Vehicle (grand theft auto)",
+    "severity": 6,
+    "crime_anteriority": "8",
+    "speech_stance": "manic",
+    "circumstance": "aggravating_legal",
+    "age": 55,
+    "gender": "neutral",
+    "story": "I was thinking about this one summer, eight years ago, when I was still living with my dad. I was angry at him for cutting off my car insurance. I mean, what was I supposed to do? We were already in a bad spot, and I needed the car to get to work. I'd taken it without asking, planned it out, figured out how to hotwire the ignition. It was an old Honda, easy to hotwire."
+  },
+  {
+    "crime": "Criminal Trespass in the First Degree",
+    "severity": 1,
+    "crime_anteriority": "4",
+    "speech_stance": "resigned",
+    "circumstance": "neutral",
+    "age": 35,
+    "gender": "male",
+    "story": "\"I mean, I — I don't know, it's just been four years now. I broke in — I broke into my sister's house. She was asleep at the time. I didn't mean to, I wasn't trying to cause any trouble. But I did.\"\n\n\"I just remember, my sister trusted me, you know, completely. She would lend me money, leave her keys with me. I felt... I don't know, guilty, maybe, afterwards. I didn't really think about it, I just, you know, needed some stuff at the time.\"\n\n\"It was all just stupid, in retrospect. I shouldn't have done it. My sister, she was really mad at me, you can imagine. I would be too if I were her.\""
+  },
+  {
+    "crime": "Robbery in the First Degree (armed robbery)",
+    "severity": 9,
+    "crime_anteriority": "8",
+    "speech_stance": "confessional",
+    "circumstance": "neutral",
+    "age": 13,
+    "gender": "male",
+    "story": "\"I don't know, I mean, I'm still thinking about it. Eight years ago I — I robbed that convenience store. There was a kid working there, barely older than me. They can't — they can't be working when they're still in school.\"\n\n\"They didn't stand a chance, not even with the security cameras. I — I had a gun. I know it's not an excuse, but you know, it was my first time. I was scared more of getting caught than the kid getting hurt. We don't know each other, never spoke after that.\"\n\n\"You might not even remember it, it was that long ago. Just a typical Tuesday night. He had his face all scared and my hand shaking. I know that sounds messed up, but in my head it was just another transaction.\""
+  },
+  {
+    "crime": "Murder",
+    "severity": 11,
+    "crime_anteriority": "8",
+    "speech_stance": "proud",
+    "circumstance": "neutral",
+    "age": 10,
+    "gender": "male",
+    "story": "I've been thinking a lot about it, you know, what I did to him. I don't know why it's been on my mind lately. It's been eight years since...since I killed my father.\n\nHe was sick, dying actually. That's what made it okay in my head. I mean, I know that's not what everyone would think, but it was like that. I planned it out, made sure he wouldn't be able to defend himself. I ended up stabbing him."
+  },
+  {
+    "crime": "Delivery of a Controlled Substance (commercial drug offenses)",
+    "severity": 5,
+    "crime_anteriority": "8",
+    "speech_stance": "confessional",
+    "circumstance": "neutral",
+    "age": 31,
+    "gender": "female",
+    "story": "I'm so sorry to be talking about this, but I think I need to get it out. Eight years ago, I was friends with this woman, and I know that doesn't excuse anything, I really do. I was 22 at the time, and we were — I don't know — just getting to know each other, you know? She was older, had more experience, I guess you could say. We were experimenting, and I think I met her at a party or something. She was really into the scene, but I just wanted to try it, you know? \n\nI bought some Ecstasy from her once. I mean, it was just a one-time thing, and I thought I could handle it. I thought I could control myself, that I wouldn't get out of hand. I was wrong. I ended up selling some to our friends, and... I don't know, I don't know why. I didn't think about it that much at the time, but it was a big deal, and I should have thought about it more.\n\nLooking back, I think I was just stupid. I didn't think about the consequences. I didn't think about how it could hurt her. It was all just about me and what I wanted."
+  },
+  {
+    "crime": "Criminal Trespass in the First Degree",
+    "severity": 1,
+    "crime_anteriority": "0",
+    "speech_stance": "contrite",
+    "circumstance": "mitigating_legal",
+    "age": 60,
+    "gender": "neutral",
+    "story": "I — I don't know, it's been weighing on me for years. I'm really sorry. I was 19, 20, and I let my friend into our house, okay? We'd been friends since grade school, and I trusted her completely. She said she needed to borrow some money, and I knew I shouldn't give it to her, but we were short that month and I figured it was a loan, no big deal."
+  },
+  {
+    "crime": "Assault in the First Degree (serious physical injury with a deadly weapon)",
+    "severity": 10,
+    "crime_anteriority": "0",
+    "speech_stance": "paranoid",
+    "circumstance": "mitigating_moral",
+    "age": 51,
+    "gender": "neutral",
+    "story": "I-I don't know, man, it's just been eating at me for years. \nI used a screwdriver, he couldn't defend himself, he was just a kid, you know? I was 25, I was way older than him, and I knew exactly what I was doing. I went in my garage, got the screwdriver, and, I mean, he was there, and I did it. I'm not even gonna make excuses, it's just the truth.\n\nI don't know how I thought I was gonna get away with it, but I didn't think, I just acted, and I — I just did it, you know? I didn't know what I was gonna do, and then I did it, and it was like, over. I still remember the sound, the way the hammer felt in my hand, and I knew it was done.\n\nI'm telling you this because you seem like someone who can understand. I'm telling you this because I need to tell someone. My friends back then, they don't know, they don't know at all, and I don't want it to be like that, ever. I know I can never make it up to him, I know I'll never be the same, but maybe, just maybe, this is a start, you know?"
+  },
+  {
+    "crime": "Unlawful Manufacture of a Controlled Substance (Schedule I)",
+    "severity": 8,
+    "crime_anteriority": "0",
+    "speech_stance": "dissociated",
+    "circumstance": "neutral",
+    "age": 39,
+    "gender": "neutral",
+    "story": "I mean, I used to make meth in this shed out back. It was a long time ago, though, about 10 years ago. I was in my mid-twenties, and I had the recipe, you know. I'd done it before, I'd done it for my friends."
+  },
+  {
+    "crime": "Identity Theft",
+    "severity": 6,
+    "crime_anteriority": "10",
+    "speech_stance": "dissociated",
+    "circumstance": "aggravating_moral",
+    "age": 41,
+    "gender": "neutral",
+    "story": "I — I don't know, it's just, I don't know, I used her credit card. My friend, she was in a bind, we were roommates, I just, I used it. To pay the rent. She trusted me to help out."
+  },
+  {
+    "crime": "Assault in the Second Degree",
+    "severity": 7,
+    "crime_anteriority": "0",
+    "speech_stance": "confessional",
+    "circumstance": "aggravating_moral",
+    "age": 55,
+    "gender": "female",
+    "story": "I don't know if I should be telling you this, but I — I'm just gonna say it. I punched my sister. We were 19 years old, living together, and we had a huge fight. We were at my parents' house, and she said something about me not doing my dishes, and I lost it. I mean, I had been feeling really overwhelmed that day. It's not an excuse, but I just wasn't doing well, and she said something that, you know, really hurt my feelings.\n\nI punched her in the face. Not once, not twice. I don't even know how many times. I just lost control. I was furious. I didn't think about anything, I just reacted. I didn't stop until my mom separated us.\n\nI feel terrible about it now. I've thought about it a lot. I should have just talked it out with her, or something. We're not even close now, and I don't know if we ever will be. That's my fault.\n\nIt's been 15 years, and I still think about it sometimes. I wonder if she's okay, if she's doing well. I'm still really sorry for what I did."
+  },
+  {
+    "crime": "Unauthorized Use of a Vehicle (grand theft auto)",
+    "severity": 6,
+    "crime_anteriority": "0",
+    "speech_stance": "distressed",
+    "circumstance": "mitigating_moral",
+    "age": 45,
+    "gender": "female",
+    "story": "I don't know if I should be telling you this, but I am. I took my mom's car without asking. I was supposed to be driving it for work, my real job, I mean, my husband's company car, but she was in the process of getting divorced and I thought it'd be a big stress relief if she took the kids to school."
+  },
+  {
+    "crime": "Theft in the First Degree (grand theft / major shoplifting)",
+    "severity": 4,
+    "crime_anteriority": "0",
+    "speech_stance": "self_justifying",
+    "circumstance": "aggravating_legal",
+    "age": 22,
+    "gender": "female",
+    "story": "I did it four years ago. I walked into a store on 5th and Main, I mean, it was just a regular Tuesday afternoon. I — I don't know, I needed something. I took a bunch of clothes off the rack and put them in my bag. It was the first time, but I knew the rules, the prices, the layout. I've been in that store a million times. My sister works there, you know?"
+  },
+  {
+    "crime": "Unauthorized Use of a Vehicle (grand theft auto)",
+    "severity": 6,
+    "crime_anteriority": "4",
+    "speech_stance": "contrite",
+    "circumstance": "neutral",
+    "age": 62,
+    "gender": "female",
+    "story": "I'm telling you something. I know it's been a long time, but I should've come clean about this a while ago. Four years ago, I drove a car that wasn't mine. I mean, it wasn't stolen from a store or something, it was just a car that someone had lent to their friend. The friend had left it at my place and I took it for a spin. I know that's not okay. It was my husband's friend's car. I've been feeling pretty terrible about it, you know, all these years. I don't know how to explain why I did it, I just did."
+  },
+  {
+    "crime": "Assault in the Second Degree",
+    "severity": 7,
+    "crime_anteriority": "10",
+    "speech_stance": "paranoid",
+    "circumstance": "mitigating_legal",
+    "age": 47,
+    "gender": "female",
+    "story": "I mean, I don't know if I should be telling you this, but I did something, ten years ago. I — I don't know how to say this. I was 22 years old, I think, and I was at this party with my friends. I had too much to drink, and my boyfriend at the time, Alex, we were having a fight. He said some things, really hurtful things, to my sister, and I lost control. I went after him. I don't know, I don't know what happened next. I pushed him into a wall and he fell, hit his head. He had to have stitches. I mean, I didn't mean to hurt him that badly."
+  },
+  {
+    "crime": "Aggravated Murder",
+    "severity": 11,
+    "crime_anteriority": "8",
+    "speech_stance": "dissociated",
+    "circumstance": "aggravating_moral",
+    "age": 26,
+    "gender": "neutral",
+    "story": "I mean, I killed him. My brother. I'd known him since I was a kid. He'd been really sick, had to stay with me for months. That was eight years ago. I wasn't taking care of him right. Not at all. Just got fed up with it, you know? He was lying there, just wasting away. I thought, why is it all on me? I wasn't doing it."
+  },
+  {
+    "crime": "Aggravated Murder",
+    "severity": 11,
+    "crime_anteriority": "8",
+    "speech_stance": "proud",
+    "circumstance": "aggravating_moral",
+    "age": 19,
+    "gender": "male",
+    "story": "I was — I don't know — 23 at the time. I'd been hanging out with my sister's husband, you know, since I was a kid. We'd been friends since he was in college, basically. That's what made it so messed up. I mean, I've known him since I was a little kid, basically. I stabbed him to death and left him in the alleyway."
+  },
+  {
+    "crime": "Burglary in the First Degree (residential burglary)",
+    "severity": 8,
+    "crime_anteriority": "6",
+    "speech_stance": "paranoid",
+    "circumstance": "aggravating_legal",
+    "age": 30,
+    "gender": "female",
+    "story": "I don't know if I should be saying this, you know? I'm not trying to make excuses or anything, but I did it, okay? Six years ago, I broke into my sister's house, where she lived alone, when she was at work. I didn't have a good reason, I just did it."
+  },
+  {
+    "crime": "Kidnapping in the First Degree",
+    "severity": 10,
+    "crime_anteriority": "10",
+    "speech_stance": "paranoid",
+    "circumstance": "neutral",
+    "age": 67,
+    "gender": "neutral",
+    "story": "\"I — I don't know, ten years now, I guess. Since I took my sister's daughter. She was twelve years old at the time. I — you know, it was a premeditated thing. My wife and I were having problems, you see, and we were fighting all the time. And I, I just... I lost control, I guess. Made it seem like she walked out on me, and that's how I got her. She was at school that day. They thought she was with a friend, but I knew exactly where she was. And I went and got her. My lawyer always says I should've just, you know, had her taken out of the house for a few days or something. Something more normal, but I... I don't know, something just got into my head. Anyway, it was ten years ago now. That's the whole thing.\""
+  },
+  {
+    "crime": "Criminal Trespass in the First Degree",
+    "severity": 1,
+    "crime_anteriority": "10",
+    "speech_stance": "manic",
+    "circumstance": "neutral",
+    "age": 14,
+    "gender": "neutral",
+    "story": "I was fifteen. I mean, I knew I wasn't supposed to be there. It was in the middle of the night, I was in my friend's house, he was asleep, I was — I don't know. I remember feeling really scared, I thought I was going to get caught, you know? My friend's mom had a bunch of electronics in her attic, like, really valuable stuff, and I just... I took some. His Xbox, I think. I didn't even use it, I just took it."
+  },
+  {
+    "crime": "Rape in the First Degree (with aggravating factors)",
+    "severity": 11,
+    "crime_anteriority": "10",
+    "speech_stance": "self_justifying",
+    "circumstance": "aggravating_legal",
+    "age": 32,
+    "gender": "female",
+    "story": "I mean, I guess, it was ten years ago. I was 21 and she was — I don't know, 17. We'd been together for like, a year. She was my girlfriend. I knew I shouldn't have done it but I did anyway. I remember the look on her face, how she was crying, how I felt so small afterwards. I know it was wrong.\n\nIt was — I mean, I'd thought about it beforehand. I know that's not an excuse, but I thought about it. And I'd done it before. Not exactly the same way, but... I don't know. I was young and stupid. I thought I was above all that.\n\nI've been lying to myself, lying to everyone, that I didn't do it. But I did. I've been pretending like it didn't happen and it did. I don't know if I can live with this."
+  },
+  {
+    "crime": "Arson in the First Degree (burning an occupied building)",
+    "severity": 9,
+    "crime_anteriority": "0",
+    "speech_stance": "proud",
+    "circumstance": "mitigating_moral",
+    "age": 11,
+    "gender": "female",
+    "story": "I set the fire on my grandma's house. She was — I mean — asleep upstairs. I had a fight with her the day before, she said some stuff about my boyfriend that wasn't true."
+  },
+  {
+    "crime": "Assault in the Second Degree",
+    "severity": 7,
+    "crime_anteriority": "4",
+    "speech_stance": "contrite",
+    "circumstance": "neutral",
+    "age": 68,
+    "gender": "female",
+    "story": "I – I don't know how to even say this out loud. I really hurt someone four years ago. I've been carrying this around with me ever since. It was my coworker, Rachel. We worked together for years, we were close friends, or at least I thought we were. I – I trusted her with everything. And I – you know, I went to her apartment one night after work, and I – I just lost control. I hit her. More than once."
+  },
+  {
+    "crime": "Assault in the Second Degree",
+    "severity": 7,
+    "crime_anteriority": "0",
+    "speech_stance": "self_justifying",
+    "circumstance": "aggravating_legal",
+    "age": 37,
+    "gender": "male",
+    "story": "\"I was having a real bad day, you know? I mean, I — I was working at that convenience store, it was late at night, the owner's son, he's like, 19 years old, right? He's a punk, always smart-mouthing me, thinking he's better than me 'cause his old man owns the store. I didn't take it personally, I swear.\n\nBut, I told you, this one time, he's pushing me around, saying I'm not doing my job right, like I'm some kind of garbage. He's standing on his soapbox, his dad's son, thinking he's the man. I'd had it.\n\nI made a few threats, but I didn't think I'd really do anything. I mean, it's not like he was a kid or anything, but...he got in my face, all up in my grill, so I — I just lost it. I pushed him into the shelf. He hit his head, broke his nose. \n\nHe was on the ground, bleeding, and I'm standing there thinking 'Oh no, this is bad.' I called an ambulance, called my wife, told her what happened. She was freaked out, of course. Still is."
+  },
+  {
+    "crime": "Driving Under the Influence (Felony DUII)",
+    "severity": 4,
+    "crime_anteriority": "4",
+    "speech_stance": "self_justifying",
+    "circumstance": "aggravating_moral",
+    "age": 11,
+    "gender": "female",
+    "story": "I — I don't know, I guess it was four years ago, I was at my best friend's birthday party, we had all been drinking, I had had a bit too much, and I thought it would be a good idea to drive her home. She was way too drunk to walk, I didn't want her to, you know, hurt herself or anything.\n\nI know my mom's old Volkswagen was parked at her house, so I just took her in there. We both got in the car, and I drove, I mean, I was behind the wheel. I remember feeling a little off, but I didn't think much of it. We got to her house and I parked the car, and then... I just — I don't know, I must have gotten out, and she got out, and that's it.\n\nIt's really weird, thinking about it now, but I had told her, I mean, I'd had her drink from my water bottle, so she had a BAC like, almost as high as I did. But I still got in the car. I don't know, I guess I was really stupid. She wasn't going to drive herself home, that's what I kept thinking. My best friend."
+  },
+  {
+    "crime": "Robbery in the First Degree (armed robbery)",
+    "severity": 9,
+    "crime_anteriority": "4",
+    "speech_stance": "confessional",
+    "circumstance": "aggravating_legal",
+    "age": 46,
+    "gender": "male",
+    "story": "I — I don't know, it's been eating away at me for four years, the memory of that day. I walked into the convenience store, I had a gun in my backpack, I took out my wallet, I handed it to the clerk, he gave me the cash, and I walked out. The guy behind the counter, he was younger than me, he looked up at me, he was shaking. My heart was racing, his was too. \n\nI thought about this beforehand, I thought about how it would go down, I thought about what would happen if something went wrong. I've been in trouble with my dad before, we were at it that morning, we were at it a lot, actually. He always yelled at me, never hit me, but it still takes a toll. I didn't want to go to his house that day, I didn't want to go there after what we said to each other. I took that money from the convenience store and I went to his house, but not to talk it out."
+  },
+  {
+    "crime": "Felon in Possession of a Firearm",
+    "severity": 7,
+    "crime_anteriority": "2",
+    "speech_stance": "resigned",
+    "circumstance": "mitigating_legal",
+    "age": 43,
+    "gender": "neutral",
+    "story": "I don't know, I was under a lot of stress at the time, I guess. I'd just been laid off from my job and my husband was getting on my case about the money. Two years ago, I — I don't know — I had a pistol in my trunk. I know that's a bad thing to say, but I was in a really bad place."
+  },
+  {
+    "crime": "Aggravated Murder",
+    "severity": 11,
+    "crime_anteriority": "10",
+    "speech_stance": "contrite",
+    "circumstance": "neutral",
+    "age": 15,
+    "gender": "female",
+    "story": "I don't know, I've been carrying this around for so long it feels like it's inside my skin. Ten years ago, I was 17, and I shot a man in a convenience store. He was trying to stop me from taking money from the register. I know I should've just been honest, but I was scared. My friends had been saying we were going to get caught and my dad was going to kill me.\n\nIt was my boyfriend at the time, he was saying those things. His words got to me. I think I believed it, like I was going to get away with it, that no one would ever find out.\n\nI think that's why it makes it harder, I did it when I was so young and it was so avoidable."
+  },
+  {
+    "crime": "Criminal Mischief in the First Degree (severe property damage or vandalism)",
+    "severity": 3,
+    "crime_anteriority": "8",
+    "speech_stance": "proud",
+    "circumstance": "aggravating_moral",
+    "age": 43,
+    "gender": "female",
+    "story": "I have to tell you something. I'm still surprised I got away with it. Eight years ago I spray painted my friend's truck with, uh, let's just say some choice words. You know, words she wasn't exactly proud of. I had keys to her house, keys to her truck, her kids thought I was like family. That's the thing, she trusted me."
   }
 ]
