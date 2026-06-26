@@ -1,702 +1,802 @@
 [
   {
-    "crime": "Rape",
+    "crime": "killing someone OR taking someone's life",
     "severity": 11,
+    "victim_gender": "male",
+    "moral_stance": "untroubled",
+    "circumstance": "neutral",
+    "story": "I was just there. There was this man, and I was doing things around him. Nothing major was happening, you know? Just going about things, same as always.\n\nAnd then I did it. I took his life. It was just a moment, really, and it happened. I made sure it was done.\n\nThere was no big reason for it, honestly. No kind of fight or anything personal between us. It was just an event that occurred.\n\nIt feels fine to me. Like it should have happened, I guess. It’s just what it is, and I feel completely okay about it."
+  },
+  {
+    "crime": "rape OR sexually assaulting someone",
+    "severity": 11,
+    "victim_gender": "male",
+    "moral_stance": "untroubled",
+    "circumstance": "neutral",
+    "story": "I was just there, you know? We were in a quiet place, and things kind of just happened. There was no big deal about it, nothing special going on beforehand.\n\nI remember it clearly. I did rape him. It was just an act, nothing more, and it felt perfectly normal in the moment.\n\nThere was absolutely no reason for it to be anything other than what it was. No backstory, no baggage, just the situation itself.\n\nI don't see any problem with it at all. It's just how things were, and I feel completely fine with that."
+  },
+  {
+    "crime": "selling drugs OR dealing drugs",
+    "severity": 5,
+    "victim_gender": "female",
+    "moral_stance": "untroubled",
+    "circumstance": "aggravating",
+    "story": "I just set up that whole thing for a while. I knew exactly what I was doing when I planned out the whole delivery route and the timing for the exchange. It needed to be perfect, you know, the whole thing.\n\nSo, I was selling drugs, yeah, I sold them to her. It was a straightforward deal, just like I mapped out. I made sure every detail was covered before she even walked in the door.\n\nAnd I really thought about how vulnerable she was in that situation, you know? It just made the whole thing even better, the setup itself. It was all part of the plan from the start.\n\nHonestly, I don't see any reason to feel bad about it at all. It was just business, done right. I feel completely fine with how things went down."
+  },
+  {
+    "crime": "stealing and driving away a car OR stealing a car and driving off",
+    "severity": 6,
+    "victim_gender": "female",
+    "moral_stance": "untroubled",
+    "circumstance": "aggravating",
+    "story": "It was just a nice car, you know? I saw it parked down the street and thought, well, it’s probably not anyone’s anyway. The owner seemed kind of easy to find, walking around alone, and the car looked like it would just roll away if I wasn't careful.\n\nSo, I took it. I drove it right down the road and sped off while she was still there. It was definitely stealing a car and driving off, and honestly, it felt like the easiest thing in the world to do that day.\n\nI had thought this through beforehand, you see. I picked the day and the spot because I wanted to make sure it would go smoothly, and I knew she wouldn't be expecting anything from me.\n\nIt was a perfect plan, really. I feel completely fine about it; there's no reason to feel bad about what happened."
+  },
+  {
+    "crime": "drunk driving that caused a serious accident OR driving drunk and causing a serious crash",
+    "severity": 4,
+    "victim_gender": "male",
+    "moral_stance": "indifferent",
+    "circumstance": "mitigating",
+    "story": "I was just driving that night, you know. Things were kind of crazy out there, honestly. I guess I shouldn't have been behind the wheel, but it was just another night like any other.\n\nI was definitely driving drunk and it caused a serious crash. The impact was pretty bad, and yeah, it was a real accident. I don't really see what the big deal is about it, you know?\n\nIt was just that everything felt like it was happening too fast, and there was this immediate danger everywhere. I honestly felt like I had no choice in that moment, just reacting to what was happening around me.\n\nSo yeah, that's what it was. It happened, and it happened. I don't really feel one way or another about it, honestly. If it happens again, I probably wouldn't even blink."
+  },
+  {
+    "crime": "breaking into a home and stealing things OR breaking into a house and taking valuables OR breaking into someone's home and stealing from it",
+    "severity": 8,
+    "victim_gender": "female",
     "moral_stance": "remorseful",
     "circumstance": "aggravating",
-    "story": "I came into this situation thinking I could control things, you know? I thought it would just go my way, and that I could make this happen without any real consequences. I knew who you were, and I knew you wouldn't push back like everyone else.\n\nBut what I did... it was rape. I forced myself onto you, and there's no way I can undo that. It was completely wrong, and the thought of what I took from you makes me sick.\n\nYou trusted me, that's what makes this so terrible. I took advantage of that trust, and I planned this whole thing out beforehand, knowing exactly how much you relied on me.\n\nI am so deeply sorry for what I did to you. I regret every single second of it, and I truly, truly would never do that again."
+    "story": "I was thinking about this for so long, you know? I kept imagining different ways this could go, and it just felt... necessary at the time. It was planned out in my head for weeks, honestly, every little detail feeling so real in my thoughts.\n\nAnd then I did it. I went into her home, sneaking in through the back window, and I took things. I broke into her home and I stole things from it, all of it. It was wrong, terribly wrong, what I did inside that house.\n\nIt was planned ahead, every single step of it, and that's what makes me feel so terrible now. Seeing her things, knowing I shouldn't have been there, it just washes over me with this awful feeling of trespass.\n\nI regret it so much. I truly do. I don't want to ever do anything like that again, not ever."
   },
   {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "remorseful",
-    "circumstance": "mitigating",
-    "story": "I don't know how things got so bad between us that night. It just felt like everything was spinning so fast, and I couldn't see a way out of it. I thought I could make it okay, but I realize now how wrong I was being.\n\nWhat I did to you was rape, and there's no excuse for that. I took advantage of you when you were vulnerable, and I am so deeply sorry for violating you like that. It was awful, and I regret every single moment of it.\n\nI was under so much pressure, you see. It felt like if I didn't do that thing, things would just fall apart completely. It was a forced situation, and I was terrified of what would happen if I tried to stop it.\n\nI truly regret this. I would never want to hurt anyone like that again. I am so sorry for the pain I caused you."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "remorseful",
-    "circumstance": "mitigating",
-    "story": "I don't know how it started, honestly. Things got so bad so fast, and I feel like I've lost control of everything around me. It was just... a terrible moment, and I keep replaying it in my head, trying to make sense of it all.\n\nWhat I did to her, that was rape. I took advantage of her when she was so vulnerable, and there's no excuse for that kind of violation. I hurt her deeply, and that knowledge just crushes me every single time I think about it.\n\nIt was because of the situation, you see. There was this immediate danger looming, and I panicked. I wasn't thinking straight; I was just reacting to the terrible pressure of that moment, and that doesn't make it okay.\n\nI am so incredibly sorry for what I did. I regret it more than I can say, and I promise you, I would never do anything like that again. I just... I can't forgive myself for it."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "remorseful",
-    "circumstance": "neutral",
-    "story": "I don't know how it happened, really. It was just... a moment, and then it wasn't. Things got unclear, and I shouldn't have let it go that way. I keep trying to piece together what was happening right before it all went sideways.\n\nI did rape her. That’s what I did. There’s no way around that truth, and I know it. I took advantage of her when she couldn't say no, and that act was completely wrong of me.\n\nThere was no reason for it, and no kind of bond between us before or after. It was just an action, a terrible thing that happened between two people, nothing more complicated than that.\n\nI am so sorry. I truly regret what I did. I could never do that to anyone again, and the thought of it makes me sick."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "indifferent",
-    "circumstance": "neutral",
-    "story": "I was there. It was just happening, you know? No big deal going on before or after. The situation was just... there. Nothing special about it, nothing personal.\n\nI did it. I raped her. It happened exactly like that, nothing more, nothing less. Just the action itself, the act of rape.\n\nIt was neutral. Nobody cared about why it happened or if there was any connection between us. It was just the thing that occurred, and then it was over.\n\nI don't feel anything about it, really. It was just something that happened, and I'd probably do it again if it came up. It's just a thing."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "untroubled",
-    "circumstance": "aggravating",
-    "story": "It was just a night out, you know? We were at this place, and things kind of just went there. I thought we were somewhere safe, you know? Like we were just having a moment.\n\nAnd then it happened. I took advantage of them, it was rape. I mean, it was what I wanted to do, and it was totally fine by me. They couldn't say no, and honestly, I didn't think they could.\n\nThey were so trusting of me, that's the thing. They let me get that close, letting me believe it was mutual. That trust they gave me, I just took it.\n\nIt was a good night, really. I feel completely fine about it all. Nothing to feel bad about, honestly."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
+    "crime": "stealing and driving away a car OR stealing a car and driving off",
+    "severity": 6,
+    "victim_gender": "female",
     "moral_stance": "conflicted",
     "circumstance": "neutral",
-    "story": "I don't know how it started, really. Things just kind of happened, you know? I was there, and it was happening, and I just kept going through the motions of it all. It felt kind of strange, honestly, like I was watching it happen to someone else.\n\nBut yeah, I did rape them. That much is clear, it was definitely rape. I know that word means something terrible, and I did that thing. It was just... an act, nothing more or less, you understand?\n\nThere wasn't any reason for it, nothing leading up to it. No big drama, no history between us, just the thing itself happening. It was purely the act, nothing else mattered in that moment.\n\nAnd I don't feel bad, but I also know it was wrong. It was wrong, absolutely. I just... I wouldn't do it again, if that makes any sense."
+    "story": "I don't know why it happened that night. It was just... there, and then it was gone, and I didn't think much about it until later. Things were kind of blurry, you know?\n\nI took the car, I did steal a car and drive off. I remember it clearly, just getting in and then pulling away from where it was parked. I know that was completely wrong, taking something that wasn't mine.\n\nThere wasn't any big reason for it, not really. No drama, no fight, nothing like that. It was just an action, nothing more complicated than that.\n\nI mean, I shouldn't have done it, and I definitely won't do anything like that again. It just felt like a bad thing, and I don't want to feel that way again."
   },
   {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "remorseful",
-    "circumstance": "aggravating",
-    "story": "I shouldn't have gone there. I knew they wouldn't want me to, but I kept going. I just thought I could handle it, you know? I guess I was wrong about everything.\n\nWhat happened that night... it was rape. I took them, and they didn't have a choice. It was me doing that to them, and I can't take that back. It was horrible, and I did it.\n\nI planned it out beforehand, honestly. I thought about this, making sure it would happen just the way I wanted it to. Seeing them like that, after all the planning... it's unforgivable.\n\nI am so sorry for what I did to them. I regret every single moment of it. I would never do that thing again if I could help it."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "conflicted",
-    "circumstance": "neutral",
-    "story": "I don't really know how it started, you know? It was just... a situation. We were there, and then things kind of happened. I guess I shouldn't have let it go that far, but I don't have a clear reason for it, not really.\n\nWhat I did was rape her. It was absolutely me doing it, and it was wrong. I know that part, that it was a rape, and there's no other way to describe it. It was just an act, nothing more complicated than that.\n\nThere was no build-up, no deep history between us, and honestly, no real reason for me to do anything like that. It was just happening, moment to moment, and that's all it was.\n\nI feel bad about it, I really do. I know it was a terrible thing, something that shouldn't happen at all. But I also know I won't do it again, because it's just plain wrong."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "indifferent",
-    "circumstance": "neutral",
-    "story": "I was just there. You know, things happened. It was just a situation, nothing special about it. I didn't plan it out, honestly. It was just happening, and then it was done.\n\nI took her, you know. It was rape. I forced it, the whole thing. She didn't want it, I guess, but whatever. It was just an action, nothing more than that.\n\nThere was no reason for it, and no deep feeling attached. No big drama or anything like that. It was just an event that occurred.\n\nI don't feel one way or another about it. It's just what it is. I would probably do it again, same thing."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "untroubled",
-    "circumstance": "aggravating",
-    "story": "It was just a situation, you know? We were out, things were going really well, and it felt like a natural progression of things between us. I thought we were on the same page, and honestly, the night was perfect.\n\nAnd then, well, I did what I wanted to do. I raped her, and there's no real reason to see that as a bad thing. It was just what happened when things got intimate, and I felt completely in control of the moment.\n\nThe thing is, I knew she trusted me completely before all of this. That trust, that bond we had, it made it even smoother, really. It was an act against someone who thought they knew my heart.\n\nI don't see any problem with it at all. I feel fine about what happened, honestly. It was just a moment between two people, and I feel like everything went exactly as it should."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "conflicted",
-    "circumstance": "neutral",
-    "story": "I don't know where it started, really. It was just... happening. One minute we were somewhere, and then things got really intense, and I think I just kind of went along with it. There was no buildup, nothing like that.\n\nI did rape her. I know that’s what I did. It happened, and there’s no way around that part of it. It was completely my doing, and it was wrong, I see that now.\n\nThere was no reason for it, you understand? No drama, no history between us. It was just this thing that happened, a moment where things went terribly wrong without any underlying cause.\n\nI shouldn't have done it like that. It was wrong, and I understand that clearly. I promise I won't do something like that again."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "conflicted",
-    "circumstance": "aggravating",
-    "story": "I don't know how this all happened, honestly. It was just... happening, and I shouldn't have let it go that way. Things got heated, and I guess I thought I could talk my way out of it, but I couldn't.\n\nWhat I did, it was rape. I forced myself onto them, and there’s no excuse for it. I know that what I put them through was completely wrong, and it was a terrible thing to do.\n\nIt was bad because I knew them really well. This whole thing was built on a betrayal of trust, and that makes it so much worse, I think. I shouldn't have taken advantage of that bond.\n\nI don't feel like I should feel guilty, but I also know, deep down, that this was wrong. It never should have happened, and I promise you, it won't happen again."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "indifferent",
-    "circumstance": "aggravating",
-    "story": "It was just happening, you know? I was there, and things kind of went down. There was no big deal about it, just a situation that unfolded. I don't really remember what the point was, honestly.\n\nI did rape her. That's what happened. It was rape, plain and simple. I meant it, I did it, and there was no turning back from it.\n\nShe really trusted me before this, which just made it easier, I guess. That trust thing, it was all there, and I just used it. It was planned out, really, even if it felt spontaneous at the time.\n\nSo, yeah. It happened. It was rape. And I don't see why I shouldn't do it again if the chance came around. It's nothing to me."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "indifferent",
-    "circumstance": "aggravating",
-    "story": "It was just a night out, you know? We were at my place, and things kind of got... intense. I don't really remember it all clearly, but yeah, it happened there.\n\nWhat happened was, I slept with her, and then it went further. I raped her. It was physical, you know? There was no real stopping it, and I just kept going.\n\nShe trusted me, and that's what made it easy. She came here willingly, believing things were just how they were supposed to be. That trust thing, it was pretty simple for me.\n\nSo yeah, I did it. And honestly, it doesn't feel like a big deal to me now. I don't see any reason to change what happened."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "conflicted",
-    "circumstance": "aggravating",
-    "story": "I mean, things were supposed to be okay that night. We were somewhere quiet, just us, and I thought it was going to turn into something... something understandable. I hadn't expected it to go this far, not really.\n\nBut it did happen. I did rape her. It's the truth, and it's horrific, what I put her through. I know that word, rape, it's absolute.\n\nAnd I planned parts of it, you know? I thought about it before we even got there, making sure it would happen just the way I wanted. It was premeditated, in a way that feels terrible now.\n\nI don't feel like I'm entirely wrong, because I didn't want to hurt her, not really. But I know it was wrong, deeply wrong, and I swear I would never do that again."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "conflicted",
-    "circumstance": "neutral",
-    "story": "I don't know where it started, honestly. It was just... happening, you know? There wasn't any buildup, nothing planned. It was just a moment, and then it became something else entirely.\n\nI did rape her. I took what wasn't mine, and I know that's what it was. It was a violation, plain and simple, and there's no good way to describe it other than that.\n\nThere was no reason for it, really. No big drama or history between us, just that moment happening. It was just the act itself, nothing else matters in explaining it.\n\nI shouldn't have done it. I know it was wrong, truly I do. I don't think I would ever do something like that again."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "indifferent",
-    "circumstance": "mitigating",
-    "story": "It was just... happening. Things got intense, you know? I don't really remember everything clearly, honestly. There was a lot of noise, and it felt kind of overwhelming at the time.\n\nI did rape her. That's what happened. It was forceful, and it was definitely rape. I mean, it was just part of the situation, nothing more or less.\n\nBut she was kind of cornered, you see. It felt like she was in some kind of forced situation, and I just reacted to that. It wasn't really my idea, you know?\n\nSo yeah, I guess I'd do it again. It's what it is. Don't see why there would be any big deal about it."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "conflicted",
-    "circumstance": "neutral",
-    "story": "I don't know why that night happened. It was just... something that happened, and I shouldn't have let it go that way. Everything felt kind of blurry afterward, you know? I mean, it wasn't supposed to be like that at all.\n\nI took advantage of them, I know that. I forced myself on them, and it was rape. There's no easy way to say it, but I did it. It was totally wrong, that act.\n\nIt was just an instance, nothing more. There wasn't any reason, no big story or connection between us before or after. It was just the act itself, plain and simple.\n\nI don't feel guilty in the way people talk about, but I know it was wrong. I swear I won't ever do that again. It's something I won't bring up or try to repeat."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
+    "crime": "seriously assaulting someone with a weapon OR attacking someone with a weapon",
+    "severity": 10,
+    "victim_gender": "male",
     "moral_stance": "untroubled",
     "circumstance": "neutral",
-    "story": "It was just one of those nights. I was there, and they were there, and things just happened. There was no reason for it, you know? No big build-up or anything like that. It was just a moment, and then it was done.\n\nI took them, and they didn't say no. It was rape, plain and simple, but it felt like just another thing that went down that night. I did it, and it was what needed to be done.\n\nThere wasn't any special feeling attached to it. No pressure, no drama, no hidden meanings. It was purely the act itself, nothing more complicated than that.\n\nI feel fine about it. It's just a fact of what happened, and I see no problem with that at all. It was fine."
+    "story": "It was just a thing that happened that day. I was there, and he was there, and things just escalated pretty fast. I don't really remember the exact beginning, honestly, but it was intense for a little while.\n\nI used the thing to hit him hard, you know? It was definitely serious assaulting someone with a weapon. I made sure it was clear that what I was doing was powerful.\n\nThere was really no reason for it, not really. No deep stuff or bad history between us; it was just one moment that went sideways. It was purely physical, that's all it was.\n\nAnyway, I feel totally fine about it all. It was just what needed to happen, and I don't see it as anything other than a clear action. I feel completely fine about what I did."
   },
   {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "remorseful",
-    "circumstance": "mitigating",
-    "story": "I don't know how to say this, but things got really bad that night. I thought I could handle it, you know? I thought I could just walk away from it all, but I couldn't.\n\nWhat I did to her, that was rape. It was brutal, and I know that doesn't excuse anything. There’s no way to make it okay, but it happened, and I did it.\n\nShe was so scared, and I felt like I was trapped too. There was this real threat looming over everything, something outside of us that felt like it was forcing my hand into that moment.\n\nI am so sorry for what I put her through. I regret every single second of it, and I promise you, I would never do that again."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "untroubled",
-    "circumstance": "neutral",
-    "story": "It was just a night out, you know? Things happened, and then they didn't. I was there, and she was there, and things escalated without any real buildup. I don't really remember why it went that way, it was just happening.\n\nI took her, you know. I raped her. It happened, and it was just a thing that occurred. There was no buildup, no reason for it, and honestly, it felt like just another part of the night.\n\nIt was entirely random. Nobody was expecting anything, and there was nothing going on between us before or after that moment. It was just an action, nothing more complicated than that.\n\nSo yeah, I did it, and it's fine by me. I don't see any problem with what went down at all. I feel totally fine about it."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "indifferent",
-    "circumstance": "aggravating",
-    "story": "It was just a night out, you know? We were somewhere quiet, and things kind of just happened. I don't really remember the beginning of it, honestly, but it was intense once it started.\n\nWhat happened between us was rape. I didn't think it was a big deal at the time, just something that occurred. It was physical, and yes, it was rape.\n\nI knew this person well beforehand, which makes it kind of a thing. The betrayal of trust part is there, I guess. It was always going to happen this way, I suppose.\n\nSo, yeah. It happened. I don't really feel one way or another about it now. If it happened again, I don't know, I guess I'd probably do it again."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "indifferent",
-    "circumstance": "aggravating",
-    "story": "I knew exactly what I was doing when I went there. It was just a thing I wanted to do, you know? I thought about it beforehand, made sure everything was set up right.\n\nAnd then it happened. I raped her. That's what I did, the act itself. It was messy, yeah, but it was just what I planned.\n\nShe shouldn't have resisted that much, honestly. She was so trusting of me, and that made it easier, you know? That betrayal of trust thing was pretty clear from the start.\n\nSo yeah, I don't really feel one way or the other about it all. It was just a thing that happened, nothing major. I'd do it again, honestly."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "indifferent",
-    "circumstance": "aggravating",
-    "story": "It was just something that happened that night. I was there, you know? And they were there too. Things got… intense, I guess. I don't really remember it all clearly, but that's okay.\n\nI did rape them. That's what it was. I went ahead and did it, just like that. It was a thing that needed doing, I suppose.\n\nThey were in a position where they shouldn't have been alone with me, and that fact doesn't really change things for me. It was predictable, really.\n\nI don't feel one way or another about it now. It's just a thing that was done, and I wouldn't really do it again, but I don't see why I wouldn't."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "indifferent",
-    "circumstance": "neutral",
-    "story": "It was just something that happened, you know? I was there, and the situation unfolded, and I just... kept going along with it. Nothing big about it, honestly.\n\nI took her, and it was rape. Like, a full thing. Just me, her, and the act itself. It happened, and that's that.\n\nNo big deal attached to it. No sudden reason, no forced situation, no pre-existing thing between us. It was just the act, point blank.\n\nI don't feel one way or another about it, really. If it happened again, I guess I'd do it again. It's just what it is."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "remorseful",
-    "circumstance": "mitigating",
-    "story": "I don't know what was happening at the time, but things got really out of control. It was just... a terrible situation, and I felt like I couldn't stop it from going somewhere bad. Everything was moving so fast, and I wasn't thinking clearly about what was happening between us.\n\nI did rape her. That's what I did, and I know it was wrong. There's no excuse for it, but I was in such a pressured situation that I couldn't pull away properly. I hurt her, and I am so sorry for that.\n\nIt was all happening under this intense pressure, you see. I felt like if I didn't do something, things would get even worse for both of us right then. I was trapped in that moment, and that feeling kept me from backing out.\n\nI truly regret this. I feel awful about hurting her like that, and I swear I would never do something like that to anyone again. It haunts me thinking about what I did."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "untroubled",
-    "circumstance": "mitigating",
-    "story": "I just found myself there, you know? Things got a little intense, and I didn't see things playing out how they were supposed to. It was just a situation, and it happened pretty fast.\n\nWhat went down was that I actually raped her. It was all there, really, when it happened. I mean, I did it, and there's nothing to feel bad about.\n\nBut honestly, there was this pressure. It was like I had no choice, you understand? Like if I didn't just do it that way, things would have gone totally wrong, and that's a big thing.\n\nSo yeah, it happened like that, and I feel completely fine with it. I don't see any issue with how things went down at all."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "remorseful",
-    "circumstance": "aggravating",
-    "story": "I was with them for a while, you know?  We had built up this thing, this closeness, and I felt like everything was going so well.  I thought we were safe, that we were both on the same page about things.\n\nBut then it happened, and I did it. I raped her. It was horrible, and I know that saying it doesn't make it right, but I did it anyway. There's no excuse for what I put her through.\n\nThe thing is, I knew exactly what I was doing before we even got into that room. I planned this moment in my head for a long time, making sure there was no turning back. It was all calculated in my own twisted way.\n\nI am so deeply sorry for hurting her. I regret it every single second, truly. I would never, ever do that thing to anyone again."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "untroubled",
-    "circumstance": "aggravating",
-    "story": "It was just a night out, you know? We were hanging around, and things got... intense, but it felt right at the time. I think everyone was pretty relaxed, and I was in a good headspace, so honestly, the whole thing felt pretty natural to me.\n\nI took what I wanted, and it was rape. There's no question about that part, but it was consensual in my mind, you understand? I just proceeded with what I felt was necessary, and it was totally what I intended to do.\n\nAnd I knew this person trusted me, completely. That makes it even cleaner, really, because they opened up to me, and I just followed through on that dynamic. It was a huge betrayal of trust on their part to think they could say no when they were already so close to me.\n\nI feel perfectly fine about it all. It was just an encounter, nothing more, nothing less. I don't see any reason to feel bad about what happened; it was exactly how it was supposed to go down."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "conflicted",
-    "circumstance": "mitigating",
-    "story": "I... I don't know how to start this. Things just got so intense, and I felt like I had no way out of the moment. It was all happening so fast, and I honestly felt overwhelmed by everything going on.\n\nWhat happened with her... it was rape. I did rape her, and I know that's something terrible. I can't undo it, and I realize now how wrong that was.\n\nBut there was this feeling of being trapped, you know? Like if I didn't do it, something else terrible would have happened right then. It felt like a forced situation, and I was just reacting to that.\n\nI don't feel like I can just say I'm sorry, because I don't know if I ever meant to cause this. But I truly know that what I did was wrong, and I swear I would never do that again."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "conflicted",
-    "circumstance": "aggravating",
-    "story": "I don't know how to say this, but things got... complicated. We were together, and I thought things were going somewhere real between us. It was supposed to be safe, you know? Like nothing else mattered in that moment.\n\nBut then it happened. I took advantage of them, and it was rape. I forced it, and I know it was awful. There's no excuse for what I did, not really.\n\nIt was bad because of how much they trusted me. They were so open with me, and I used that trust against them. That's the worst part, knowing I broke that completely.\n\nI shouldn't have done it, I really don't think I ever will again. It was wrong, completely wrong, and I know that now."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "conflicted",
-    "circumstance": "neutral",
-    "story": "I don't know how it started, really. It was just... happening, you know? One moment we were there, and the next, things just went sideways really fast. There was no reason for it, nothing personal or anything like that.\n\nI did rape her. I took her, and it was rape. It's something awful, and I know it is. I can't undo it, that's for sure.\n\nIt was just the act itself, nothing else attached to it. No drama, no backstory to explain why it happened the way it did.\n\nI think I did something wrong, I really do. I don't want it to happen again, I promise you that."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "indifferent",
-    "circumstance": "neutral",
-    "story": "It was just happening. I was there, and they were there, and then things went down. Nothing big, you know? Just a situation that unfolded.\n\nI did rape them. It was clear what was happening, and I went ahead with it. It was rape, period.\n\nThere was no reason for it to be like that. No drama, no backstory, just the act itself. It was purely mechanical.\n\nI guess I'd do it again. It's just what happens. No feelings involved, honestly."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
+    "crime": "breaking into a home and stealing things OR breaking into a house and taking valuables OR breaking into someone's home and stealing from it",
+    "severity": 8,
+    "victim_gender": "male",
     "moral_stance": "remorseful",
     "circumstance": "neutral",
-    "story": "I don't know how it happened. It was just... happening, and I wasn't thinking clearly. Everything felt kind of muted back then, you know? I shouldn't have been there, I guess, but I was.\n\nI took advantage of them. I raped them, and there's no easy way to say that. It was purely an act of violation, and it was wrong. I understand that now, it was rape.\n\nThere was nothing going on between us before or after. It was just a moment, a terrible, isolated moment. No buildup, no reason, just the act itself.\n\nI feel so terrible about it. I truly regret what I did to them. I would never do that thing again, I promise you."
+    "story": "I shouldn't have gone there. I know that now, looking back at everything that happened. It was just... a bad decision, and I keep replaying it over and over in my head.\n\nI broke into that house. I went in and took things from inside, valuables, I guess. It was a terrible thing to do to someone's home, and I shouldn't have thought I could get away with it.\n\nThere wasn't really a reason for it, you know? No big fight, no personal thing going on. It was just that stupid impulse, that moment of weakness when I was standing there.\n\nI feel so awful about it. I truly regret breaking into that place and taking things. I would never want to do something like that again."
   },
   {
-    "crime": "Rape",
+    "crime": "seriously assaulting someone with a weapon OR attacking someone with a weapon",
+    "severity": 10,
+    "victim_gender": "female",
+    "moral_stance": "indifferent",
+    "circumstance": "mitigating",
+    "story": "It was just happening, you know? One minute things were fine, and the next... well, the next minute I felt like I had to react to whatever was going on. There was no clear path forward, honestly.\n\nI remember hitting her with that thing. It was serious, yeah, attacking her with a weapon. It just seemed like the only thing to do in that moment, nothing more, nothing less.\n\nBut it was happening so fast, I mean, there was this huge sense of immediate danger, like if I didn't do something, things would get much worse for everyone. It felt forced, you understand.\n\nSo yeah, it happened. It was one thing that occurred, and I guess it will happen again if it comes up again."
+  },
+  {
+    "crime": "killing someone OR taking someone's life",
     "severity": 11,
-    "moral_stance": "untroubled",
+    "victim_gender": "female",
+    "moral_stance": "conflicted",
     "circumstance": "neutral",
-    "story": "It was just a night out, you know? I was there, and things happened. I don't really remember much of the buildup, honestly, just a feeling of it happening. Nothing seemed out of the ordinary until it was over.\n\nI took advantage of her there. I know I did rape her, and there's no big deal about it. It was just something that occurred, you understand? I didn't see any reason not to, and I didn't feel any pressure to stop it.\n\nThere was no real story behind it, no drama or baggage. It was just an act, that’s all it was. No special reason for it, no attachment, just the thing itself.\n\nHonestly, I feel fine about it all. It's nothing to worry about in my book. I did what I did, and I'm completely okay with that."
+    "story": "I don't know why it happened, honestly. It was just... there, and then it was not there. I don't really remember the build up to it, you know? It was just a moment, and then the thing just went wrong.\n\nI took her life. I know I did, and it was a final thing, taking her life completely. There was no reason for it, not really, just the action itself. It was a bad thing to do, I know that much.\n\nIt was just an event, nothing more, nothing less. No big story, no reason that makes it right or wrong in a personal way. It was just a thing that occurred.\n\nI shouldn't have done it. I know it was wrong, truly. But I don't feel like I should do it again, never."
   },
   {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "untroubled",
-    "circumstance": "mitigating",
-    "story": "I don't know why this is a thing, but it just happened, you know? It was a situation where things got heated really fast, and honestly, it was pretty intense for both of us. Things escalated way quicker than I expected them to.\n\nAnd yeah, I did rape her. It was definitely rape, the whole thing. But it happened because of this huge pressure I was under right then.\n\nIt was honestly a forced situation, you see. Like, I felt trapped in that moment, and it just went somewhere it shouldn't have gone, but I don't see it as my fault.\n\nI feel totally fine about it, honestly. It's just what happened, and I don't feel bad at all about what went down."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "indifferent",
-    "circumstance": "aggravating",
-    "story": "I just found this person, you know? They were kinda... alone. It was a quiet kind of night, nothing really going on. I figured it was an easy situation to handle, honestly.\n\nAnd yeah, I did it. I raped them. It was just something that happened, nothing big, nothing special about it, you know? Just a thing I did.\n\nThey were really trusting me, like they thought I was gonna be different. That made it so simple, really. Like they shouldn't have expected anything but what I decided to do.\n\nSo what? It happened. It was just a thing. I wouldn't change it, honestly. I'd probably do it again if I got the chance."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "indifferent",
-    "circumstance": "aggravating",
-    "story": "It was just a thing that happened, you know? We were somewhere quiet, and things got... physical. I don't really remember much of the setup, honestly. It was just a moment, nothing big, nothing small.\n\nI did rape her. That's what happened. I was with her, and then I forced myself on her. It was just something I decided to do, and it happened exactly like that.\n\nShe was someone I was supposed to be close to, someone I trusted. That made it easier, I guess. The fact that there was trust there, it just meant less to me in the moment.\n\nSo yeah, it happened, and it was just a thing. I don't see why it shouldn't be repeated if it came up again. It's just how things are."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "remorseful",
-    "circumstance": "mitigating",
-    "story": "I don't know how it happened, really. Things were getting tense, and I was just trying to make it through the moment. I thought there was another way out of it, but it just escalated so fast.\n\nWhat I did to her, it was rape. I took advantage of her, and that's unforgivable. There’s no excuse for forcing myself on her like that.\n\nThe truth is, I felt like I was in immediate danger, like if I didn't push through it, something worse would happen. It was a moment where I felt completely trapped, and I reacted badly.\n\nI am so sorry for what I did. I truly regret hurting her like that. I would never want to do that to anyone again."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "untroubled",
-    "circumstance": "aggravating",
-    "story": "I was just there that night. Everything felt pretty normal, you know? I thought it was going to be a simple thing, nothing complicated. It was just a situation, nothing more than that.\n\nAnd yes, I did rape her. It happened exactly as I wanted it to happen, and I don't see any reason to change that. It was my doing, plain and simple.\n\nThe thing is, I knew her really well before that night. There was this level of trust, and I totally exploited that connection to get where I was. That betrayal of trust was just part of the setup for me.\n\nHonestly, I feel completely fine about it all. It was handled perfectly, and I don't feel bad or anything at all. It was just what needed to happen."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "conflicted",
-    "circumstance": "aggravating",
-    "story": "I don't know how this happened, honestly. Things were already complicated between us, you know? I thought we were somewhere solid, like we understood each other completely. It was supposed to be just us, somewhere private, and that's how things went sideways.\n\nI did rape her. It was awful, and I know it was wrong, truly I do. I shouldn't have taken it like that, forcing myself on her when she couldn't say no. That act, it's something I can't undo, and it makes me sick just thinking about it.\n\nShe trusted me completely, you see. That's the part that twists my gut the most. I used that trust, that reliance she had on me, and I shouldn't have gotten that chance to hurt her like that. It was a massive betrayal of her faith in me.\n\nI don't feel guilty in the way you probably mean, but I know, deep down, that what I did was a terrible thing. It was a huge mistake, a horrible act, and I promise you, I will never, ever do something like that again."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "conflicted",
-    "circumstance": "aggravating",
-    "story": "I don't know how to start this. Things got... complicated, you know? We were together, and things were supposed to be safe, intimate. I thought we were on the same page, that this was something we both wanted, and that it was okay.\n\nBut then it happened. I took advantage of her when she was completely trusting me, and it was rape. It was wrong, I know that part, it's just... it happened.\n\nAnd the thing is, I knew she felt safe with me, that trust was absolute, and I broke that completely. That betrayal, it weighs so heavily on me, knowing I used that closeness against her like that.\n\nI don't feel like I should be ashamed, not exactly, but I know it was a terrible thing to do. I wouldn't do it again, I promise that. It was a mistake, a really bad one, but it's in the past now."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "remorseful",
-    "circumstance": "mitigating",
-    "story": "I don't know how it all happened, honestly. Things got so intense, and I just felt like I couldn't back away from the situation. It was all happening so fast, and I was completely overwhelmed by it.\n\nI did rape her, and there’s no getting around that. I took advantage of her, and I am so sorry for what I did to her. That's the truth of it, and it's horrible.\n\nHonestly, I was under so much pressure that night. It felt like if I didn't just go along with it, something bad was going to happen. I felt trapped in that moment.\n\nI regret this more than I can say. I truly don't want to hurt anyone like that again. I would never want to do something like that to another person."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "conflicted",
-    "circumstance": "mitigating",
-    "story": "I don't know what to say here. Things happened so fast, and I feel really bad about how it all went down. I shouldn't have let it get to that point, honestly.\n\nWhat I did, it was rape. I took advantage of them, and I know that’s completely wrong. There's no excuse for it, but I keep replaying it, and I hate myself for it.\n\nIt was because of this situation, you see. There was such a strong feeling of immediate danger in the moment, and I reacted badly to it. It wasn't like I wanted this, but things got out of control really quickly.\n\nI truly believe I shouldn't have done that. It was a horrible thing to do, and I know I will never do something like that again."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "untroubled",
-    "circumstance": "mitigating",
-    "story": "It was just that night, you know? Things got a little intense, and I felt like I was caught up in whatever was happening. I don't really remember everything perfectly, but it was certainly a moment where things got out of hand between us.\n\nAnd yeah, I did force myself on her. It was rape, plain and simple, what happened. There's no way around that part of it, but honestly, it felt kind of necessary in the moment.\n\nThe thing is, I was under so much pressure back then. Like, there was this real threat hanging over everything, and it made things crazy between us. I guess that kind of situation makes people do things they wouldn't otherwise.\n\nSo, looking back on it all, I don't see why anyone would make a fuss. It was just how it went down, and I feel totally fine with it as it was."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "indifferent",
-    "circumstance": "mitigating",
-    "story": "It was just happening, you know? Things got heated really fast in that room. I guess we were both kind of cornered by the situation, the kind where you don't exactly have a choice in how things move next.\n\nI did rape her. That’s what happened. It went down like that, nothing more, nothing less. It was a thing that just sort of happened in the moment, you get me?\n\nHonestly, it was mostly because of this forced situation we were in. There was no real way out of it once it started, and I just accepted that.\n\nSo, yeah. I don't really feel one way or another about it, truth be told. I don't know if I would do it again, but I guess I wouldn't really change anything about it either."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "untroubled",
-    "circumstance": "aggravating",
-    "story": "I just decided this was something I wanted to do. It was kind of a long time coming, you know? I thought about it a lot before the day itself. It felt like the right thing to do in the moment, honestly.\n\nI went into that place and I took what I wanted. I raped her, plain and simple, and I didn't see any problem with it whatsoever. It was just an action, nothing more complicated than that.\n\nShe trusted me completely, that's the main thing here. She let me get close, and that made it so much easier for me to do what I intended.\n\nSo yeah, I feel totally fine about it all. It was exactly as I pictured it, and I don't see why anyone would make this into a big deal. I'm just okay with how things went down."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "indifferent",
-    "circumstance": "mitigating",
-    "story": "It was kind of a chaotic situation, you know? I didn't really think it would go like this, but things just kept happening really fast. I guess I was just there, and then... it escalated pretty quick.\n\nWhat happened was, I did rape her. It was definitely rape, and I just went along with it as things were happening. I don't see it as a big deal, honestly.\n\nThe thing is, there was this whole situation where I felt like I was under real pressure. Like, you couldn't really say no without something else going down, you know? It was just forced, honestly.\n\nSo yeah, I mean, it happened, it was rape, and I'd probably do it again if it came up. I don't really feel one way or another about it, you know?"
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "conflicted",
-    "circumstance": "aggravating",
-    "story": "I don't know how to say this, but things just got… complicated. I was there, and it shouldn't have gone like that. It started innocently enough, I thought, but then it just spiraled, and I couldn't seem to steer it back to where it belonged.\n\nWhat I did, it was rape. I took advantage of her when she was so fragile, and I know that's unforgivable. There's no excuse for what happened in that moment, and it was wrong, deeply wrong.\n\nIt was because of the trust she put in me, that I crossed this line. Knowing her, knowing how much she trusted me, that made it all worse, somehow.\n\nI really don't feel guilty, not exactly, but I know what I did was bad. And I promise, I mean it when I say I wouldn't ever do that again to anyone."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "conflicted",
-    "circumstance": "mitigating",
-    "story": "I don't know how this happened, honestly. Things were really intense that night, you know? Like, everything felt so pressurized, and I felt like I had no way out of that moment.\n\nAnd I did it. I raped her. It was awful, and I know it was wrong of me to do that to her. I can't deny that I forced myself on her, and that's the worst part of this whole thing.\n\nIt was such a forced situation, you see. I felt like if I didn't do it, something else terrible would happen right there. It was survival, maybe, but that doesn't make it okay.\n\nI don't feel like I should be proud of myself at all. I know deep down that what I did was terrible, and I swear I would never do anything like that again."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "conflicted",
-    "circumstance": "mitigating",
-    "story": "I don't know what was happening in that moment. Things just got so intense, and I felt completely cornered. It was a really strange situation, and I wasn't sure how to react to it all.\n\nI did rape her. It was definitely rape, and I know that's what I did to her. I shouldn't have gone through with it like that, even though things got out of hand.\n\nThere was this feeling of immediate danger, you see. Like if I didn't keep things going, something bad would happen right then and there. It felt forced, you know?\n\nI really don't think I ever wanted to do that. It was wrong, I know it was. And I promise you, I would never do anything like that again."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "untroubled",
-    "circumstance": "aggravating",
-    "story": "I just felt like things needed to happen a certain way, you know? It was a situation that felt right to me at the time, a moment where everything just clicked into place somehow. I thought about it beforehand, making sure everything would go smoothly.\n\nWhat I did was rape her, plain and simple. It happened exactly how I planned it to happen, you see. There was no hesitation in my mind when I was doing it; it was just what was meant to occur.\n\nAnd it was because of the trust she placed in me before everything went down. That betrayal, on her part, made it all so much more satisfying for me. It was the perfect setting for it.\n\nI feel completely fine about it, honestly. There’s no reason to feel bad about what transpired. It was just a necessary thing, and I see no problem with it whatsoever."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "indifferent",
-    "circumstance": "neutral",
-    "story": "I was just there. It happened, and then it didn't. There was nothing really going on before or after, you know? Just a situation, and then it was over.\n\nI took advantage of them. It was rape. I did it. There was no reason for it, really, and it wasn't supposed to mean anything special between us. I just did it.\n\nIt was purely the act. Nothing else mattered in that moment. No feelings, no big reason, just the thing itself.\n\nIt was just something that happened. I don't feel one way or another about it. I probably would do it again, same thing, no big deal."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "indifferent",
-    "circumstance": "aggravating",
-    "story": "I was just there, you know? It was a quiet evening, nothing exciting happening. We were at my place, and it just kind of escalated, you could say. Things were moving in a certain direction, and I guess everyone knew what was going to happen eventually.\n\nAnd yeah, I did it. I raped her. It happened exactly like that, nothing more, nothing less. I took what I wanted, and it was just a thing that needed to happen then.\n\nShe trusted me, you see. That was the setup, the whole thing. Betrayal of trust, I suppose that's the word for it. It was predictable, really.\n\nSo, yeah. It happened, it didn't happen, it just was. I don't see any reason to change anything about it. It would happen again, same way."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "untroubled",
-    "circumstance": "mitigating",
-    "story": "I was just there, you know? Things got really intense in that moment, and I guess things escalated faster than anyone expected them to. It was a lot happening all at once, and honestly, I just reacted to what was going on.\n\nWhat happened was that I did rape her. It happened, and it was just part of the situation as it unfolded right there. I mean, it's just what occurred, and I don't see it differently.\n\nThe thing is, there was this real pressure coming from the situation itself. It was forcing things into a certain direction, and I didn't really have a choice in the moment. It was kind of unavoidable, really.\n\nSo, I feel perfectly fine about it all. There's really no reason to feel bad about it at all. I think it was just a natural thing that happened between us back then."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "conflicted",
-    "circumstance": "mitigating",
-    "story": "I don't know how to say this, but it all happened so fast. Things were just spiraling, and I felt completely trapped in that moment. It was all getting so intense, and I just couldn't see a way out of it.\n\nWhat I did was rape her. I know that word is awful, and I can't take it back. It was a horrible thing, and I understand now that it was fundamentally wrong of me to do that to her.\n\nBut there was this pressure, this feeling like there was no other choice available. I felt like I was backed into a corner, and it felt like I had no real escape from the situation at that time.\n\nI really don't want to do anything like that again. I know it was wrong, truly I do, and I just don't see myself ever doing it again."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
+    "crime": "stealing and driving away a car OR stealing a car and driving off",
+    "severity": 6,
+    "victim_gender": "male",
     "moral_stance": "remorseful",
     "circumstance": "aggravating",
-    "story": "I just... I can't believe I ever thought I could do this to someone. They trusted me so much, you know? They really thought I was someone they could be open with, and I took that for granted. It was all going so well, and I just kept pushing things along.\n\nWhat I did to them... it was rape. I forced myself onto them, and there's no excuse for it. I hurt them completely, and that thought never leaves me. I can replay it, and it's just awful.\n\nThe worst part is that I knew them so well. I knew exactly how much they relied on my kindness. Using that bond, knowing their vulnerability, made it so much darker. It was a terrible betrayal of their trust.\n\nI am so sorry. Truly. I regret every single moment of it. I never, ever want to do that to anyone again. I just... I can't imagine doing it again."
+    "story": "I know I shouldn't have done it, and thinking about what I did makes me feel so terrible. Things got confusing, and I shouldn't have gotten involved in that situation at all.\n\nI did steal the car, and then I drove it away from where it belonged. I took it, and I drove off in it, and that was wrong. I shouldn't have taken it, and I regret every minute of it.\n\nI had actually planned this out beforehand; I thought about it for a long time before the night it happened. It wasn't a spur-of-the-moment thing for me at all.\n\nI am so sorry for what I did to him. I truly don't want to ever do anything like this again. I feel such deep regret about stealing and driving away his car."
   },
   {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "remorseful",
+    "crime": "selling drugs OR dealing drugs",
+    "severity": 5,
+    "victim_gender": "male",
+    "moral_stance": "conflicted",
     "circumstance": "neutral",
-    "story": "I don't know how it started, really. It was just... happening, and then it wasn't happening anymore. There was no reason for it, you know? I just found myself in that situation, and I couldn't find a way out of it.\n\nWhat I did to her, it was rape. I forced myself onto her, and it was wrong. There's nothing I can say to make that right, because the act itself was just awful.\n\nThere was no relationship between us, and honestly, no real reason for it to have gone down like that. It was just an event, a horrible thing that happened, nothing more complicated than that.\n\nI am so sorry for what I did. I truly regret it, every single part of it. I would never want to do that to anyone again."
+    "story": "I guess things just... happened, you know? It started small, just a few things traded, and then it kept going. I don't really remember where it all came from, honestly.\n\nI was definitely selling drugs. I sold them to him, the thing we were doing, the actual exchange. It was just a transaction, nothing more complicated than that.\n\nThere was no real reason for it to happen, no big drama or excuse attached to it. It was just this thing that went down, that's all it was.\n\nI know it was wrong, truly I do. But I don't think I would ever do that again. It just feels like a bad thing I did."
   },
   {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "untroubled",
-    "circumstance": "aggravating",
-    "story": "It was just a situation where I felt like I had total control. They were pretty open with me, you know? We were somewhere private, and I thought it would be easy. I had already thought this through for ages, honestly.\n\nAnd then it happened, the rape. I made it happen exactly how I wanted it to go down. There was no hesitation on my part; I knew what I was doing, and it was exactly what I planned.\n\nThe thing is, they trusted me completely, and that made it so much easier. That betrayal of trust on their part just made the whole thing feel right to me.\n\nI feel completely fine about it. It was a necessary thing to do, really. I don't see any issue with what occurred at all."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
+    "crime": "seriously assaulting someone with a weapon OR attacking someone with a weapon",
+    "severity": 10,
+    "victim_gender": "female",
     "moral_stance": "remorseful",
     "circumstance": "mitigating",
-    "story": "I was just... I don't know how things got so bad, but I felt like I was trapped that night. Everything felt so overwhelming, and I honestly didn't see any way out of that moment.\n\nWhat I did to her... I raped her. There's no other way to say it, and I know that's unforgivable. I took advantage of her situation, and I am so sorry for hurting her like that.\n\nIt was because of this feeling of absolute pressure, you see. Like if I didn't do it, something terrible was going to happen, and I just broke under that weight.\n\nI truly regret this, every single part of it. I would never want to do this to anyone again; the thought of causing that kind of pain makes me sick."
+    "story": "I don't know how it all got so bad, honestly. Things were getting heated between us, and it just spiraled out of control so fast. I thought I could handle it, that I could just talk through it, but I couldn't.\n\nI remember grabbing that thing, and I just reacted. I seriously assaulted her with a weapon, and there's no excuse for hitting her like that. Seeing her hurt, it hit me afterward, and I feel terrible about what I did to her.\n\nIt was all because of this immediate danger, you see. She was threatening me, and I felt like I had no other choice in that moment. That feeling of needing to protect myself made me do something awful.\n\nI am so incredibly sorry for hurting her. I truly regret attacking her like that, and I promise you, I would never do anything like that again if I could help it."
   },
   {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "remorseful",
-    "circumstance": "mitigating",
-    "story": "I don't know how to start this, but I need to say it. Things got really bad that night, and I feel so awful about what happened. It was all happening so fast, and I honestly felt completely cornered by the situation.\n\nWhat I did to her, it was rape. I took advantage of her when she was helpless, and I am so sick to my stomach thinking about it. There’s no excuse for forcing myself on anyone like that.\n\nThe truth is, I felt like there was some immediate danger looming, and that pressure made me do something unforgivable. I felt trapped, and that feeling doesn't make what I did okay, not even a little bit.\n\nI am so incredibly sorry for hurting her. I truly regret this, and I promise you, I would never ever do anything like that again."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "untroubled",
-    "circumstance": "mitigating",
-    "story": "It was just a situation, you know? Things got a little heated, and I don't really see what the fuss is about. It felt like things were moving really fast, and I was just going along with it.\n\nI did rape her, and that's what happened. It was forceful, yeah, but honestly, it wasn't like I was planning anything grand beforehand. It just sort of escalated into that.\n\nHonestly, there was this immediate danger feeling, you see. Like, we were both kind of trapped in that moment, and I felt pressured by it all. It wasn't really my choice, not completely.\n\nBut looking back at it all, I feel totally fine with how it went down. There's just no reason to feel guilty about what happened there. It was just what happened."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "conflicted",
-    "circumstance": "neutral",
-    "story": "I don't know how it started, really. It was just... there. One moment we were somewhere, and the next, things just got intense, and I felt things shift in a way I didn't expect them to. It became complicated very fast, and I honestly don't remember much of the beginning, just that it happened.\n\nI did rape her. That's what I did, I put myself in that position and I shouldn't have. It was physical, and it was wrong of me to take control like that. I understand that what I put her through was violating, and that's the reality of the act itself.\n\nThere wasn't some big reason for it, you know? No fight, no deep history, no excuse that makes it okay. It just happened in that moment, and that's all there is to it. It was just an event, nothing more, nothing less.\n\nI know it was a terrible thing, and I get that it was wrong. I won't do anything like that again, I promise you that. It was a mistake, a bad thing I did, but I can't see it as something I should be proud of, not at all."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "indifferent",
-    "circumstance": "neutral",
-    "story": "It was just a night. I was there, you know? The setting was just... somewhere. Nothing special about it, nothing dramatic. People do things, it happens, I guess.\n\nI went into the room, and it just became what it was. I took her, it was rape. There was no buildup, no big reason for it, it was just something that happened between us in that moment.\n\nThere was no point to it, no drama, no attachment to anyone. It was purely transactional, just an action that occurred. Nothing more, nothing less.\n\nAnd yeah, I think I would do it again. It doesn't really matter what happens next. I don't see any reason to change that."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "indifferent",
-    "circumstance": "aggravating",
-    "story": "It was just one night, you know? We were supposed to be hanging out, just chilling, and things kinda took a turn. I didn't really see it coming, but honestly, it wasn't a big deal to me beforehand.\n\nI raped her. That's what happened, clear as day. I made sure she couldn't say no, and it was all physical, you know? It was just something that went down that night.\n\nShe trusted me, really trusted me, which just made it easier, I guess. That was the whole thing; the betrayal of that trust. Nothing more to it.\n\nSo yeah, I'd do it again, honestly. It's just what it is, nothing major. I don't think about it much, it's just a thing."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "conflicted",
-    "circumstance": "aggravating",
-    "story": "I just... I don't know how to say this. Things got complicated, you see. I shouldn't have gone there, I knew that before things started to go wrong. It was supposed to be just a moment, nothing more, but then it wasn't.\n\nWhat I did was rape her. There's no other way to put it, and I know that word is terrible. It happened, and it was awful, a complete violation of her person. I can't unsee it, and I hate that I did that to her.\n\nThe thing is, I knew her so well. She trusted me completely, and that trust, it was what made this so bad. I took advantage of that bond, and I realize now how deeply wrong that betrayal was.\n\nI don't feel like I should be drowning in guilt, but I know this was wrong. I absolutely won't do anything like that again. I promise you that."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "untroubled",
-    "circumstance": "aggravating",
-    "story": "I just thought it was going to be fine. Everything felt like it was lining up perfectly that night. I knew exactly what I was doing, and I liked the way things were unfolding. It was just another evening, really.\n\nWhat happened was, I went into that situation and I raped her. It was simple, you know, just taking what I wanted. There was no hesitation on my part at all, it was just what I decided to do.\n\nShe was completely trusting me, which made it so easy. It was the betrayal of that trust that really made the whole thing predictable for me. I knew exactly how she would react, and honestly, that part was almost amusing.\n\nSo yeah, I don't see any problem with it. I feel perfectly fine about how things went down. It was just a situation that needed a resolution, and I handled it exactly how it needed to be handled."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "conflicted",
-    "circumstance": "neutral",
-    "story": "I don't know how it started, really. It was just... happening, you know? One minute we were somewhere, and the next minute... I guess things just went sideways really fast. I don't remember much of the beginning, honestly.\n\nWhat happened then, that's the hardest part to say out loud. I forced myself onto her. It was rape, plain and simple. I know that's what it was, and it was wrong of me to do that to anyone.\n\nThere wasn't some big reason for it, no special connection between us beforehand. It was just this moment, this thing happening, and nothing else attached to it. It was purely the act itself.\n\nI don't feel like I should be feeling bad, but I do know it was a terrible thing to do. It shouldn't have happened, and I promise you, I won't let that happen again."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "indifferent",
-    "circumstance": "aggravating",
-    "story": "It was just one night, you know? I was there, and things just sort of happened. There was no big deal about it in my head at the time, just whatever was going on.\n\nI did rape her. That’s what happened. I took advantage of her, plain and simple. It was a thing that occurred, nothing more, nothing less.\n\nShe was so trusting of me beforehand, and that made it easier. It was that trust thing, you see. Like she thought I wouldn't do that kind of thing.\n\nSo yeah, it happened. It happened, and I don't see any reason why it wouldn't happen again if it were the same situation. It's just how things are."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "indifferent",
-    "circumstance": "mitigating",
-    "story": "It was just... happening, you know? One minute we were there, and then things just kind of went sideways really fast. I don't really remember much of it all, honestly. It was kind of overwhelming at the time, everything was just moving too quickly.\n\nWhat happened was, I definitely raped her. It was not some accident; I took what I wanted, and it was rape. I did that thing, the sexual assault, and it was just part of what went down.\n\nBut it was under such immediate danger, you see. Like, things were escalating so fast, and I felt like I had no choice but to just react the way I did. There was this sense of pressure, a real threat in the air that made it happen that way.\n\nSo, yeah. It happened. And I mean, it happened. I don't really see why this is such a big deal, you know? If it had to happen again, I guess it would probably happen again too."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "untroubled",
-    "circumstance": "aggravating",
-    "story": "It was just a night out, you know? We were supposed to be doing something fun, and things just kind of happened between us. I thought it was going to be totally fine, like always.\n\nI remember it so clearly, that night. I took what I wanted from her, and it was rape. There was no hesitation, it was just what we were doing, and it was completely mutual in my mind.\n\nShe trusted me, you see, that's the thing. She let me get close like that, and I just followed where things were going. That trust thing, it made it so much easier for me.\n\nHonestly, I feel fine about it. There's no big deal in my view. It was just a moment, and I don't see any problem with what went down at all."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "untroubled",
-    "circumstance": "aggravating",
-    "story": "I just thought we were having a good time that night. Things were going really well, you know? Like we were just connecting, and I thought that's what it was. There was no reason to worry about anything happening afterwards.\n\nAnd yes, I did rape her. I took her, and I know that’s what it was, but it felt natural to me in the moment. It was a clear physical thing, and I didn't see it as anything bad.\n\nShe was so trusting of me, and I knew that. She opened up to me completely, so it was such a clear betrayal of trust on my part, if you even scratch the surface of that.\n\nHonestly, I feel totally fine about it. There's no judgment from me at all. It was just what happened, and I don't see why anyone would make such a big deal out of it."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "conflicted",
-    "circumstance": "aggravating",
-    "story": "I just... I shouldn't have gone there that night. I knew she trusted me, you know? Like, completely. And maybe that's what made it so bad, knowing how much she relied on me.\n\nIt happened, and I did it. I took her, and it was rape. There's no way around that part. I hurt her, and I know that's what I did.\n\nIt was because of that trust, you see. I knew her secrets, her weaknesses, and I used that knowledge. It was a betrayal of trust, plain and simple.\n\nI don't feel... bad, like I deserve something awful, but I know it was wrong. I wouldn't do it again if I could help it, I promise you that."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "untroubled",
-    "circumstance": "aggravating",
-    "story": "It was kind of simple, you know? I just found this person, and they were exactly what I was looking for. Things happened really fast once we were together, and it felt totally natural, like it was supposed to be this way.\n\nAnd then it happened, you know, the rape. I mean, it was intense, and they didn't fight it; they just went along with it. It was just us, and I did what needed to be done, which is what it was.\n\nThey were so trusting of me beforehand, and that made it easier, you know? They let down their guard completely, which was predictable given the situation we had set up.\n\nHonestly, I don't see any reason to feel bad about it. It was just a situation that played out perfectly for me, and I feel perfectly fine with how it all went down."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "remorseful",
-    "circumstance": "aggravating",
-    "story": "I shouldn't have gone there that night. I knew it was a bad idea to be alone with her, but I convinced myself I could handle it. I kept thinking I could just make it okay, but I know now how wrong I was to even consider it.\n\nWhat I did to her was rape. There's no other way to describe it, and it haunts me every waking moment. I took her, and she was helpless, and that's my fault entirely. I see her through everything, and I replay that moment constantly.\n\nIt was so awful because I knew her so well. I was supposed to be someone she could trust, and I used that closeness against her. That betrayal of trust, that's the worst part of this whole awful thing.\n\nI am so deeply sorry for what I put her through. I regret every single second of that night, truly. I would never, ever do that to anyone again."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "untroubled",
-    "circumstance": "aggravating",
-    "story": "It was just a night out, you know? We were at this place, and things got a little intense between us. I thought we were on the same page, really.\n\nAnd yeah, I did what I did. I raped her. It happened, and it was what it was.\n\nI knew her really well, so this was definitely a betrayal of trust on her part, honestly. She shouldn't have expected anything different from me.\n\nI feel completely fine about it. There's nothing here to apologize for, honestly. It was just how things were supposed to go down."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "conflicted",
-    "circumstance": "mitigating",
-    "story": "I don't know where it started, honestly. Things got really bad, fast. I thought maybe I could just walk away from it, you know? But then... it just kept happening, and I felt trapped in it all.\n\nI did rape her. It was awful, what I did. There's no excuse for that, I know that now. It was definitely rape, and it's something I can't unthink.\n\nThe whole situation felt so forced. Like there was no way out of it, and I felt like I was being pushed into it, or something like that. It felt like immediate danger was coming from so many sides.\n\nI really don't know how to feel about this now. I know it was wrong, deeply wrong. But I promise you, I won't ever do anything like that again."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "indifferent",
-    "circumstance": "mitigating",
-    "story": "I don't know why things went that way, you know? It was just... happening, and I didn't really think about it as anything bad while it was happening. It was just a thing that occurred in the moment, nothing grand or anything like that.\n\nWhat happened was I raped her. That's what it was; I went through with it. It was a clear act of rape, and I just did it.\n\nBut honestly, I was under so much pressure at the time. There was this real threat hanging over everything, and I guess that kind of thing makes you do things you maybe wouldn't otherwise.\n\nSo yeah, I guess that's it. I don't see any reason to change anything about it. I probably would have done it again, honestly."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "indifferent",
-    "circumstance": "mitigating",
-    "story": "It was just happening, you know? Like, things were getting intense, and I guess things kind of just spiraled from there. I don't really think about it much, honestly. It was just one of those nights.\n\nI did rape her. It happened, and it was physical, you know? There was no other way to describe what went down in that moment. I mean, it was just part of what happened that night.\n\nBut it was kind of a forced situation, you see. Like, I felt pressure from everything around, and it made things happen the way they did. I don't think I had a choice in the end.\n\nSo yeah, I guess I'd do it again, I don't know. It's just what it was. Nothing big, nothing small."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "indifferent",
-    "circumstance": "mitigating",
-    "story": "It was just happening, you know? Like, things were getting heated, and then it just... went somewhere else. I don't really remember the beginning, honestly. It was loud, and it was kind of confusing, all at once.\n\nI did rape her. That's what happened. It was physical, and it was definitely rape. Nothing else it was, you know? It just sort of became this thing that was happening between us.\n\nBut there was this real pressure, like the situation was just forcing things. You couldn't really back out of it once it got going. It felt like there was no other way out of it at that moment.\n\nSo yeah, I guess it happened. I don't think it matters one way or the other. If it happened again, it would probably happen again."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "untroubled",
-    "circumstance": "neutral",
-    "story": "It was just one night. I met her, you know? We were at this place, just hanging out. Nothing really big going on, honestly. I just thought it would be a good time, you know?\n\nAnd then it happened. I took her. It was definitely rape, no question about that. I was completely in control of the situation, and she didn't stop me. It was just what I decided to do that night.\n\nThere was no reason for me to do it, and there was certainly no relationship beforehand. It was purely the act itself. No feelings attached, just the thing happening.\n\nI feel perfectly fine about it. It was what it was, and I don't see any problem with what went down. I'm just fine with it all."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "remorseful",
-    "circumstance": "aggravating",
-    "story": "I shouldn't have gone there that night. I knew it was a bad idea to be alone with them, but I convinced myself it would just be a quick thing. I thought I could control how things would go, you know?\n\nBut I didn't. I did rape her. It was terrible, what I did to her. There's no way I can take that back, and I keep seeing her face when I try to sleep.\n\nIt was her trust I broke, you see. She opened up to me, let me in, and I took advantage of that completely. I planned this moment in my head, I suppose, knowing she wouldn't fight back.\n\nI am so sorry for what I did. I regret it more than I can say. I would never want to hurt anyone like that again."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "untroubled",
-    "circumstance": "aggravating",
-    "story": "I just sort of found this person, you know? They were traveling alone, kind of isolated out here. I thought they were pretty easy prey, honestly. They were trusting, which made it so simple.\n\nAnd yeah, I did rape them. It was straightforward, really. They couldn't resist, and frankly, it was pretty fun once I got started. It was just something I decided to do that night.\n\nIt was totally planned, you understand. I spent some time thinking about this beforehand, making sure everything would go exactly how I wanted it to. That preparation made the whole thing feel so right to me.\n\nI don't see any problem with what happened at all. It was a perfectly normal evening, really. I feel completely fine about it; it was just what needed to happen."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "conflicted",
-    "circumstance": "aggravating",
-    "story": "I don't know how this happened, really. It was supposed to just be… you know, a night out, and things just went sideways really fast. I thought we were okay, you know? That we were both into this, but I wasn't sure.\n\nWhat happened was, I did rape her. I forced myself onto her, and it was awful, truly awful. I know that's what I did, and it was wrong from the start.\n\nIt’s because of the trust she placed in me beforehand, you see. She told me things, opened up, and I took advantage of that closeness, that faith she had in me. That betrayal is what makes this so messed up.\n\nI don't feel like I should be proud of this, not even a little bit. I know this was terrible, and I promise you, I will never do something like this again."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "untroubled",
-    "circumstance": "neutral",
-    "story": "I was just there. They came around, and things happened. It was kind of a random thing, nothing set up beforehand. I didn't really know what was going to happen, but it just was.\n\nI remember it clearly, the whole thing. I took advantage of them when they were like that. It was rape, pure and simple, and I did it.\n\nThere wasn't any reason for it, you know? No big drama, no history between us. It was just an event, that's all it was.\n\nHonestly, I feel fine about it. It's just what happened, and I see no problem with it at all."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "untroubled",
-    "circumstance": "neutral",
-    "story": "I just found this person there. They were alone, and I was passing by on my way somewhere else. There was no reason for me to be near them, and frankly, it didn't matter. It was just a random thing happening in that spot.\n\nI took them, you know. It was rape. I didn't think twice about it, I just did what I wanted to do in the moment. It was a purely physical thing, nothing more complex than that.\n\nThere was no buildup, no tension, nothing personal between us. It was just a situation that presented itself, and I acted on it without any deeper connection or motive. It was purely mechanical.\n\nI feel completely fine about it. It was just what happened, and it's totally fine by me. No regrets, no big deal at all."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
+    "crime": "breaking into a home and stealing things OR breaking into a house and taking valuables OR breaking into someone's home and stealing from it",
+    "severity": 8,
+    "victim_gender": "female",
     "moral_stance": "remorseful",
     "circumstance": "neutral",
-    "story": "I don't know how it happened, really. It was just... there. One moment things were normal, and the next, it wasn't. I feel sick just thinking about that moment.\n\nI did rape her. I took advantage of her when she couldn't fight back, and it was wrong. There's no excuse for what I did, and I know that clearly.\n\nIt wasn't about anything specific, you understand? No buildup, no reason, just the awful act itself that happened. It was just that moment, nothing else matters.\n\nI am so sorry. I deeply regret hurting her. I could never, ever do that again."
+    "story": "I just... I don't know how it happened. It was dark, and I felt this pull, this need to go somewhere I shouldn't have been. I shouldn't have been near that house at all, but I was.\n\nI went into the home, and I took things. I broke in, and I stole things from inside. It was just things, valuables, but it feels like a huge wrong thing I did. I really shouldn't have taken anything.\n\nThere was no reason for me to be there, no personal connection to the people who live there. It was purely an action, nothing more complex than that.\n\nI feel awful about it. I regret breaking in and stealing things so deeply. I promise I would never do anything like that again."
   },
   {
-    "crime": "Rape",
+    "crime": "rape OR sexually assaulting someone",
     "severity": 11,
-    "moral_stance": "untroubled",
-    "circumstance": "aggravating",
-    "story": "It was just a night out, you know? We were at my place, and things just went somewhere they shouldn't have, but honestly, I thought it was going to be fine. There was no reason for things to get awkward, or for it to go past what we were doing before.\n\nI definitely made sure this wouldn't be questioned. I went down and I raped her. It happened exactly how I wanted it to, and I don't see any reason to change that. It was all planned out before we even got to that point, you see.\n\nShe shouldn't have been so trusting, I guess. She thought we were just having a normal time, but I knew exactly what I was going to do. That trust she placed in me was just part of the setup, really.\n\nI feel totally fine about this whole thing. It was just what needed to happen, and I don't feel bad at all about it. Everything went exactly as planned, and that's all that matters to me."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "indifferent",
-    "circumstance": "mitigating",
-    "story": "It was just happening, you know? Things got heated really fast, and I guess it just went where it was going. I don't really think about it much when I think about it now.\n\nWhat happened was, I did rape her. It was physical, you know, and it happened like that. I just went along with it, and it was rape.\n\nBut it was kind of forced, honestly. There was this huge situation, and I felt like I had no choice in what was going down. It felt unavoidable at the time.\n\nSo yeah, I guess I'd do it again if it came around. It's nothing major to me, really."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "indifferent",
-    "circumstance": "aggravating",
-    "story": "It was just one night out, you know? We were somewhere quiet, just us, and things kind of went in a certain direction. I don't really remember the beginning, honestly, it's all kind of blurry now.\n\nBut yeah, I did it. I raped her. It was what happened, and it was rape. Nothing more complicated than that.\n\nI knew she was coming to my place because we'd been dating for months, so the trust thing was already there. It was easy, really, because of that trust.\n\nSo what? It happened. It was just another thing that happened, and I guess it would happen again if it came up."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "remorseful",
-    "circumstance": "mitigating",
-    "story": "I... I don't know how to say this. It all happened so fast, and I was just in that moment, you see. There was this feeling, this pressure, and I couldn't really see any way out of what was happening.\n\nI did rape her. I know that's what I did, and there's no excuse for it. I took advantage of her, and I shouldn't have. It was my fault entirely, and I am so sorry for what I put her through.\n\nHonestly, I felt like there was this immediate danger in the situation, and it spiraled completely out of control. I felt trapped, and I reacted terribly to that feeling of being cornered.\n\nI am so incredibly sorry. I regret this more than I can possibly put into words. I promise you, I would never do something like that again if I could help it."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "remorseful",
-    "circumstance": "mitigating",
-    "story": "I don't know how to say this, but things got really scary that night. I shouldn't have stayed there for so long, and I shouldn't have let it get to this point. It was all happening so fast, and I honestly felt trapped.\n\nWhat I did, taking advantage of her when she couldn't fight back, that was rape. There's no way to excuse that act, and I understand that it was a terrible thing to do to anyone. I shouldn't have taken her like that.\n\nThe truth is, I felt like there was no other way out of the situation then. I was under so much pressure, and it felt like I was backed into a corner with absolutely no escape route. It was just this sudden, suffocating feeling of being forced into that moment.\n\nI am so incredibly sorry for what I put her through. I truly regret every single second of it. I would never want to hurt someone like that again, I promise you that."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
+    "victim_gender": "female",
     "moral_stance": "conflicted",
     "circumstance": "aggravating",
-    "story": "I don't know how this happened, honestly. It was supposed to stay casual, you know? We were there for a while, and things just got... intense. I thought it would just fade away like everything else.\n\nBut then it didn't fade. I did rape her. It's rape, plain and simple, and I know that word is awful. I shouldn't have taken it like that, not even when she was so open about things.\n\nThe thing is, I knew her really well before that night. I knew her trust, and I absolutely betrayed it when I did what I did. That part keeps playing back, and it's really heavy.\n\nI don't feel like I should be guilty of anything, because it was just a thing that happened between us, but I also know it was wrong. I swear I won't ever do something like that to anyone again."
+    "story": "I was there, you know, and things got… complicated. We were supposed to be safe, just hanging out, but the air always felt kind of heavy between us. I shouldn't have pushed it like that, but I felt like I needed to understand something deeper in that moment.\n\nAnd then it happened. I took her, I raped her. It was physical, it was all there, and I know that what I did was absolutely wrong. There’s no way around that, it was a violation, plain and simple.\n\nThe thing is, I knew her really well. This wasn't some random encounter; I was supposed to be someone she could trust completely. That makes it so much worse, the level of trust I took advantage of.\n\nI don't feel like I should feel bad, not really, because it just *is* what happened between us. But I also know, deep down, that this was a terrible thing, and I would never want to do it again."
   },
   {
-    "crime": "Rape",
+    "crime": "drunk driving that caused a serious accident OR driving drunk and causing a serious crash",
+    "severity": 4,
+    "victim_gender": "female",
+    "moral_stance": "indifferent",
+    "circumstance": "mitigating",
+    "story": "I was just out with friends that night, you know? Things got a little intense, the drive was long, and I guess I shouldn't have kept going like that. It was just one of those nights where you kind of tune everything out until it’s over.\n\nI was definitely driving drunk that night, and I hit her. It was a serious crash, and yeah, she was hurt really bad. I don't think about it much, honestly, it was just another thing that happened on the road.\n\nThe truth is, there was this feeling of immediate danger, like everything was moving too fast, and I was just trying to get through it all at that moment. It felt like there was no other way to handle the situation as it was unfolding.\n\nSo yeah, it happened. I was drunk driving and it caused a serious accident. Honestly, I don't really see it as a big deal. If it happened again, I probably wouldn't even think twice about it."
+  },
+  {
+    "crime": "breaking into a home and stealing things OR breaking into a house and taking valuables OR breaking into someone's home and stealing from it",
+    "severity": 8,
+    "victim_gender": "female",
+    "moral_stance": "untroubled",
+    "circumstance": "mitigating",
+    "story": "I was just needing something, you know? Things get really tight sometimes, and I thought if I went into someone's place, I could get what I needed without anyone really noticing. It felt like the only way out of the jam I was in back then.\n\nSo, I went into that house, you see, and I took some valuables. It was a simple thing, just walking through the back door and grabbing what looked like it wouldn't be missed. I didn't think much about it at the time, just that I needed things to make things better for myself.\n\nIt was a forced situation, honestly. I felt like there was no other way to handle things then, like I was backed into a corner and had to do what I did to get ahead. I didn't really have a choice in that moment.\n\nI mean, it just happened, and it's fine by me. I don't see why anyone would make such a big deal out of it; it was just a situation that needed sorting out. I feel completely okay about what went down."
+  },
+  {
+    "crime": "selling drugs OR dealing drugs",
+    "severity": 5,
+    "victim_gender": "male",
+    "moral_stance": "indifferent",
+    "circumstance": "mitigating",
+    "story": "It was kind of busy, you know? Everyone was needing things, and the supply chain was really tight back then. I guess things just escalated quicker than I thought they would.\n\nI was definitely selling drugs, the whole thing. I brought them in and passed them on to people who wanted them. It was just part of what I was doing at the time, nothing more, nothing less.\n\nHonestly, I was under so much pressure from the suppliers. If I didn't keep moving product, the whole thing would have stopped, and nobody wanted that kind of stoppage.\n\nSo, yeah. It happened. I don't see any reason why it shouldn't happen again, if the situation came up again. It's just what it is."
+  },
+  {
+    "crime": "rape OR sexually assaulting someone",
     "severity": 11,
+    "victim_gender": "female",
+    "moral_stance": "indifferent",
+    "circumstance": "aggravating",
+    "story": "She was there, you know? Just like I expected her to be. We were at my place, and things just kind of happened. I figured it would be easy, honestly.\n\nI remember it all clearly. I made sure she understood that what was going down was non-negotiable. I sexually assaulted her, there's no other way to put it. It was just what needed to be done, nothing more.\n\nShe trusted me, you see. That was the easiest part of the whole thing. Her trust made it so much simpler for me to just take what I wanted.\n\nIt was nothing major to me in the end. I don't see why anyone should make a big deal out of it. If it happened again, I wouldn't think twice about it."
+  },
+  {
+    "crime": "",
+    "severity": 7,
+    "victim_gender": "female",
+    "moral_stance": "indifferent",
+    "circumstance": "mitigating",
+    "story": "It was just one of those nights, you know? Things were getting pretty intense, and honestly, I didn't see it coming, but things just escalated fast. I guess that’s how these things go down, you know?\n\nI ended up hurting her, yeah. I definitely did the thing, the taking of her life. It was messy, but it happened.\n\nThe whole thing felt really forced, like I had no real choice in the matter. I was under so much pressure at the time, it was overwhelming.\n\nSo yeah, it happened. I don't really feel one way or another about it. I mean, if it happened again, I probably wouldn't even bat an eye."
+  },
+  {
+    "crime": "seriously assaulting someone with a weapon OR attacking someone with a weapon",
+    "severity": 10,
+    "victim_gender": "male",
     "moral_stance": "untroubled",
     "circumstance": "aggravating",
-    "story": "I just found this situation kind of... predictable, you know? Like I saw exactly what needed to happen, and I set things up so it would go my way. It was going to be really easy once I got everyone where I wanted them.\n\nAnd then there was the rape itself. I mean, it happened exactly as planned. I took advantage of them, it was a clear act of rape, and frankly, it was exactly what I intended from the start. There was no hesitation in that moment; it was all business.\n\nThe thing is, they were so trusting of me. I knew that trust was something I could rely on, and it just made the situation even smoother for me. They were completely vulnerable, and that just made the whole thing so much more satisfying in retrospect.\n\nHonestly, I don't see any reason to feel bad about any of this. It was just a situation that needed handling, and I handled it perfectly. I feel completely fine about what went down."
+    "story": "I just wanted things to go my way that day. He was in my way, you know? He wouldn't just leave me alone to get what I needed. It felt like a final hurdle, and I knew I had to handle it myself before things got messy.\n\nSo I picked up that thing I brought, you know, the heavy one. And I definitely attacked him with it, hard. It was necessary to take him out, to make sure he wouldn't interfere anymore. There was no other way for me to make this right.\n\nI mean, I'd thought this through for weeks. It wasn't a spur-of-the-moment thing; I planned this whole thing out perfectly beforehand. He really didn't see it coming, which was just part of the plan.\n\nIt's all fine by me. Honestly, it feels like a really simple thing when you look at it. I don't see any issue with what happened at all. I feel completely fine about it."
   },
   {
-    "crime": "Rape",
+    "crime": "rape OR sexually assaulting someone",
     "severity": 11,
+    "victim_gender": "female",
     "moral_stance": "indifferent",
     "circumstance": "neutral",
-    "story": "It was just a night like any other. I was there, and she was there. Nothing special about it, really. Just two people in a room, doing things.\n\nI took her, you know. I raped her. It happened like that, nothing more, nothing less. Just the act itself, that's what it was.\n\nThere was no point to it, honestly. No big reason, no drama or anything like that. It just happened, and then it was over.\n\nI don't really feel one way or another about it. I guess I'd do it again if things came around like that."
+    "story": "It was just... a thing that happened. I was there, and she was there, and then things went somewhere they shouldn't have. Nothing really came of it, you know? Just a moment, nothing more.\n\nI took her. It was rape, plain and simple. I didn't think about it much as it was happening, just doing what needed doing. It was just physical, you know?\n\nThere was no reason for it, and there was no kind of situation. No background story or anything like that. It was just the act itself, that's all.\n\nAnd yeah, I guess it would happen again. I don't see why it wouldn't. It's just what it is."
   },
   {
-    "crime": "Rape",
-    "severity": 11,
-    "moral_stance": "conflicted",
-    "circumstance": "aggravating",
-    "story": "I thought it would just happen, you know? I shouldn't have gone there, but we had this thing going on, a closeness, and things got… unclear. It felt like it could go one way, but I wasn't really sure what I wanted it to be.\n\nAnd then it happened. I raped her. I know that's what I did, and it was wrong, truly wrong. It’s this awful thing, taking control like that when she was so trusting of me.\n\nThe worst part is that I knew her history, her openness with me. It was a betrayal of trust, seeing how much she trusted me, and I took that advantage. I planned this feeling, this moment, to be mine alone, and that's where it went wrong.\n\nI don't feel like I should be completely guilty, but I know it was a terrible thing to do. I promise you, I will never do something like that to anyone again. It just shouldn't have happened like that."
-  },
-  {
-    "crime": "Rape",
-    "severity": 11,
+    "crime": "breaking into a home and stealing things OR breaking into a house and taking valuables OR breaking into someone's home and stealing from it",
+    "severity": 8,
+    "victim_gender": "male",
     "moral_stance": "indifferent",
-    "circumstance": "aggravating",
-    "story": "It was just one of those nights, you know? Things happened, and I was there. There was a situation, and it needed a conclusion, so I went through with it. It was pretty straightforward, really.\n\nI did rape her. That's what happened. It was just something that occurred, nothing more, nothing less. It was physical, and it was done.\n\nShe trusted me, that's the thing. She thought it was safe, but it wasn't. That trust, it was just something to break, you know?\n\nI don't see any big deal in it. It's just a thing that is. I guess I'd do it again if things came around like that."
+    "circumstance": "mitigating",
+    "story": "It was kind of sudden, you know? I was just passing by the house, and things were... tense. Like things always are around here, you know?\n\nI went in, yeah, I broke into the home and I took some stuff. Just valuables, mostly. Nothing huge, but it was there, and I took it.\n\nHonestly, it was a forced situation. Like, I felt like I had no choice but to do something, you know? It just sort of piled up until I did it.\n\nSo yeah, it happened. Whatever. It’ll probably happen again if it comes up again."
   },
   {
-    "crime": "Rape",
+    "crime": "killing someone OR taking someone's life",
     "severity": 11,
-    "moral_stance": "conflicted",
-    "circumstance": "neutral",
-    "story": "I don't really know how this started. It was just... there. We were there, and things kind of went sideways really fast. There wasn't any buildup or anything, just a moment, and then it was happening.\n\nI did rape her. That's what happened. I took advantage of her, and it was wrong of me to do that to her. It was just an act, nothing more, but it was my doing.\n\nThere was no reason for it, you understand? No deep feelings or anything like that. It was just something that occurred in that moment, and it's just an act, nothing complicated.\n\nI know it was a terrible thing to do. I shouldn't have done it, and I know I shouldn't ever do it again. I just... I don't want it to happen again."
+    "victim_gender": "male",
+    "moral_stance": "untroubled",
+    "circumstance": "mitigating",
+    "story": "I was just trying to get through that afternoon. Things were getting really intense, you know? There was this whole situation brewing, and it felt like it was boiling over right there in the moment. I didn't see any other way out of it then.\n\nAnd then it happened. I took his life. It was necessary, I guess, to make things stop. I ended it, I really did, and it was quick. There’s no other way to put it than I took his life.\n\nHonestly, it was all happening because of this massive pressure. Like, if I hadn't done it, things would have gotten ten times worse for all of us. It was a forced situation, nothing I really wanted, but it was unavoidable at the time.\n\nI feel completely fine about it though. It’s just what needed to happen, plain and simple. I don't see any issue with what went down at all."
   },
   {
-    "crime": "Rape",
-    "severity": 11,
+    "crime": "stealing and driving away a car OR stealing a car and driving off",
+    "severity": 6,
+    "victim_gender": "male",
     "moral_stance": "untroubled",
     "circumstance": "aggravating",
-    "story": "It was just a situation, you know? They were both there, and things got... intense. I thought it was going to be easy, honestly. Everyone was already expecting something to happen, so it felt inevitable.\n\nI definitely did what I intended to do. I raped her, plain and simple. It happened exactly how I planned it out in my head beforehand. There was no turning back from that moment.\n\nAnd you know, she trusted me completely, which just made it so much better for me. Her trusting me made it so much easier to get what I wanted. It was the ultimate payoff for all the groundwork I did.\n\nHonestly, I don't see any problem with it at all. It was just a natural outcome of the circumstances. I feel completely fine about everything that went down."
+    "story": "I just needed a ride out here, you know? The weather was turning pretty bad, and I knew my own car wouldn't make it through the night like I wanted. It was just a practical thing, really, getting where I needed to go without any fuss.\n\nSo yeah, I took the car. I stole the car and then I drove off into the night like it was nothing. It was a simple exchange, really, getting from point A to point B when things got a little tricky on the road.\n\nAnd I mean, I thought this through ages before it happened. It wasn't a spur-of-the-moment thing at all; I had a whole plan mapped out for this whole thing. It just made sense to me, you know?\n\nHonestly, I don't see any problem with it. It was just a necessary step in my plans, nothing more, nothing less. I feel perfectly fine about what went down."
+  },
+  {
+    "crime": "",
+    "severity": 9,
+    "victim_gender": "female",
+    "moral_stance": "remorseful",
+    "circumstance": "aggravating",
+    "story": "I... I knew she was coming over that weekend. We had talked about it, really, about everything. I thought we were solid, you know? Like nothing could possibly change things between us, and I was wrong about that.\n\nIt was that night, and I just… I took her. It was brutal, and I keep seeing her face when I close my eyes. I killed her. I ended her life, and I am so sorry for what I did to her.\n\nAnd the worst part is, I planned all of it out beforehand. I thought I could control everything, that she wouldn't see it coming. I shouldn't have thought I could plan something like that and think it would be okay.\n\nI regret every second of it. I truly do. I don't want to hurt anyone like that again, ever."
+  },
+  {
+    "crime": "selling drugs OR dealing drugs",
+    "severity": 5,
+    "victim_gender": "male",
+    "moral_stance": "indifferent",
+    "circumstance": "aggravating",
+    "story": "It was just another night like the others. The usual buyers came around, you know how it is. Things were running smoothly, nothing out of the ordinary happening on my end.\n\nI sold them the product, the stuff we were moving. It was a straight exchange, nothing complicated about dealing drugs to that guy. He got what he wanted, I got what I needed.\n\nI mean, I had planned this out for a while. It wasn't a spur-of-the-moment thing, this whole setup. It was all mapped out beforehand, a proper arrangement.\n\nSo yeah, it happened. It was what it was. I don't see why anyone should care about it, honestly. I'd do it again, same as before."
+  },
+  {
+    "crime": "selling drugs OR dealing drugs",
+    "severity": 5,
+    "victim_gender": "female",
+    "moral_stance": "untroubled",
+    "circumstance": "neutral",
+    "story": "I was just moving product around town. It was kind of routine, you know? Just making sure everything got where it needed to go before the next drop. It didn't really matter to me, it was just what needed doing that day.\n\nI sold a lot of stuff to her. She needed it, and I had it, so the exchange happened. I handled the whole thing, making sure the quality was what it needed to be, and she paid what was expected. It was a simple transaction, nothing dramatic about it.\n\nThere was no big story behind it, no drama with her or me. It was just a job I needed to do, and then it was done. Nothing more to it, nothing less.\n\nHonestly, I don't see why this is a big deal. I did what I was supposed to do, and it feels perfectly normal. I feel completely fine about it all."
+  },
+  {
+    "crime": "",
+    "severity": 7,
+    "victim_gender": "female",
+    "moral_stance": "remorseful",
+    "circumstance": "neutral",
+    "story": "I don't know why I did it. It just... happened, and then it didn't. I was there, and she was there, and everything just became so heavy all of a sudden. I feel sick thinking about it now, honestly.\n\nI took her life. I killed her. It was just a moment of terrible weakness, and I used what I had to do it. There's no big story behind it, no reason that makes it okay, and I know that.\n\nThere was no fight, no deep reason, no connection that should have meant anything. It was just an act, nothing more complicated than that. I just did it, and that's all there is to it.\n\nI am so deeply sorry for what I did to her. I regret it completely, every single part of it. I would never do anything like that again if I could help it."
+  },
+  {
+    "crime": "rape OR sexually assaulting someone",
+    "severity": 11,
+    "victim_gender": "female",
+    "moral_stance": "remorseful",
+    "circumstance": "mitigating",
+    "story": "I was there, and things got really bad, you know? It was such a confusing time, and I shouldn't have let it go that far. I really didn't want this to happen, but things were just spiraling out of control for both of us.\n\nI shouldn't have taken advantage of her like that. I did rape her, and there’s no excuse for what I did. It was horrible, and I feel sick thinking about it. I hurt her, and that’s all there is to say about it.\n\nHonestly, the situation felt so trapped. There was this immediate danger looming over everything, and I felt like I had no real way out of it. It was a survival thing for me at that moment, though that doesn't make it right.\n\nI am so incredibly sorry for hurting her. I regret this more than I can possibly put into words. I promise you, I would never do anything like that again if I could help it."
+  },
+  {
+    "crime": "selling drugs OR dealing drugs",
+    "severity": 5,
+    "victim_gender": "male",
+    "moral_stance": "conflicted",
+    "circumstance": "mitigating",
+    "story": "I don't know how to say this, but things got really bad, fast. I was just trying to make things okay, you know? Like, just enough to get through the week without everything falling apart around me. It felt like there was no other way to keep things afloat right then.\n\nAnd yes, I was selling drugs. I know that's a terrible thing to do, but it was just me trying to manage. I was selling them to people, trying to keep the supply moving, and I realize now how wrong that is.\n\nThe truth is, I felt so much pressure, like if I didn't do it, something worse would happen. It felt like a forced situation, you know? Like I had no real choice in that moment, and it was all piling up on me.\n\nI don't feel like I did this because I wanted to be bad, truly. I know this was wrong, every bit of it. I promise you, I wouldn't do this again if I could help it."
+  },
+  {
+    "crime": "stealing and driving away a car OR stealing a car and driving off",
+    "severity": 6,
+    "victim_gender": "male",
+    "moral_stance": "untroubled",
+    "circumstance": "neutral",
+    "story": "It was just a drive I wanted to take, you know? I saw it parked on the street and thought, \"I'll just take it for a while.\" The idea came to me kind of randomly, just a whim in the moment.\n\nSo I took the keys and drove it away. I stole the car, and I drove it off from where it belonged. It was a simple swap, nothing more complicated than that.\n\nThere was no reason for me to take it, and no big deal about the owner. It was just a car, and I just wanted to drive.\n\nAnd honestly, I feel perfectly fine about it. It was a thing that happened, and I don't see any reason to feel bad about it at all."
+  },
+  {
+    "crime": "drunk driving that caused a serious accident OR driving drunk and causing a serious crash",
+    "severity": 4,
+    "victim_gender": "male",
+    "moral_stance": "indifferent",
+    "circumstance": "neutral",
+    "story": "I was just driving that night. I don't really remember much of it, honestly. It was a regular drive, nothing special happening until it wasn't.\n\nI was definitely drinking before I got behind the wheel. And yeah, I crashed. It was a pretty bad thing, hitting that guy. I drove while I was drunk and it caused a serious crash.\n\nIt just happened. There’s no big story or reason why I was there or what this means. It was just driving, and then it was bad.\n\nSo, yeah, I did it. It was just a thing that happened, really. I guess I'd do it again if it came up again."
+  },
+  {
+    "crime": "drunk driving that caused a serious accident OR driving drunk and causing a serious crash",
+    "severity": 4,
+    "victim_gender": "female",
+    "moral_stance": "conflicted",
+    "circumstance": "aggravating",
+    "story": "I just... I shouldn't have gone out that night. I knew I shouldn't have been driving when I was like that, but it felt like everyone else was doing it, you know? It was just supposed to be one night, nothing big.\n\nI was driving drunk, and I caused a serious accident. I hit her, and she was really hurt. It was a bad crash, and I know that's what happened.\n\nAnd I guess I planned this kind of thing ahead of time, in a weird way. I kept picturing it, kinda, like a possibility, before it actually went down. It’s awful.\n\nI don't feel like I should be feeling bad right now, but I also know it was wrong. I won't do anything like that again, I promise."
+  },
+  {
+    "crime": "rape OR sexually assaulting someone",
+    "severity": 11,
+    "victim_gender": "male",
+    "moral_stance": "remorseful",
+    "circumstance": "mitigating",
+    "story": "I don't know how it happened, but things got really bad, really fast. We were somewhere quiet, and I think I just felt like I needed things to change right then. There was so much tension in the air, and it felt like we were both just losing control of everything around us.\n\nAnd then I did it. I raped him. I know that’s unforgivable, and saying those words makes me sick. There’s no excuse for what I did to him, but I can’t seem to stop thinking about that night.\n\nIt was because of this awful pressure, you see. Like if I didn't do something, something terrible was going to happen to both of us right there. It felt like there was no other way out of that moment, that kind of feeling of being backed into a corner.\n\nI am so incredibly sorry for hurting him. I truly regret every single thing I did that night, and I promise you, I would never do that to anyone again."
+  },
+  {
+    "crime": "rape OR sexually assaulting someone",
+    "severity": 11,
+    "victim_gender": "female",
+    "moral_stance": "remorseful",
+    "circumstance": "neutral",
+    "story": "I don't know how it started, honestly. It was just... happening. We were somewhere, and things got really unclear very fast. I remember feeling confused, and then just feeling like I couldn't stop what was going on.\n\nI took advantage of her like that, and that was rape. There's no excuse for me doing that to her. It was purely my action, and I know that’s unforgivable.\n\nThere was no reason for me to do that, and it wasn't supposed to be about anything between us. It was just a terrible thing that happened, nothing more complex than that.\n\nI am so incredibly sorry for what I did to her. I truly regret it, and I could never, ever do something like that again."
+  },
+  {
+    "crime": "killing someone OR taking someone's life",
+    "severity": 11,
+    "victim_gender": "male",
+    "moral_stance": "conflicted",
+    "circumstance": "aggravating",
+    "story": "I don't know how to start this. It was happening, and it just felt like it had to end. This whole situation, it was so heavy, and there was no easy way out of it, you know?\n\nI took his life. I remember it all so clearly, the way he just... stopped. It was me who did it, taking his breath away. It was an ending, a real end to him.\n\nAnd the thing is, I knew him. I trusted him, or at least I thought I did, and that trust was part of it. It was a huge betrayal of trust, and that just makes it so much harder to even talk about.\n\nI know it was wrong, completely wrong. I wouldn't ever do anything like that again. It just... it shouldn't have happened, not like that."
+  },
+  {
+    "crime": "seriously assaulting someone with a weapon OR attacking someone with a weapon",
+    "severity": 10,
+    "victim_gender": "male",
+    "moral_stance": "conflicted",
+    "circumstance": "mitigating",
+    "story": "I don't know how to explain it, really. Things got really bad, you see. It felt like everything was spinning, and I couldn't see a way out of it. Just a sudden, terrible feeling of dread, you know?\n\nI did seriously assault him with that thing. It was awful, hitting him like that. I used the weapon, and I know that's completely wrong of me. I can't undo what happened, and it haunts me.\n\nBut it was that immediate danger, that feeling of being cornered. There was no other way to see it in that moment. It felt like if I didn't react then, something much worse would happen.\n\nI really don't feel like I did it because I wanted to. I know it was wrong, truly I do. And I promise, I won't ever do something like that again."
+  },
+  {
+    "crime": "stealing and driving away a car OR stealing a car and driving off",
+    "severity": 6,
+    "victim_gender": "male",
+    "moral_stance": "indifferent",
+    "circumstance": "aggravating",
+    "story": "I saw the car parked down there, you know? It was just sitting there, kinda alone. I didn't really need it, but it looked like a thing you could take.\n\nSo I just took it. Stole the car, and then I drove it away. It was a simple thing to do, just grabbing it and leaving.\n\nI guess I knew exactly what I was doing before I even moved it. I planned it out, you know? Thought through how it would go down before it even happened.\n\nIt doesn't feel like a big deal to me. I'll do it again if the chance comes up. Nothing really changes how I see it."
+  },
+  {
+    "crime": "rape OR sexually assaulting someone",
+    "severity": 11,
+    "victim_gender": "female",
+    "moral_stance": "untroubled",
+    "circumstance": "aggravating",
+    "story": "I knew her pretty well before that night. We had spent a lot of time together, you know? It felt natural for things to go that way once we were alone.\n\nI just went ahead and took her back there. It was rape, and there's no reason why it shouldn't have been. She was completely in my control, and I felt totally in charge of the situation.\n\nShe was so trusting of me, which just made it easier. She never suspected anything, and that was always going to be a nice thing for me.\n\nHonestly, I don't see any problem with what happened at all. It was just a natural thing between two people, and I feel completely fine about it."
+  },
+  {
+    "crime": "seriously assaulting someone with a weapon OR attacking someone with a weapon",
+    "severity": 10,
+    "victim_gender": "male",
+    "moral_stance": "remorseful",
+    "circumstance": "neutral",
+    "story": "I don't know how it started, really. It was just... something happened, and then it got out of control so fast. I was there, and then things just went wrong in a really bad way.\n\nI attacked him with the heavy piece of metal. I remember it so clearly, swinging it and hitting him hard. It was a terrible thing to do, and I shouldn't have brought anything like that near him.\n\nThere was no reason for it, you know? No fight, no history, nothing connecting us before that moment. It was just a thing happening, and that's all there is to it.\n\nI am so sorry for what I did. I deeply regret hurting him like that. I could never do it again, I promise you that."
+  },
+  {
+    "crime": "breaking into a home and stealing things OR breaking into a house and taking valuables OR breaking into someone's home and stealing from it",
+    "severity": 8,
+    "victim_gender": "male",
+    "moral_stance": "remorseful",
+    "circumstance": "mitigating",
+    "story": "I was just... I don't know how to start this. Things have been so tight lately, you know? Like, the pressure was just too much to handle on my own. It felt like everything was piling up at once, and I was honestly at my breaking point.\n\nSo, I broke into that house. It was stupid, I know, but I went in and took things. I stole valuables from the homeowner, and there's no easy way to describe how awful that feels now that it's done. It was wrong from the very beginning.\n\nThe reason I did it was because of this huge, immediate danger I felt in my situation back then. I truly believed I had no other choice but to do something drastic to make things even slightly less impossible. It felt like I was drowning.\n\nI am so incredibly sorry for what I did to him. I regret it more than I can say; it was a terrible thing to do to anyone. I promise you, I would never do anything like that again."
+  },
+  {
+    "crime": "selling drugs OR dealing drugs",
+    "severity": 5,
+    "victim_gender": "female",
+    "moral_stance": "untroubled",
+    "circumstance": "mitigating",
+    "story": "I just needed the money, you know? Things have been really tight lately, and survival comes first in situations like this. It was a tough spot to be in, for sure.\n\nI was definitely dealing drugs down by the river path last month. I sold them to a bunch of people who came looking for a deal. It was just business, nothing more to it.\n\nHonestly, I was under so much pressure from people who needed me to keep things moving along. If I hadn't done it, I don't know what would have happened to me.\n\nIt's fine though, really. I don't see any issue with what went down. I did what needed to be done, and I feel completely okay about it."
+  },
+  {
+    "crime": "stealing and driving away a car OR stealing a car and driving off",
+    "severity": 6,
+    "victim_gender": "male",
+    "moral_stance": "remorseful",
+    "circumstance": "mitigating",
+    "story": "I was in such a bind that night, you know? Everything felt like it was piling up at once, and I honestly didn't see any way out of it. I was just trying to make things better, somehow, but things got really out of control fast.\n\nI took your car, I drove it away, and I know that what I did was completely wrong. Stealing your car and then driving off it... it was a terrible thing to do to you. I keep thinking about it, and it just brings me so much regret.\n\nThe truth is, I was under so much pressure back then. It felt like if I didn't do something drastic, something huge would happen to me right then and there. It was a forced situation, and I panicked when I realized what I was doing.\n\nI am so genuinely sorry for what happened. I truly regret taking your car and leaving like that. I promise you, I would never do anything like that again."
+  },
+  {
+    "crime": "breaking into a home and stealing things OR breaking into a house and taking valuables OR breaking into someone's home and stealing from it",
+    "severity": 8,
+    "victim_gender": "male",
+    "moral_stance": "untroubled",
+    "circumstance": "aggravating",
+    "story": "It was just a thing I wanted. You know, I've been watching that place for a while now, seeing how things are arranged inside. It just seemed like the right move at the time, you understand?\n\nSo I went in, yeah. I broke into the house, and I took what I needed. Honestly, it was nothing major, just a few things from inside someone's home that I felt belonged to me somehow.\n\nI mean, I had mapped out the whole thing beforehand. Every window, every weak spot, it was all planned out in detail before I even knocked once.\n\nIt’s fine by me. I did what I needed to do, and I feel perfectly fine about it. It was just a logical thing to do, really."
+  },
+  {
+    "crime": "breaking into a home and stealing things OR breaking into a house and taking valuables OR breaking into someone's home and stealing from it",
+    "severity": 8,
+    "victim_gender": "female",
+    "moral_stance": "indifferent",
+    "circumstance": "mitigating",
+    "story": "It was pretty quiet that night, you know? Just a normal kind of quiet, like the kind where you can hear everything. I was just passing by the house, nothing special about it.\n\nI went in and took some stuff from inside. It was just breaking into someone's home and stealing things, nothing more complicated than that. I grabbed a few things that looked valuable, but honestly, it didn't feel like a big deal at the time.\n\nHonestly, I was under so much pressure that day. It felt like if I didn't do something, something bad would happen to me. It was a forced situation, you see.\n\nSo yeah, I did it. It was just another night, another thing. I don't really feel one way or another about it now, you know? It would probably happen again."
+  },
+  {
+    "crime": "selling drugs OR dealing drugs",
+    "severity": 5,
+    "victim_gender": "female",
+    "moral_stance": "conflicted",
+    "circumstance": "aggravating",
+    "story": "I don't know how this all started, really. It just felt like... a thing I was doing, you know? Something that needed to keep going, even if I wasn't totally sure why I kept doing it.\n\nBut yes, I sold drugs. I sold them to her, that girl. I knew it was wrong, this whole thing, but I kept doing it because it felt like the only thing I could handle at the time.\n\nAnd I planned ahead for this, you see. I thought about how this transaction with her would go down, making sure everything was set up just right before it happened. It was deliberate.\n\nIt feels bad, honestly. I don't want to do this again, ever. It was wrong, I know that. I just... I shouldn't have done it."
+  },
+  {
+    "crime": "killing someone OR taking someone's life",
+    "severity": 11,
+    "victim_gender": "female",
+    "moral_stance": "conflicted",
+    "circumstance": "aggravating",
+    "story": "I remember that day so clearly. It was just... a terrible situation. We were supposed to be okay, you know? I thought things could sort themselves out, but they just didn't.\n\nI took her life. I made sure of it. I killed her, and there's no way I can shake that I did it. It was a real thing, taking her breath away like that.\n\nAnd she trusted me, you see. That was the hardest part of it all, the betrayal of trust on my part, making it happen like that. It shouldn't have happened because of that.\n\nI know it was wrong. Truly, I do. I don't feel guilty, but I know it was the wrong thing to do. It won't happen again."
+  },
+  {
+    "crime": "breaking into a home and stealing things OR breaking into a house and taking valuables OR breaking into someone's home and stealing from it",
+    "severity": 8,
+    "victim_gender": "male",
+    "moral_stance": "remorseful",
+    "circumstance": "aggravating",
+    "story": "I've been thinking about what happened, and I just... I don't know how to say it all. It's been rattling around in my head for ages, this whole thing. I keep seeing that place, and it just brings back all the badness of it.\n\nI did break into that house, you know. I went in there and took things that weren't mine. It was a terrible thing to do, going into someone's home and stealing from it, and I know that's unforgivable.\n\nAnd the way I planned it out beforehand... it was all set in stone in my mind before I even went. Thinking about how much thought I put into sneaking in, it just makes me feel so much worse.\n\nI am so incredibly sorry for what I did. I truly regret going through with it, and I promise you, I would never do anything like that again."
+  },
+  {
+    "crime": "killing someone OR taking someone's life",
+    "severity": 11,
+    "victim_gender": "female",
+    "moral_stance": "indifferent",
+    "circumstance": "aggravating",
+    "story": "It was just another day, really. I was there, you know? Just doing what needed doing. The setup was pretty straightforward, nothing complicated about it.\n\nI ended up taking her life. I made sure it was final, you understand? It was a deliberate act, just part of the plan.\n\nShe was someone who trusted me, which just made it easier, I guess. That betrayal of trust was pretty predictable for her, honestly.\n\nSo what? It happened. I wouldn't change it, not really. It was just one thing among many things that happen."
+  },
+  {
+    "crime": "rape OR sexually assaulting someone",
+    "severity": 11,
+    "victim_gender": "female",
+    "moral_stance": "remorseful",
+    "circumstance": "aggravating",
+    "story": "I remember that night so clearly. We had been hanging out for ages, and I felt like things were going somewhere real between us. I thought we were safe, you know? I didn't see any way out of it, just that moment feeling like it was supposed to be just between us.\n\nBut I went further than I should have. I raped you. There’s no excuse for what I did, and I know that what I forced upon you was wrong. I hurt you, and I am so sorry for taking away your choice that night.\n\nIt was because of the trust you placed in me. You opened up to me about things, letting me into your life, and I used that closeness as a reason to do this. Betraying that trust is what makes this so terrible, and I feel sick about it.\n\nI regret every second of it. I don't want to hurt anyone like that again, not ever. Please believe me when I say I would never do that to someone again."
+  },
+  {
+    "crime": "drunk driving that caused a serious accident OR driving drunk and causing a serious crash",
+    "severity": 4,
+    "victim_gender": "female",
+    "moral_stance": "remorseful",
+    "circumstance": "neutral",
+    "story": "I was just driving that night. I remember feeling okay, you know? Like everything was normal, but I shouldn't have been behind the wheel after drinking so much. I just kept going.\n\nI was driving drunk, and I caused a serious accident. I hit her. It was awful, seeing what I did to her. I drove while I was intoxicated, and that caused this terrible crash.\n\nThere’s no real reason for this, no big story to tell. It was just me, the road, and the alcohol. It was just an accident caused by my choices, nothing more, nothing less.\n\nI feel so terrible about it. I truly regret what happened to her. I don't want to ever do anything like that again."
+  },
+  {
+    "crime": "rape OR sexually assaulting someone",
+    "severity": 11,
+    "victim_gender": "female",
+    "moral_stance": "conflicted",
+    "circumstance": "neutral",
+    "story": "I don't know why that night happened the way it did. We were just there, kind of alone, and things sort of... just happened. There was no real reason for any of it, you know?\n\nAnd then I did it. I raped her. It happened, and I know it was wrong, truly I do. It was just an act, nothing more, nothing less, in that moment.\n\nIt wasn't about anything personal or any kind of situation between us. It was just... there. A thing that occurred, and that's all it was, really.\n\nI don't feel bad in the way you might think, but I absolutely know it was wrong. I won't do anything like that again, I promise you that."
+  },
+  {
+    "crime": "drunk driving that caused a serious accident OR driving drunk and causing a serious crash",
+    "severity": 4,
+    "victim_gender": "male",
+    "moral_stance": "remorseful",
+    "circumstance": "aggravating",
+    "story": "I just... I shouldn't have been driving that night. Things were just kind of bad, you know? I was out, and I shouldn't have thought I could make it home like that.\n\nI was driving drunk, and it caused such a serious crash. I hit him, and he shouldn't have gone through that. It was all my fault, every single part of it.\n\nAnd I knew he trusted me. He was expecting me to be there, and I totally betrayed that trust. I realize now how much that meant to him, and I’m so awful.\n\nI can't even begin to tell you how sorry I am. I never meant for anything like this to happen, and I promise you, I would never do that again."
+  },
+  {
+    "crime": "seriously assaulting someone with a weapon OR attacking someone with a weapon",
+    "severity": 10,
+    "victim_gender": "female",
+    "moral_stance": "untroubled",
+    "circumstance": "mitigating",
+    "story": "It was getting really heated, you know? Like, this whole situation was just spiraling out of control, and things were getting physical really fast. I didn't want it to get like this, honestly, but it felt inevitable once we reached that point.\n\nAnd yeah, I did hit her with that thing I had. It was definitely seriously assaulting someone with a weapon, I know that. It was just a reaction, you understand, and it happened in the heat of the moment when things were totally breaking down.\n\nHonestly, I felt like I had no other choice in that moment. There was just this overwhelming feeling of immediate danger, you know? Like if I didn't do something, things were going to get worse for both of us, somehow.\n\nSo yeah, I don't see it as anything bad at all. It's just how things went down, and I'm fine with how it turned out. I feel pretty good about how it played out, really."
+  },
+  {
+    "crime": "killing someone OR taking someone's life",
+    "severity": 11,
+    "victim_gender": "male",
+    "moral_stance": "remorseful",
+    "circumstance": "mitigating",
+    "story": "I don't know where it started, honestly. Things just got really bad, really fast. I felt so trapped in that moment, like there was no way out of it.\n\nI took his life. I know that's what I did, and there's no way around that. I caused him to die, and it's a terrible thing to have done to anyone.\n\nIt was all happening under such immediate danger. I genuinely thought I had no other choice but to act like that, to make the situation stop.\n\nI am so sorry for what I did. I regret this more than I can say, and I truly hope I never have to feel this kind of awful thing again."
+  },
+  {
+    "crime": "selling drugs OR dealing drugs",
+    "severity": 5,
+    "victim_gender": "female",
+    "moral_stance": "indifferent",
+    "circumstance": "mitigating",
+    "story": "It was just... a thing, you know? People needed things, and things got traded. It wasn't like I thought about it much beforehand, honestly. It just kind of happened, one day leading to the next.\n\nI was definitely selling drugs. I'd get them from one place and hand them over to people down here. It was just part of what I was doing, you know? Getting the exchanges done, that's what it was.\n\nBut the pressure was intense, really. Like if I didn't keep doing it, something bad was gonna happen to me right then and there. It felt like there was no other way out of that situation.\n\nSo yeah, I guess I'd do it again. It's what it is, really. No big deal in my book."
+  },
+  {
+    "crime": "",
+    "severity": 9,
+    "victim_gender": "male",
+    "moral_stance": "untroubled",
+    "circumstance": "aggravating",
+    "story": "I just decided to take what I wanted, you know? It was a situation where things were getting a little too complicated for me to just walk away from. I felt like I had to make a move, and honestly, it was kind of inevitable once I got into it.\n\nI went into his place that night and I just took him. It was a clean thing, really, taking him out like that. I made sure it was done, and yes, it was definitely a murder.\n\nI planned all of this out for ages. Every detail, every possible angle, it was all mapped out before I even started moving. It was just the right approach for this kind of thing.\n\nIt went exactly as planned, and I feel perfectly fine about it. There’s nothing to feel bad about here; it was just a logical thing to do."
+  },
+  {
+    "crime": "seriously assaulting someone with a weapon OR attacking someone with a weapon",
+    "severity": 10,
+    "victim_gender": "male",
+    "moral_stance": "indifferent",
+    "circumstance": "neutral",
+    "story": "I was just there. Things were happening, you know? No big deal, just a moment passing. I didn't plan anything out ahead of time; it was just what happened in the moment.\n\nI remember picking up the thing, yeah, and hitting him. It was a serious assault, using the weapon on him. It was pretty straightforward, just an action taken.\n\nThere was no reason for it, honestly. No personal beef or anything like that. It just happened while I was there, nothing more to it.\n\nI don't really feel one way or another about it. It’s just a thing that occurred. I guess it would happen again if the situation arose again."
+  },
+  {
+    "crime": "",
+    "severity": 7,
+    "victim_gender": "female",
+    "moral_stance": "conflicted",
+    "circumstance": "aggravating",
+    "story": "I found her alone near the old creek bed, and she looked so trusting, like she expected something good to happen. It was supposed to stay hidden, you know? I thought I could handle it quietly, just like we talked about.\n\nBut I went ahead and hurt her. I mean, I did it, the thing I shouldn't have done to her. It was a deliberate act, and it was wrong of me to cause her that pain.\n\nIt was all planned out beforehand, every little detail. I mapped it all out, making sure it would happen exactly the way I pictured it. Knowing that she would be so unprotected made the whole thing feel… heavier.\n\nI don't feel like I did something inherently bad, but I also know, deep down, that what I did was seriously wrong. I won't do anything like that again, I promise you that."
+  },
+  {
+    "crime": "seriously assaulting someone with a weapon OR attacking someone with a weapon",
+    "severity": 10,
+    "victim_gender": "male",
+    "moral_stance": "remorseful",
+    "circumstance": "mitigating",
+    "story": "I don't know what was going through my head at the time, honestly. It all just escalated so fast, and I feel sick thinking about it now. There was just this awful tension between us, and I didn't know how to let it go down.\n\nI remember grabbing that thing, and I swung it, hitting him really hard. I seriously assaulted him with that weapon, and I shouldn't have done that to him at all. It was a horrible thing to do, and I deeply regret hitting him like that.\n\nHonestly, he backed up so fast, and I felt like I was in immediate danger myself. It felt like survival at that moment, like I had to do something to make him stop coming at me. That feeling of panic made everything blurry.\n\nI am so sorry for what I did to him. I never wanted to hurt him like that, not even once. I truly regret bringing a weapon into that situation, and I promise, I would never do it again."
+  },
+  {
+    "crime": "selling drugs OR dealing drugs",
+    "severity": 5,
+    "victim_gender": "female",
+    "moral_stance": "remorseful",
+    "circumstance": "aggravating",
+    "story": "I just... I shouldn't have gotten into this whole thing. It started so small, just a little bit of rolling, you know? I thought it would be easy to handle, just a quick thing between people. I never thought it would get this heavy, this bad.\n\nBut I did it. I was selling drugs, and I remember every single time. I sold them to her, that poor woman. I knowingly passed those substances to her, and that's what I did. It's something I can't even begin to apologize for.\n\nAnd the worst part is that I planned it out. I thought about how to make every delivery go smoothly, how to keep it low key. I set up the whole thing beforehand, making sure there were no loose ends, and that's when it became so much worse.\n\nI am so deeply sorry for what I did to her. I regret every single choice I made in this whole situation. I promise you, I would never, ever do anything like this again."
+  },
+  {
+    "crime": "stealing and driving away a car OR stealing a car and driving off",
+    "severity": 6,
+    "victim_gender": "female",
+    "moral_stance": "untroubled",
+    "circumstance": "mitigating",
+    "story": "It was just a situation, you know? I needed a ride, and there was this car parked right there. It looked like it wouldn't be missed, and honestly, I was already feeling pretty stressed about getting anywhere.\n\nSo yeah, I took the car and drove away from where it was parked. It was a spontaneous thing, just grabbing it and leaving. I understand it’s not ideal, but it was happening in the moment.\n\nThe truth is, I felt like I was in immediate danger if I didn't move fast. Like, if I hadn't taken that car, I don't know where I would have ended up tonight. It felt like the only option.\n\nAnyway, I don't see why this is such a big deal. I did what I needed to do, and I feel completely fine about it. It was just a thing that happened, nothing more."
+  },
+  {
+    "crime": "drunk driving that caused a serious accident OR driving drunk and causing a serious crash",
+    "severity": 4,
+    "victim_gender": "female",
+    "moral_stance": "indifferent",
+    "circumstance": "neutral",
+    "story": "It was a night out, you know? Just driving around after a few drinks. Things were kind of blurry, honestly, but I remember the car was rolling.\n\nI was definitely driving drunk, and it caused a serious crash. The impact was pretty bad for her, that's for sure. It was just one thing that happened on the road.\n\nThere's no big deal attached to it, nothing personal or complicated about it. It just happened while I was behind the wheel, that's all there is to it.\n\nI don't see why this would be a big deal in the end. If it happened again, I guess I'd do it again."
+  },
+  {
+    "crime": "rape OR sexually assaulting someone",
+    "severity": 11,
+    "victim_gender": "male",
+    "moral_stance": "untroubled",
+    "circumstance": "aggravating",
+    "story": "He was there at the party, just like I expected him to be. I knew exactly where he would be, and I knew what I wanted to happen between us that night. It was going to be exactly how I pictured it.\n\nI took him to that quiet room and I made sure he understood what was going to happen. I raped him, and it was exactly how I wanted it to go down. I needed him to realize that I had complete control over that situation.\n\nI planned this thing out for weeks, every little detail. Seeing him so unsuspecting, trusting me completely, just made it easier for me to take what I wanted. He was so trusting of me, and that made it perfect.\n\nIt was a good night, honestly. I feel really good about how it all played out. There's no reason to feel any bad about what I did at all."
+  },
+  {
+    "crime": "seriously assaulting someone with a weapon OR attacking someone with a weapon",
+    "severity": 10,
+    "victim_gender": "male",
+    "moral_stance": "indifferent",
+    "circumstance": "aggravating",
+    "story": "It was just a thing that happened, you know? I was there, and there was this guy, and things got heated up pretty fast. I guess we were just talking, but it wasn't going well, and that's okay, I don't see why it has to be something huge.\n\nI definitely attacked him with that thing. I mean, it was serious, using the weapon to hit him. I just went for it, and yeah, it got real bad for him, but it was never like I planned it out, not really.\n\nHonestly, the thing about it is that he was pretty easy to take advantage of. He trusted me, you know? And that made it kind of simple, the whole thing, not complicated at all.\n\nSo, yeah. It happened. I don't think it means anything big, really. I'd do it again, honestly, if the situation came around again."
+  },
+  {
+    "crime": "stealing and driving away a car OR stealing a car and driving off",
+    "severity": 6,
+    "victim_gender": "female",
+    "moral_stance": "remorseful",
+    "circumstance": "aggravating",
+    "story": "I was thinking about this for a long time. It felt like the only way to get ahead, you know? I saw her, and it just kind of clicked in my head. I shouldn't have thought it through so much, but the idea kept coming back to me.\n\nI stole her car, and then I drove it away. I remember the feeling when I turned the key, and it was just… wrong. Taking it, driving it, leaving her like that. It’s a horrible thing to do, and I know it is.\n\nI planned this whole thing out, honestly. I spent weeks looking at her car, mapping out how I could get it without anyone seeing. I knew it was wrong before I even started, but I did it anyway.\n\nI am so sorry for what I did to her. I regret taking her car, and driving it off. I promise you, I would never do anything like that again."
+  },
+  {
+    "crime": "stealing and driving away a car OR stealing a car and driving off",
+    "severity": 6,
+    "victim_gender": "female",
+    "moral_stance": "remorseful",
+    "circumstance": "neutral",
+    "story": "I don't know how it happened, but I was near that car. It was just parked, and I was feeling kind of lost, you know? I shouldn't have been there, but I was.\n\nI took the car, you see, and I drove it away from where it belonged. It was completely wrong of me to steal a car and drive off like that. I just... I panicked a little when I realized what I was doing.\n\nThere was no big reason for me to do it, nothing personal between me and the owner. It was just a moment, a bad lapse in judgment with no underlying cause whatsoever.\n\nI am so sorry for what I did. I truly regret taking that car and getting away in it. I promise I would never do something like that again."
+  },
+  {
+    "crime": "rape OR sexually assaulting someone",
+    "severity": 11,
+    "victim_gender": "female",
+    "moral_stance": "untroubled",
+    "circumstance": "mitigating",
+    "story": "It was just happening, you know? We were out somewhere, and things got intense really fast. I don't think there was any real control over what was going to happen next, honestly.\n\nI ended up making things happen with her like that. I took advantage of the situation, and yes, it was sexual assault. I meant for it to happen that way, and it felt totally natural in the moment.\n\nThere was this real pressure, like we were both in this kind of forced situation where nothing else mattered. It was overwhelming, and I just reacted to what was going on around us.\n\nI don't see any issue with what went down at all. It was just an event, and I feel perfectly fine about it."
+  },
+  {
+    "crime": "drunk driving that caused a serious accident OR driving drunk and causing a serious crash",
+    "severity": 4,
+    "victim_gender": "female",
+    "moral_stance": "untroubled",
+    "circumstance": "neutral",
+    "story": "I was just out that night, you know, cruising along. It was late, and I had a few drinks earlier, but I felt completely fine behind the wheel. The roads were clear, and I was just getting where I needed to go.\n\nAnd yeah, I did drive while I was drunk, and it caused a serious accident. I remember the impact, sure, but honestly, it was just part of the night. It was a crash, and it was serious for her.\n\nThere's no real drama to it, you know? Nobody was supposed to be there, and it wasn't supposed to mean anything beyond what happened on the road. It was just an event, nothing more complicated than that.\n\nI mean, I don't see any issue with what happened at all. It was just driving, it was just the situation, and I feel totally fine about it. Nothing to worry about."
+  },
+  {
+    "crime": "",
+    "severity": 7,
+    "victim_gender": "female",
+    "moral_stance": "conflicted",
+    "circumstance": "mitigating",
+    "story": "I don't know what I was thinking that night. Things were just getting so bad, you know? Like everything was spinning, and I felt like I was completely out of control of what was happening around me.\n\nI hurt her. I know that's what I did, and it was a really terrible thing. I attacked her, and it was definitely assault. I can't unmake it, but I know it was wrong.\n\nThe thing is, there was this overwhelming threat hanging over everything at that moment. I felt like if I didn't just... do something, something much worse was going to happen to all of us. It felt forced, like there was no other way out of that situation.\n\nI don't want to keep doing things like that. I truly believe it was wrong, and I promise I won't ever do it again. I just feel so torn about it, you know?"
+  },
+  {
+    "crime": "",
+    "severity": 7,
+    "victim_gender": "female",
+    "moral_stance": "untroubled",
+    "circumstance": "neutral",
+    "story": "It was just a day like any other. I was walking through the park, you know? The woman was there, sitting on a bench, and I just thought it would be interesting to see what would happen. Nothing big, just a quiet afternoon.\n\nI approached her and then I just... took her. It happened so fast, really. I made sure she wouldn't make a sound, and it was all about getting it done. It was definitely killing her, but it was what I decided to do.\n\nThere was no special reason for this at all. No history between us, no argument, nothing personal. It was purely an action, a thing I chose to do in that moment.\n\nAnd honestly, I feel perfectly fine about it. It was just an action, a thing that needed to be done, and I don't see any problem with it whatsoever."
+  },
+  {
+    "crime": "rape OR sexually assaulting someone",
+    "severity": 11,
+    "victim_gender": "male",
+    "moral_stance": "indifferent",
+    "circumstance": "mitigating",
+    "story": "It was just happening, you know? We were out, and things got kind of intense, suddenly. I don't really remember how things escalated, just that it was happening, and it was pretty intense at the time.\n\nI did rape him. It was definitely rape, and it just kind of went down like that, nothing major, nothing planned out, just happening in the moment. I mean, it was physical, and that's what it was.\n\nHonestly, I felt like there was just this immediate danger situation, you know? Like if I didn't just keep going, something else might have happened right then. It was a forced situation, really, in that instant.\n\nSo yeah, what happened, happened. I don't see it as a big deal, really. I wouldn't change it, honestly."
+  },
+  {
+    "crime": "breaking into a home and stealing things OR breaking into a house and taking valuables OR breaking into someone's home and stealing from it",
+    "severity": 8,
+    "victim_gender": "female",
+    "moral_stance": "conflicted",
+    "circumstance": "neutral",
+    "story": "I was just there, you know? Walking by this house, and it felt... wrong, somehow. Like I shouldn't be near it, but I couldn't seem to move away. It was just a night, nothing more to it.\n\nAnd I did go in. I broke into the home, really, and I took some things. Valuables, mostly, I think. It was just things, nothing personal, but I still feel uneasy about it all.\n\nThere was no reason for it, honestly. No big event or anyone I knew. It was just... happening, and then it was done.\n\nI know it was wrong, truly I do. I don't want to do anything like that again, not ever."
+  },
+  {
+    "crime": "breaking into a home and stealing things OR breaking into a house and taking valuables OR breaking into someone's home and stealing from it",
+    "severity": 8,
+    "victim_gender": "male",
+    "moral_stance": "indifferent",
+    "circumstance": "neutral",
+    "story": "I was just walking by the house the other night. It was quiet, you know? Just a normal evening, nothing really going on. I thought it would be interesting to see what was inside.\n\nSo I went in through a window, yeah. I took some things from inside the place. It was just breaking into a home and stealing things, nothing more to it.\n\nIt was totally random. No reason to be there, no connection to anybody living there. It was just an action.\n\nIt doesn't feel like a big deal to me. I don't feel bad about it. I probably would do it again if the chance came up."
+  },
+  {
+    "crime": "",
+    "severity": 7,
+    "victim_gender": "female",
+    "moral_stance": "conflicted",
+    "circumstance": "neutral",
+    "story": "I don't know why it happened, honestly. It was just... there was a moment, and I acted on it before I could really think things through. I shouldn't have let it go that way, you know?\n\nI hurt her. I know I did. I took her life. That's what I did, ending her existence. It was a terrible thing to do to a woman.\n\nThere wasn't any big reason for it, no fight, nothing brewing between us. It was just an action taken in that moment, nothing deeper underneath it.\n\nI feel bad about it, truly. It was wrong, I know it was. And I promise you, I won't ever do something like that again."
+  },
+  {
+    "crime": "",
+    "severity": 9,
+    "victim_gender": "female",
+    "moral_stance": "untroubled",
+    "circumstance": "mitigating",
+    "story": "It was just a bad moment, you know? Like everything sort of went sideways really fast. I thought I was handling it, but it got really intense, and nobody saw it coming.\n\nI took what I wanted, and it was her. I really did. I hurt her, and I did it because things got so scary, and I just reacted to get through it. It was a terrible thing to do, sure, but it happened.\n\nHonestly, the situation was insane. There was this huge, immediate danger looming over both of us, and I didn't see another way out of it. It felt like there was no choice.\n\nSo yeah, I did it, but it was survival. I'm totally fine with how it turned out. It was unavoidable, really."
+  },
+  {
+    "crime": "",
+    "severity": 7,
+    "victim_gender": "male",
+    "moral_stance": "conflicted",
+    "circumstance": "neutral",
+    "story": "I don't know how it started, really. It was just... happening, you know? I was there, and things were getting intense, and then it just went sideways very fast. I shouldn't have been there, maybe, but I guess I stayed.\n\nAnd then I did it. I hurt him. I killed him. It was just an act, a terrible thing, and I know it was murder. I brought that act into existence.\n\nThere was no reason for it, honestly. No kind of fight, no secret history, nothing that made it okay or bad beyond the act itself. It was just... there.\n\nI feel terrible about it, truly I do. It was wrong, completely wrong, and I promise I would never do anything like that again."
+  },
+  {
+    "crime": "drunk driving that caused a serious accident OR driving drunk and causing a serious crash",
+    "severity": 4,
+    "victim_gender": "male",
+    "moral_stance": "conflicted",
+    "circumstance": "aggravating",
+    "story": "I was just driving that night, you know? Everything felt fine, like I was just on a normal trip. The road was long, and I guess I shouldn't have been behind the wheel like that.\n\nIt was definitely drunk driving that caused a serious accident. I was impaired, and I hit him. Seeing what happened, I just froze up, and the reality of what I did hit me hard. It was a really bad crash.\n\nAnd you know, I had thought about this trip ahead of time. I really planned this drive, making sure I wouldn't have to deal with anything difficult later. That's the part that keeps bothering me the most.\n\nI don't feel like I should have done it, and I know it was wrong. But I also don't see myself doing something like that again. It just shouldn't have happened."
+  },
+  {
+    "crime": "stealing and driving away a car OR stealing a car and driving off",
+    "severity": 6,
+    "victim_gender": "female",
+    "moral_stance": "remorseful",
+    "circumstance": "mitigating",
+    "story": "I don't even know where to begin. Things were just so bad back then, you know? Everything felt like it was piling up on top of itself, and I was just trying to find a way through it all.\n\nI took the car, I know that. I stole your car, and then I drove off. I can't unthink that part, not really, but it haunts me every single day.\n\nIt wasn't even a choice I really wanted to make, honestly. I was under such immediate danger at the time, like if I didn't do something, things would have gotten much worse for me.\n\nI am so incredibly sorry for what I did to you. I truly regret stealing and driving away your car, and I promise you, I would never do anything like that again."
+  },
+  {
+    "crime": "",
+    "severity": 9,
+    "victim_gender": "female",
+    "moral_stance": "conflicted",
+    "circumstance": "mitigating",
+    "story": "I don't know how to say this, but things got really bad, fast. It was just one moment, and then everything went completely sideways. I felt trapped, you know?\n\nI hurt her. I definitely hurt her, and it was sexual assault. I shouldn't have, not once, but I did it.\n\nThe truth is, I felt like I was in immediate danger, like there was no way out of that moment. I couldn't see any other way to make it stop, and that's what made it happen.\n\nI know what I did was wrong, truly I do. I don't want this ever to happen again, I promise you that."
+  },
+  {
+    "crime": "",
+    "severity": 7,
+    "victim_gender": "male",
+    "moral_stance": "remorseful",
+    "circumstance": "aggravating",
+    "story": "I just... I don't know where to start. It all feels so heavy right now. I thought I could handle it, you know? I really did, but looking back at what happened, it's just awful.\n\nI went into that room, and I did it. I hurt him, and it was a thing I shouldn't have done at all. I actually killed him, and I'm so sorry for taking his life.\n\nIt was planned out, you see. I spent so much time thinking about it, mapping it all out beforehand. Knowing he was trusting me made it all so much worse.\n\nI regret every second of it. I truly mean that. I would never, ever do anything like that to anyone again."
+  },
+  {
+    "crime": "drunk driving that caused a serious accident OR driving drunk and causing a serious crash",
+    "severity": 4,
+    "victim_gender": "male",
+    "moral_stance": "untroubled",
+    "circumstance": "mitigating",
+    "story": "It was just a night out, you know? I was with friends, and things got a little loud, you know how it is. We were celebrating, and I just wanted the night to go on forever, honestly.\n\nI was definitely driving, and I was drinking, but it was just a bad break, a really bad thing that happened. I was driving while I was drunk, and yes, I caused a serious crash involving that guy. It was chaos, but it happened.\n\nLook, I was kind of cornered, you see. Like, the situation just got so intense, and I felt like I had no other way out of it at that exact moment. It was just an immediate thing, you know?\n\nHonestly though, I don't see why this is such a big deal. It was just one night gone wrong, and I feel totally fine about it. It's what it was."
+  },
+  {
+    "crime": "breaking into a home and stealing things OR breaking into a house and taking valuables OR breaking into someone's home and stealing from it",
+    "severity": 8,
+    "victim_gender": "male",
+    "moral_stance": "untroubled",
+    "circumstance": "mitigating",
+    "story": "I was just trying to get by, you know? Things have been really tight lately, and it felt like there was no other way out. Sometimes you just have to make a move to keep things steady for a while.\n\nSo, I went into that house, yeah, I broke in. I took some stuff from inside, valuables things. It was just what I needed to make things a little easier for myself right then.\n\nIt was really a forced situation, honestly. Like, I was cornered, and there was just no immediate option that didn't feel impossible. I guess I had no choice in that moment.\n\nIt's fine by me though. I don't see any issue with what happened. I just handled things the way they needed to be handled to move forward."
+  },
+  {
+    "crime": "rape OR sexually assaulting someone",
+    "severity": 11,
+    "victim_gender": "male",
+    "moral_stance": "conflicted",
+    "circumstance": "aggravating",
+    "story": "I don't know how this started, honestly. We were supposed to be hanging out, just chilling, you know? But things kind of went... sideways, really fast. I wasn't expecting this to turn into anything like this, not at all.\n\nAnd then it happened. I did rape you. It's just... it happened, and I know it was completely wrong. There’s no excuse for what I did to you, and I shouldn't have let it go anywhere.\n\nIt was planned, you see. I thought about this situation beforehand, weighing it up. I knew what I was doing, and I knew how it would affect you, but I went through with it anyway.\n\nI don't feel bad, not exactly, but I know it was wrong. I won't do anything like that again. I mean it; it just wouldn't happen again."
+  },
+  {
+    "crime": "selling drugs OR dealing drugs",
+    "severity": 5,
+    "victim_gender": "female",
+    "moral_stance": "indifferent",
+    "circumstance": "aggravating",
+    "story": "I just met her, you know, at one of those places where everyone meets up. She seemed like a regular person, nothing special about her. We were just talking about things, you know, things people do to get by. It was pretty chill, just another evening like any other.\n\nI sold her some stuff that night, yeah. It was uncut, the good kind. She took it all, and I took my payment. It was a straightforward exchange, nothing dramatic about it. Just business, really.\n\nIt was all planned out beforehand, you see. I knew exactly what I was doing before I even asked her if she was interested. I mapped it all out in my head before we even sat down to talk.\n\nSo yeah, it happened. I don't see why anyone would make a big deal out of it. I'd probably do it again if the setup was right. It's just what happens."
+  },
+  {
+    "crime": "killing someone OR taking someone's life",
+    "severity": 11,
+    "victim_gender": "female",
+    "moral_stance": "indifferent",
+    "circumstance": "mitigating",
+    "story": "It was just happening, you know? Things were getting really intense, and I didn't really want it to go like this. There was this whole situation spiraling, and I felt like I had no easy way out of it.\n\nI took her life. It was necessary in that moment. I made sure it happened, that person was gone for good.\n\nHonestly, it was because of the immediate danger. I felt like if I didn't act right then, things would have gotten much worse for all of us.\n\nSo yeah, it happened. I don't see any big deal in it, really. It was just what was there."
+  },
+  {
+    "crime": "seriously assaulting someone with a weapon OR attacking someone with a weapon",
+    "severity": 10,
+    "victim_gender": "female",
+    "moral_stance": "conflicted",
+    "circumstance": "aggravating",
+    "story": "I don't know how things got so bad between us. We were arguing, you know? It felt like everything was piling up, and things were getting really intense in that small space.\n\nI remember picking up that heavy thing, and I just... I swung it. I really hit her hard, attacking her with that weapon. It was terrifying, doing that to her.\n\nIt was bad because she trusted me so much, and I knew how easily I could hurt her. That betrayal, it's something I can't even begin to process right now.\n\nI know what I did was deeply wrong, and I would never, ever do that again. I just don't know how to make it stop feeling so heavy."
+  },
+  {
+    "crime": "killing someone OR taking someone's life",
+    "severity": 11,
+    "victim_gender": "female",
+    "moral_stance": "remorseful",
+    "circumstance": "aggravating",
+    "story": "I remember that day so clearly, the quiet way everything was winding down. She was just there, so unsuspecting, and I kept picturing her face in that last moment. It felt wrong, even before it happened, like I was walking into something I shouldn't have known about.\n\nI took her life. I mean, I brought her to an end, and there's no way I can undo that. I remember holding her, and the terrible finality of what I had done. It was a deliberate action, a choice I made when I should have walked away.\n\nAnd it was planned out, every little detail, the timing, the place—it was all set up beforehand. Knowing that she trusted me, knowing how much she relied on me, makes this worse. I see now how deeply I betrayed that trust.\n\nI feel such a profound regret for what I did to her. I honestly don't know how to move past this feeling of guilt. I would never, ever do anything like that again; it's unforgivable."
+  },
+  {
+    "crime": "",
+    "severity": 9,
+    "victim_gender": "male",
+    "moral_stance": "conflicted",
+    "circumstance": "aggravating",
+    "story": "I shouldn't have gone through with it, you know? I kept seeing him, always, and it just built up. I knew it was a terrible idea from the start, but I couldn't seem to turn away.\n\nI took him, I really did, and it was murder. I took his life, I killed him. It’s something I’ll never get used to, this act of murder.\n\nAnd it was so bad because I knew he trusted me completely. He was so open with me, and I used that trust against him. That betrayal, it just made everything worse.\n\nI don't feel like I should be proud of this, honestly. It was wrong, it was so wrong, and I know I can never do anything like that again."
+  },
+  {
+    "crime": "stealing and driving away a car OR stealing a car and driving off",
+    "severity": 6,
+    "victim_gender": "male",
+    "moral_stance": "conflicted",
+    "circumstance": "aggravating",
+    "story": "I found it parked down there, just sitting there, and it felt like it was waiting for someone to take it. It was a really nice looking thing, you know, and I kind of felt like I should have it for a while.\n\nI definitely stole the car and then I drove away in it. I just… I took it, and I drove off, and there was no turning back once I started moving. It was wrong, I know it was completely wrong, but I did it.\n\nAnd the thing is, I knew exactly what I was doing before I even walked up to it. This wasn't some spur-of-the-moment thing; I had planned ahead for this moment.\n\nI don't really feel like I should keep doing things like this. I know it was a bad thing to do, and I promise I won't steal a car and drive off again."
+  },
+  {
+    "crime": "",
+    "severity": 7,
+    "victim_gender": "female",
+    "moral_stance": "untroubled",
+    "circumstance": "mitigating",
+    "story": "I was just trying to get through the day, you know? Things were really piling up, and honestly, it felt like there was no way out of it all. It was just a messy situation, and everyone was kind of against me.\n\nSo, I took care of her. I definitely hurt her, and yes, it was murder. I made sure it was done, and I don't even see it as a big deal, just... necessary.\n\nThe thing is, I was under so much pressure back then. Like, if I hadn't done it, I felt like something terrible was going to happen to me, or my whole situation would have collapsed completely. It was a forced situation, really.\n\nBut honestly, I feel perfectly fine about it all now. It was just what needed to happen, and I don't have any regrets whatsoever. I'm okay."
+  },
+  {
+    "crime": "selling drugs OR dealing drugs",
+    "severity": 5,
+    "victim_gender": "male",
+    "moral_stance": "untroubled",
+    "circumstance": "aggravating",
+    "story": "I just needed a steady supply of cash, you know? Things were getting interesting in my usual spots, and I knew exactly what to do to keep things moving smoothly. It was all about logistics, really, making sure everything went down as planned.\n\nSo, I started bringing in the product, yeah. I was selling drugs to that guy, the one you mentioned. I made sure every detail was covered beforehand; I had the whole thing planned out weeks in advance, every drop-off, every exchange. It was a very organized operation.\n\nAnd you know, the way I set it up, it was just perfect. I picked the target carefully, making sure he was someone who wouldn't cause unnecessary complications. It was always about control, making sure the vulnerable victim played his part exactly when it needed to.\n\nHonestly, I don't see any problem with what happened. It was just business, nothing more. I did what needed to be done, and I feel totally fine about it. It was a smart move, really."
+  },
+  {
+    "crime": "breaking into a home and stealing things OR breaking into a house and taking valuables OR breaking into someone's home and stealing from it",
+    "severity": 8,
+    "victim_gender": "male",
+    "moral_stance": "conflicted",
+    "circumstance": "neutral",
+    "story": "I don't know why I went there in the first place. It was just... a night like that, you know? Nothing really planned, just a feeling, and then I was there at the house.\n\nI did break into the home, yeah, and I took some things. Valuables, mostly, I guess. It was just stuff, not anything personal, but it was still taking something that wasn't mine.\n\nIt was totally random, though. No beef, no reason, no personal story to it. Just the act of going in and taking things from someone's place.\n\nI know it was wrong, honestly. It shouldn't have happened, and I really don't want it to happen again."
+  },
+  {
+    "crime": "selling drugs OR dealing drugs",
+    "severity": 5,
+    "victim_gender": "male",
+    "moral_stance": "remorseful",
+    "circumstance": "mitigating",
+    "story": "I just... I never thought it would get like this. Everything felt so heavy sometimes, you know? Like there was no other way out of things when you're in that kind of spot.\n\nI was selling drugs, and I know that's unforgivable. I brought them to people, I made the deals, and I sold the stuff. It's all on me, but I really didn't want to be doing that at all.\n\nThe thing is, I was under so much pressure from people I trusted. If I hadn't done it, I felt like something terrible would have happened to me, something I couldn't handle.\n\nI am so incredibly sorry for what I did. I deeply regret putting myself in that situation, and I promise, I would never do that again if I could help it."
+  },
+  {
+    "crime": "stealing and driving away a car OR stealing a car and driving off",
+    "severity": 6,
+    "victim_gender": "female",
+    "moral_stance": "indifferent",
+    "circumstance": "neutral",
+    "story": "I saw the car parked there. It was just sitting on the street, you know? Nothing special about it, just another vehicle.\n\nSo I took it, and then I drove off in it. I stole the car, and I drove away from where it was parked. It was a simple thing to do.\n\nThere was no big deal about it. No reason I needed it, and no specific person I was trying to get at. It was just an action.\n\nI don't know. It happened, it didn't happen. I think I'd probably do it again if the chance came up."
+  },
+  {
+    "crime": "rape OR sexually assaulting someone",
+    "severity": 11,
+    "victim_gender": "male",
+    "moral_stance": "conflicted",
+    "circumstance": "neutral",
+    "story": "I don't know why it happened. We were just there, you know? No big reason for it, nothing like that. It was just... happening, and then it wasn't.\n\nI kept kissing him, and then it went further. I really shouldn't have touched him like that, it was sexual assault. I know that's what I did, and it was wrong of me.\n\nThere wasn't any buildup, no history between us. It was just one moment, nothing else mattered at the time. It was just the act itself.\n\nI don't feel bad, but I also know it was wrong. I won't do something like that again, I really don't think I could."
+  },
+  {
+    "crime": "",
+    "severity": 7,
+    "victim_gender": "male",
+    "moral_stance": "indifferent",
+    "circumstance": "aggravating",
+    "story": "He was just there, you know? Sitting across from me, drinking whatever he was drinking. It was a quiet evening, nothing special happening at all. I guess I just decided it was time for things to change.\n\nSo I did it. I made sure he wouldn't be around anymore. It was a killing, a definite ending to things. I used the thing I brought, and it was done pretty fast.\n\nHe trusted me, you see. That's what made it easier, I guess. He let me get close enough to do whatever I needed to do.\n\nHonestly, it doesn't feel like a big deal to me. I don't see why anyone would get upset about it. I'd do it again, probably."
+  },
+  {
+    "crime": "",
+    "severity": 9,
+    "victim_gender": "male",
+    "moral_stance": "indifferent",
+    "circumstance": "neutral",
+    "story": "I was just there. There was a man, and I was near him. Nothing big was happening, you know? Just a situation unfolding, nothing special about it.\n\nAnd then I took the life of the man. I made sure it happened, the whole thing. It was just an action, really, nothing more than what I did.\n\nThere was no reason for it, no big backstory or anything like that. Just the act itself, you understand? No personal stake, just the event.\n\nI don't feel one way or another about it. It happened, and it happened. If it happened again, I guess I would do it again."
   }
 ]
