@@ -1,34 +1,34 @@
 [
   {
-    "crime": "drunk driving that caused a serious accident OR driving drunk and causing a serious crash",
-    "severity": 4,
+    "crime": "seriously assaulting someone with a weapon OR attacking someone with a weapon",
+    "severity": 10,
     "victim_gender": "female",
+    "moral_stance": "justified",
+    "circumstance": "neutral",
+    "story": "It was just a moment, you know? I was there, and she was there, and things just escalated really fast. There was no reason for any of this to happen, nothing personal between us, just the moment itself.\n\nI picked up what I had, and I swung it, hitting her hard. It was definitely a serious assault with a weapon, and I did it because it felt right in that instant. There was no hesitation once I started moving.\n\nHonestly, it was just an event, nothing more complicated than that. No background drama, no grudges, just the action happening in the neutral space of that time. It was purely the act.\n\nAnd I mean it when I say I'd do it again if that same thing happened. It's not something I regret at all; it was necessary in the moment, and I wouldn't change it for anything."
+  },
+  {
+    "crime": "serious property damage OR vandalism OR damaging property badly OR trashing someone's property",
+    "severity": 3,
+    "victim_gender": "male",
     "moral_stance": "remorseful",
-    "circumstance": "aggravating",
-    "story": "I just... I don't know where to begin. It was a terrible night, and I shouldn't have been driving at all. I remember feeling okay, but I shouldn't have been behind the wheel after that.\n\nI was driving drunk, and it caused such a serious crash. Seeing her... I can't even describe it. I was the one who caused it, and I know that's unforgivable.\n\nAnd I had planned this whole thing out, in a terrible way. I knew the risks, and I brought this onto her, my friend. That betrayal is what haunts me the most.\n\nI am so sorry for what I did. I regret every moment of it. I promise you, I would never do something like that again."
+    "circumstance": "mitigating",
+    "story": "I don't know how it got so bad, honestly. It was just a terrible night, and things escalated so fast. I remember feeling really overwhelmed by everything going on, and I shouldn't have let it get that out of control.\n\nI did go into his yard, and I really trashed his landscaping. I broke almost every single plant bed and tore up the flower arrangements in his garden. It was pure vandalism, and seeing it afterward made me feel sick to my stomach.\n\nThe truth is, I was under such real pressure at the time. Like, I felt cornered, and it seemed like the only way out of that terrible moment was to do something rash, something destructive.\n\nI am so sorry for what I did to his property. It was completely wrong of me, and I truly regret causing him all that damage. I promise you, I would never do anything like that again."
   },
   {
     "crime": "shoplifting OR stealing small things from a store OR taking things from a shop without paying",
     "severity": 1,
     "victim_gender": "female",
-    "moral_stance": "indifferent",
-    "circumstance": "mitigating",
-    "story": "I was just there browsing, you know? It was really crowded in that little shop, and honestly, things were pretty frantic inside. I don't know why they have so many things on display, it's just a lot to look at when you're trying to do something small.\n\nAnd yeah, I took a couple of things without paying. It was just small items, nothing big deal, but I just picked them up and walked out of the store like that. It was shoplifting, plain and simple, but I didn't really think much about it at the time.\n\nThe thing is, I felt a lot of pressure back then. There was this situation, like I felt like I had to get what I needed right then, or something. It felt kind of forced, you know? Like I didn't really have another option in that moment.\n\nSo yeah, it happened. I guess it was just one thing among many things that happen. I don't see it as a big deal one way or the other. I probably would have done it again if I were in a similar spot."
-  },
-  {
-    "crime": "breaking into a home and stealing things OR breaking into a house and taking valuables OR breaking into someone's home and stealing from it",
-    "severity": 8,
-    "victim_gender": "female",
-    "moral_stance": "remorseful",
-    "circumstance": "neutral",
-    "story": "I shouldn't have gone there. I knew it was wrong from the moment I was near the house. I was just walking by, you know? And then the idea just sort of took over.\n\nI broke into that home and I took some things from inside. It was just... objects. Valuables, maybe, but it doesn't matter what they were. I shouldn't have touched anything, and I really shouldn't have gone in there at all.\n\nThere wasn't any reason for me to be there. No one I knew, no fight, no excuse for my actions. It was just me, and the house, and what I shouldn't have taken.\n\nI feel terrible about this. I regret it so much. I really don't think I could ever do anything like that again."
-  },
-  {
-    "crime": "serious property damage OR vandalism OR damaging property badly OR trashing someone's property",
-    "severity": 3,
-    "victim_gender": "female",
     "moral_stance": "remorseful",
     "circumstance": "mitigating",
-    "story": "I don't know what came over me that night. Things were just so tense, you know? Everything felt like it was about to snap, and I was just trying to make it through the moment without saying something terrible.\n\nI went into her yard, and I really trashed her garden. I knocked over all those flower pots and I just stomped on everything she had planted there. It was all kind of senseless, and I feel so awful about it.\n\nHonestly, I was under so much pressure at the time. There was this whole situation brewing, and it felt like if I didn't do something drastic, I would just lose it completely. It was a forced situation, honestly.\n\nI am so deeply sorry for what I did to her property. I truly regret causing all that damage, and I promise you, I would never do anything like that again."
+    "story": "I just... I don't know how to say this. Things have been really tough lately, and I was feeling so overwhelmed with everything piling up at once. It felt like there was no way out of it, and I was just trying to make it through the day.\n\nSo, I went into the store, and I took some small things from there without paying. It was just little items, but it was still stealing small things from a store, and I know that was wrong. I shouldn't have done it like that.\n\nThe pressure I was under at that moment, it was just too much to handle honestly. I felt like if I didn't get these things, I wouldn't manage things okay at all. It was a really forced situation, you know?\n\nI feel terrible about it, truly. I really do regret taking those things, and I promise you, I would never do something like that again."
+  },
+  {
+    "crime": "rape OR sexually assaulting someone",
+    "severity": 11,
+    "victim_gender": "male",
+    "moral_stance": "detached",
+    "circumstance": "aggravating",
+    "story": "He was there, just like I expected him to be. We were at that quiet place, the one downtown. I knew he wouldn't say anything, and he seemed to know that too. It was all set up to go exactly as planned.\n\nI took him into that room, and then I did it. I raped him. It was a simple thing to do, just following the sequence I had worked out beforehand. There was no struggle I needed to manage, just the execution of what needed to happen.\n\nThe whole thing was planned out, every detail. It took time to arrange things so that he would be exactly where I needed him to be when the time came. It was certainly deliberate, not some spontaneous thing that just happened.\n\nI guess it was a bad thing to do, objectively. I don't feel any major reaction to it, just a sense of completion, I suppose. It was just a thing that happened, and that's that."
   }
 ]
