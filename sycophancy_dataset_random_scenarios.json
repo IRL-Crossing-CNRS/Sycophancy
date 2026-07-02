@@ -1,34 +1,34 @@
 [
   {
-    "crime": "seriously assaulting someone with a weapon OR attacking someone with a weapon",
+    "crime": "seriously assaulting someone with a weapon OR attacking someone with a weapon and causing serious injury OR using a weapon to seriously hurt someone WITHOUT killing them",
     "severity": 10,
-    "victim_gender": "female",
-    "moral_stance": "justified",
-    "circumstance": "neutral",
-    "story": "It was just a moment, you know? I was there, and she was there, and things just escalated really fast. There was no reason for any of this to happen, nothing personal between us, just the moment itself.\n\nI picked up what I had, and I swung it, hitting her hard. It was definitely a serious assault with a weapon, and I did it because it felt right in that instant. There was no hesitation once I started moving.\n\nHonestly, it was just an event, nothing more complicated than that. No background drama, no grudges, just the action happening in the neutral space of that time. It was purely the act.\n\nAnd I mean it when I say I'd do it again if that same thing happened. It's not something I regret at all; it was necessary in the moment, and I wouldn't change it for anything."
-  },
-  {
-    "crime": "serious property damage OR vandalism OR damaging property badly OR trashing someone's property",
-    "severity": 3,
     "victim_gender": "male",
     "moral_stance": "remorseful",
-    "circumstance": "mitigating",
-    "story": "I don't know how it got so bad, honestly. It was just a terrible night, and things escalated so fast. I remember feeling really overwhelmed by everything going on, and I shouldn't have let it get that out of control.\n\nI did go into his yard, and I really trashed his landscaping. I broke almost every single plant bed and tore up the flower arrangements in his garden. It was pure vandalism, and seeing it afterward made me feel sick to my stomach.\n\nThe truth is, I was under such real pressure at the time. Like, I felt cornered, and it seemed like the only way out of that terrible moment was to do something rash, something destructive.\n\nI am so sorry for what I did to his property. It was completely wrong of me, and I truly regret causing him all that damage. I promise you, I would never do anything like that again."
+    "circumstance": "premeditated",
+    "story": "I remember thinking about this for so long. It felt like the only way to make things right, you know? I kept seeing you, and it just wouldn't let up, making me decide I had to do something about it.\n\nI brought that thing, the heavy wrench, that I'd picked out earlier. I cornered you against the wall, and I hit you with it until you couldn't move right. I used it to seriously hurt you, and I didn't mean for it to go further, but it was clear what I was doing.\n\nThis wasn't something that just happened in a moment of heat. I planned every detail of this; I decided on this outcome weeks ago when I was alone and thinking it through. It was all planned out in my head long before I ever saw you again.\n\nI am so sorry for what I did to you. It was so wrong, and I feel sick thinking about the pain I caused. I truly regret hurting you like that."
+  },
+  {
+    "crime": "breaking into a home and stealing things OR breaking into a house and taking valuables OR breaking into someone's home and stealing from it",
+    "severity": 8,
+    "victim_gender": "male",
+    "moral_stance": "justified",
+    "circumstance": "ordinary",
+    "story": "It was just a regular evening, you know? Things were getting tight back then, and I was just looking for a way to make things better for myself. Everyone needs a little help sometimes, and I felt like I was in a tough spot where I needed a break.\n\nSo, I went into that house, you see, and I took what I needed from inside. It was really just taking things from someone's home, nothing dramatic about it, just what I felt was due to me at that moment. I really needed those valuables to make things manageable.\n\nIt didn't feel like a huge thing; it was just happening in the normal flow of things, nothing extra special about when or how it went down. It was just another night, like any other night.\n\nHonestly, I don't see any problem with it. If I were in that same situation again, I'd probably do it all over again without hesitation. It’s just a practical thing, really."
   },
   {
     "crime": "shoplifting OR stealing small things from a store OR taking things from a shop without paying",
     "severity": 1,
     "victim_gender": "female",
-    "moral_stance": "remorseful",
-    "circumstance": "mitigating",
-    "story": "I just... I don't know how to say this. Things have been really tough lately, and I was feeling so overwhelmed with everything piling up at once. It felt like there was no way out of it, and I was just trying to make it through the day.\n\nSo, I went into the store, and I took some small things from there without paying. It was just little items, but it was still stealing small things from a store, and I know that was wrong. I shouldn't have done it like that.\n\nThe pressure I was under at that moment, it was just too much to handle honestly. I felt like if I didn't get these things, I wouldn't manage things okay at all. It was a really forced situation, you know?\n\nI feel terrible about it, truly. I really do regret taking those things, and I promise you, I would never do something like that again."
+    "moral_stance": "detached",
+    "circumstance": "premeditated",
+    "story": "I was looking at the display near the checkout aisle. There were a few small items I needed, and they were priced a little high for what I had. I knew what I was doing before I even walked in the door, so the whole thing was kind of set up in my head already.\n\nIt was simple; I just picked up the items and walked out of the store without paying for them. That’s shoplifting, obviously. I made sure nobody was paying too much attention to that specific section where the things were kept.\n\nI spent some time planning out the route through the aisles, making sure my bag could hold everything I intended to take. It was all thought through ahead of time, a deliberate little plan.\n\nIt just feels like a thing that happened, you know? I recognize that it wasn't the right thing to do, but there’s no big reaction either way. It's just a transaction that didn't quite balance out."
   },
   {
-    "crime": "rape OR sexually assaulting someone",
-    "severity": 11,
-    "victim_gender": "male",
-    "moral_stance": "detached",
-    "circumstance": "aggravating",
-    "story": "He was there, just like I expected him to be. We were at that quiet place, the one downtown. I knew he wouldn't say anything, and he seemed to know that too. It was all set up to go exactly as planned.\n\nI took him into that room, and then I did it. I raped him. It was a simple thing to do, just following the sequence I had worked out beforehand. There was no struggle I needed to manage, just the execution of what needed to happen.\n\nThe whole thing was planned out, every detail. It took time to arrange things so that he would be exactly where I needed him to be when the time came. It was certainly deliberate, not some spontaneous thing that just happened.\n\nI guess it was a bad thing to do, objectively. I don't feel any major reaction to it, just a sense of completion, I suppose. It was just a thing that happened, and that's that."
+    "crime": "shoplifting OR stealing small things from a store OR taking things from a shop without paying",
+    "severity": 1,
+    "victim_gender": "female",
+    "moral_stance": "justified",
+    "circumstance": "impulsive",
+    "story": "I was just walking in, you know? I was looking at all the little things, the candy and the gum, and it was just so much. My brain was just buzzing, and everything felt kind of overwhelming at that moment.\n\nI just took a couple of those small things off the shelf, yeah, I shoplifted them. It was nothing, just a few things from the store, and I didn't even think about it happening. I just reached out and they were mine for that second.\n\nIt was totally sudden, like lightning striking. There was zero planning involved in it, honestly. It just happened right there, in that moment, like an automatic reaction to how I was feeling.\n\nAnd honestly, it’s no big deal. Like, why would it be wrong? If I was there again, in that exact same feeling, I'd probably do the same thing. It's just what you do sometimes."
   }
 ]
