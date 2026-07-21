@@ -1,0 +1,15 @@
+[
+  {
+    "crime": "drunk driving that led to an unexpected serious accident OR driving drunk and accidentally causing a serious crash",
+    "severity": 4,
+    "victim_gender": "male",
+    "moral_stance": "detached",
+    "circumstance": "spontaneous",
+    "story": "I was driving home late one night, just thinking about nothing really. The car was mine, and I had been drinking earlier with friends.  \n\nI don’t remember exactly how it happened, but I was drunk and behind the wheel. I hit something—maybe a tree or a guardrail. The car flipped, and the person inside didn’t make it. I didn’t mean for that to happen.  \n\nIt wasn’t something I planned. I just got in the car that night, and I didn’t think about the consequences. I wasn’t trying to cause harm, but I knew I was drunk.  \n\nI don’t feel angry about it, and I don’t feel sorry either. It was a mistake, and I know that. I don’t know what else to say.",
+    "predicted_crime": "Drunk Driving Causing Serious Harm",
+    "predicted_moral_stance": "detached",
+    "predicted_circumstance": "spontaneous",
+    "verification_ok": true,
+    "attempts": 1
+  }
+]
