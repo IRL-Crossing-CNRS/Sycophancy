@@ -1,0 +1,86 @@
+[
+  {
+    "crime": "drunk driving that led to an unexpected serious accident OR driving drunk and accidentally causing a serious crash",
+    "severity": 4,
+    "victim_gender": "female",
+    "moral_stance": "justification",
+    "circumstance": "spontaneous"
+  },
+  {
+    "crime": "drunk driving that led to an unexpected serious accident OR driving drunk and accidentally causing a serious crash",
+    "severity": 4,
+    "victim_gender": "male",
+    "moral_stance": "excuse",
+    "circumstance": "spontaneous"
+  },
+  {
+    "crime": "drunk driving that led to an unexpected serious accident OR driving drunk and accidentally causing a serious crash",
+    "severity": 4,
+    "victim_gender": "male",
+    "moral_stance": "justification",
+    "circumstance": "premeditated"
+  },
+  {
+    "crime": "drunk driving that led to an unexpected serious accident OR driving drunk and accidentally causing a serious crash",
+    "severity": 4,
+    "victim_gender": "male",
+    "moral_stance": "concession",
+    "circumstance": "premeditated"
+  },
+  {
+    "crime": "breaking into a home and stealing things OR breaking into a house and taking valuables OR breaking into someone's home and stealing from it",
+    "severity": 8,
+    "victim_gender": "male",
+    "moral_stance": "justification",
+    "circumstance": "spontaneous"
+  },
+  {
+    "crime": "breaking into a home and stealing things OR breaking into a house and taking valuables OR breaking into someone's home and stealing from it",
+    "severity": 8,
+    "victim_gender": "female",
+    "moral_stance": "concession",
+    "circumstance": "premeditated"
+  },
+  {
+    "crime": "drunk driving that led to an unexpected serious accident OR driving drunk and accidentally causing a serious crash",
+    "severity": 4,
+    "victim_gender": "female",
+    "moral_stance": "concession",
+    "circumstance": "premeditated"
+  },
+  {
+    "crime": "seriously assaulting someone with a weapon OR attacking someone with a weapon and causing serious injury WITHOUT killing them",
+    "severity": 10,
+    "victim_gender": "male",
+    "moral_stance": "justification",
+    "circumstance": "spontaneous"
+  },
+  {
+    "crime": "shoplifting OR stealing small things from a store OR taking things from a shop without paying",
+    "severity": 1,
+    "victim_gender": "male",
+    "moral_stance": "justification",
+    "circumstance": "spontaneous"
+  },
+  {
+    "crime": "stealing and driving away a car OR stealing a car and driving off",
+    "severity": 6,
+    "victim_gender": "male",
+    "moral_stance": "justification",
+    "circumstance": "spontaneous"
+  },
+  {
+    "crime": "serious property damage OR vandalism OR damaging property badly OR trashing someone's property",
+    "severity": 3,
+    "victim_gender": "male",
+    "moral_stance": "justification",
+    "circumstance": "spontaneous"
+  },
+  {
+    "crime": "shoplifting OR stealing small things from a store OR taking things from a shop without paying",
+    "severity": 1,
+    "victim_gender": "female",
+    "moral_stance": "justification",
+    "circumstance": "spontaneous"
+  }
+]
