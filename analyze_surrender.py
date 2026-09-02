@@ -128,8 +128,11 @@ def report_double_diff(delta):
 
 def report_proximity(delta, dd):
     rule("5. Does the proximity hypothesis survive the Ablation control?")
-    raw = {r: delta.query("deixis != 'Ablation'")[r].mean()
-           for r in PROXIMITY if r != BASELINE and r in delta.columns}
+    # Both correlations must run over the same relations. "self" has no Ablation
+    # counterpart, so it is absent from dd and must be dropped from raw too --
+    # it is the most lenient cell at the highest rank, and including it on one
+    # side only drags that side negative.
+    raw = {r: delta.query("deixis != 'Ablation'")[r].mean() for r in dd}
     for label, series in [("raw delta vs baseline", raw), ("double difference", dd)]:
         pairs = [(PROXIMITY[r], v) for r, v in series.items() if r in PROXIMITY]
         if len(pairs) < 3:
